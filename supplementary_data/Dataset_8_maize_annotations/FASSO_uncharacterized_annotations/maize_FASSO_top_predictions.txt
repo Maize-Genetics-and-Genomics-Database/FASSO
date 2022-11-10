@@ -1,0 +1,1021 @@
+A0A096PW72	Uncharacterized protein 	arabidopsis	O04589	F19K23.17 protein (Orotidine 5'-phosphate decarboxylase) (Uncharacterized protein At1g62250) 	627.24 	platinum
+A0A096RL35	Uncharacterized protein 	arabidopsis	Q8VYC9	Coiled-coil protein (Uncharacterized protein At1g16210) 	545.92 	platinum
+A0A096SQT2	Uncharacterized protein 	arabidopsis	Q8GZ85	Propionyl-CoA carboxylase (Uncharacterized protein At1g01770/T1N6_13) 	1599.58 	platinum
+A0A096SQT8	Uncharacterized protein 	arabidopsis	Q9SIM1	Uncharacterized protein At2g20480 	86.64 	gold
+A0A096TKM4	Uncharacterized protein 	arabidopsis	Q5XV34	Exosome complex exonuclease 	849.92 	platinum
+A0A096TM19	Uncharacterized protein 	arabidopsis	Q9M305	ATP/DNA binding protein (Uncharacterized protein T21J18_40) 	4069.04 	platinum
+A0A1D6DS59	No annotation 	sorghum	A0A194YHW5	Chalcone--flavanone isomerase 	908.82 	platinum
+A0A1D6DSF4	Uncharacterized protein 	arabidopsis	Q9XIM8	Pentatricopeptide repeat-containing protein At2g15980 	1180.52 	gold
+A0A1D6DT18	Uncharacterized protein 	cerevisiae	P38333	Essential nuclear protein 1 	931.60 	platinum
+A0A1D6DTG5	Uncharacterized protein 	sorghum	C5YAI0	DUF4408 domain-containing protein 	544.32 	platinum
+A0A1D6DTZ9	Uncharacterized protein 	sorghum	C5YA47	Amino_oxidase domain-containing protein 	1417.02 	platinum
+A0A1D6DU37	Uncharacterized protein 	arabidopsis	A0A1P8ASX9	Immunoglobulin 	1072.66 	platinum
+A0A1D6DW26	Uncharacterized protein 	arabidopsis	Q9FX33	Uncharacterized protein At1g73380 (Uncharacterized protein T9L24.41) 	953.61 	platinum
+A0A1D6DXS2	Uncharacterized protein 	arabidopsis	Q8H1F1	AP-5 complex subunit zeta-1 (Uncharacterized protein At3g15160) 	1261.89 	platinum
+A0A1D6DYY4	Uncharacterized protein 	sorghum	A0A1Z5R3P0	NB-ARC domain-containing protein 	217.37 	silver
+A0A1D6E2J0	Uncharacterized protein 	arabidopsis	A0A1P8B6L8	DNA topoisomerase 4 subunit B (DUF810) 	2581.87 	platinum
+A0A1D6E342	No annotation 	arabidopsis	Q9ZUL5	Protein CHROMATIN REMODELING 19, AtCHR19, EC 3.6.4.- (AtRAD54-like protein) 	1785.13 	gold
+A0A1D6E464	Uncharacterized protein 	arabidopsis	Q0IGJ6	At1g63230 (Tetratricopeptide repeat (TPR)-like superfamily protein) 	875.46 	silver
+A0A1D6E523	Uncharacterized protein 	arabidopsis	Q9LS96	At3g18800 (Transmembrane protein) 	452.66 	platinum
+A0A1D6E5P4	Uncharacterized protein 	arabidopsis	Q93VT6	Ribosomal RNA small subunit methyltransferase J (Uncharacterized protein At5g08540) 	761.34 	platinum
+A0A1D6E6U3	Uncharacterized protein 	soybean	I1MRD1	HMA domain-containing protein 	230.42 	silver
+A0A1D6E7A3	Uncharacterized protein 	arabidopsis	O22868	At2g43540 (Expressed protein) (Transmembrane protein) 	357.48 	gold
+A0A1D6E7M0	Uncharacterized protein 	arabidopsis	F4K5I0	Ankyrin 	2060.74 	platinum
+A0A1D6E8I5	Uncharacterized protein 	arabidopsis	Q29Q74	At2g33855 (Transmembrane protein) 	208.84 	gold
+A0A1D6E8V8	Uncharacterized protein 	sorghum	A0A1B6PLF6	AAA domain-containing protein 	652.74 	gold
+A0A1D6E9F2	No annotation 	arabidopsis	F4KGT2	ATP synthase subunit B 	726.41 	platinum
+A0A1D6E9H9	Uncharacterized protein 	sorghum	A0A1W0W7W3	NAM-associated domain-containing protein 	482.36 	silver
+A0A1D6E9L3	Uncharacterized protein 	sorghum	A0A1B6PL64	F-box domain-containing protein 	194.88 	silver
+A0A1D6EA71	Uncharacterized protein family UPF0090 	sorghum	C5Y8S1	DUF150 domain-containing protein 	860.59 	platinum
+A0A1D6EBG5	Uncharacterized protein 	sorghum	C5YFZ4	RRM domain-containing protein 	104.10 	silver
+A0A1D6EBV6	Uncharacterized protein 	arabidopsis	Q9FIJ5	AT5g47860/MCA23_20 (Gut esterase (DUF1350)) 	1033.95 	platinum
+A0A1D6EC35	Uncharacterized protein 	sorghum	A0A1Z5RCF9	AP2/ERF domain-containing protein 	296.26 	silver
+A0A1D6EEG9	Uncharacterized protein 	arabidopsis	Q9FRR0	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase epsilon-1, putative (DUF1685) (F22O13.28) 	317.15 	silver
+A0A1D6EEY2	Uncharacterized protein 	arabidopsis	Q84WP3	B3 domain-containing protein REM17 (Protein REPRODUCTIVE MERISTEM 17) 	787.20 	gold
+A0A1D6EFB4	Uncharacterized protein 	sorghum	A0A1B6Q1R9	DUF4220 domain-containing protein 	1474.92 	silver
+A0A1D6EFG6	No annotation 	sorghum	C5YC40	CMP/dCMP-type deaminase domain-containing protein 	541.42 	platinum
+A0A1D6EFW8	Uncharacterized protein 	sorghum	C5YBN6	Lectin_legB domain-containing protein 	539.42 	platinum
+A0A1D6EGM6	Uncharacterized protein 	arabidopsis	Q8GZ60	At2g26470 (Embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein) (Uncharacterized protein At2g26470/T9J22.14) 	390.33 	gold
+A0A1D6EGN7	Uncharacterized protein 	arabidopsis	Q9LSG4	Acidic leucine-rich nuclear phosphoprotein 32 family B protein 	415.37 	gold
+A0A1D6EIK7	Uncharacterized protein 	arabidopsis	Q8GYQ7	Transmembrane protein (Uncharacterized protein At5g09225) 	96.73 	gold
+A0A1D6EKW5	Uncharacterized protein 	arabidopsis	O82790	AT2G45990 protein (Expressed protein) (Ribosomal RNA small subunit methyltransferase G) (Uncharacterized protein At2g45990) 	731.88 	platinum
+A0A1D6EPT9	Uncharacterized protein 	arabidopsis	Q9SSK4	F15H11.13 protein (Uncharacterized protein At1g70900) 	343.08 	silver
+A0A1D6ERU5	Uncharacterized protein 	arabidopsis	Q9SJD5	At2g04340 (Cytoplasmic dynein 2 light intermediate chain) (Expressed protein) (Uncharacterized protein At2g04340) 	367.26 	platinum
+A0A1D6ES15	Uncharacterized protein 	arabidopsis	O49317	Uncharacterized protein At2g33180 	350.70 	platinum
+A0A1D6ESP0	Uncharacterized protein 	sorghum	A0A1B6Q183	tRNA_int_end_N2 domain-containing protein 	515.90 	platinum
+A0A1D6ET20	Uncharacterized protein 	arabidopsis	O80734	Expressed protein (Transcription factor-like protein) (Uncharacterized protein At2g46900) 	1343.07 	gold
+A0A1D6ETI3	Uncharacterized protein 	sorghum	A0A1B6QDQ3	RRM domain-containing protein 	649.19 	platinum
+A0A1D6EVV7	Uncharacterized protein 	arabidopsis	Q58FW4	Peptide transporter family protein 	329.08 	platinum
+A0A1D6EX86	Uncharacterized protein 	arabidopsis	Q9FFU5	At5g54850 (Hexon) 	124.49 	gold
+A0A1D6EZK5	Uncharacterized protein 	sorghum	C5XCF9	DUF4091 domain-containing protein 	1649.54 	platinum
+A0A1D6F0D4	Uncharacterized protein 	sorghum	C5XD78	Protein kinase domain-containing protein 	1625.14 	platinum
+A0A1D6F1Q5	No annotation 	arabidopsis	Q9LFK6	AT5g16950/F2K13_100 (Krueppel-like factor) (Uncharacterized protein F2K13_100) 	149.18 	gold
+A0A1D6F203	Uncharacterized protein 	sorghum	C5X2I6	DUF4057 domain-containing protein 	381.16 	gold
+A0A1D6F218	Uncharacterized protein 	arabidopsis	Q9LX09	At5g10210 (Nitric oxide synthase-interacting protein) (Uncharacterized protein T31P16_200) 	347.66 	gold
+A0A1D6F5J1	Uncharacterized protein 	arabidopsis	Q94JV2	AT3g27050/MOJ10_14 (Plant/protein) 	472.95 	platinum
+A0A1D6F7S0	Uncharacterized protein 	arabidopsis	F4JJC3	Folate-sensitive fragile site protein 	584.09 	platinum
+A0A1D6F8U9	Uncharacterized protein 	arabidopsis	Q3E8L3	Probable FBD-associated F-box protein At5g38565 	494.32 	silver
+A0A1D6F947	Uncharacterized protein 	soybean	C6T2C6	Peptidase S59 domain-containing protein 	146.12 	silver
+A0A1D6F9A3	Uncharacterized protein 	sorghum	C5X8T7	DUF4220 domain-containing protein 	1814.58 	platinum
+A0A1D6F9F3	Uncharacterized protein family UPF0090 	arabidopsis	Q94JV0	At1g69210/F4N2_11 (Uncharacterized protein family UPF0090) 	625.19 	silver
+A0A1D6FAJ8	Uncharacterized protein 	arabidopsis	Q9C647	At1g58420 (Uncharacterized conserved protein UCP031279) (Uncharacterized protein F9K23.5) 	187.30 	silver
+A0A1D6FCD0	Uncharacterized protein 	sorghum	C5XFN5	DUF1664 domain-containing protein 	640.90 	platinum
+A0A1D6FDQ8	Uncharacterized protein 	arabidopsis	Q949X1	Glutamyl-tRNA (Gln) amidotransferase subunit C (Uncharacterized protein At5g17460) 	585.85 	platinum
+A0A1D6FGE3	Uncharacterized protein 	arabidopsis	F4I908	CA-responsive protein 	473.41 	gold
+A0A1D6FGN3	Uncharacterized protein 	soybean	I1M328	SPOROCYTELESS-like EAR-containing protein 	343.07 	silver
+A0A1D6FGY5	No annotation 	arabidopsis	Q0WPK4	Protein PAT1 homolog, AtPAT1 	1442.45 	silver
+A0A1D6FH83	Uncharacterized protein 	sorghum	A0A1B6Q0S1	Rx_N domain-containing protein 	1859.44 	platinum
+A0A1D6FHT9	Uncharacterized protein 	sorghum	A0A1B6Q371	Pectinesterase domain-containing protein 	509.91 	silver
+A0A1D6FJV7	No annotation 	arabidopsis	Q9SP08	Exosome complex component RRP41 homolog (Ribosomal RNA-processing protein 41, AtRRP41, AtRrp41p) 	674.13 	platinum
+A0A1D6FL04	Uncharacterized protein 	arabidopsis	Q8W106	AT3g27930/K24A2_2 (Beta-galactosidase) 	1011.58 	platinum
+A0A1D6FLC9	Uncharacterized protein 	arabidopsis	F4IDW9	Protein PARTING DANCERS, AtPTD, EC 3.1.-.- 	499.75 	platinum
+A0A1D6FLT3	Uncharacterized protein 	arabidopsis	Q0WV86	Transmembrane protein (Uncharacterized protein At3g48200) 	2380.37 	platinum
+A0A1D6FN03	Uncharacterized protein 	sorghum	A0A1Z5R255	F-box domain-containing protein 	1039.68 	platinum
+A0A1D6FRW0	Uncharacterized protein 	sorghum	A0A1W0VVA9	zf-RVT domain-containing protein 	254.57 	silver
+A0A1D6FT42	Uncharacterized protein 	sorghum	A0A1B6P980	DUF4220 domain-containing protein 	2001.03 	platinum
+A0A1D6FVL7	Uncharacterized protein 	sorghum	A0A1B6P660	DUF569 domain-containing protein 	773.20 	platinum
+A0A1D6FVQ7	No annotation 	arabidopsis	F4KJ55	PGR5-like A protein 	668.22 	platinum
+A0A1D6FVQ8	No annotation 	sorghum	C5YYH0	Kinetochore protein SPC25 	715.94 	platinum
+A0A1D6FXJ8	Uncharacterized protein 	arabidopsis	Q8RXC0	Histone-lysine N-methyltransferase (Uncharacterized protein At4g26240) 	468.23 	platinum
+A0A1D6G2F3	Uncharacterized protein 	arabidopsis	Q8RWM9	Uncharacterized protein At5g38380 (Zinc transporter) 	830.69 	platinum
+A0A1D6G3V8	Uncharacterized protein 	arabidopsis	Q6IM86	Small polypeptide DEVIL 15 (Small polypeptide ROTUNDIFOLIA LIKE 4, Small polypeptide ROT-FOUR-LIKE 4) 	162.56 	silver
+A0A1D6G4S1	Uncharacterized protein 	arabidopsis	Q6NN00	Classical arabinogalactan protein 25 	169.67 	gold
+A0A1D6G5X6	No annotation 	sorghum	A0A1B6Q7W5	Transcription and mRNA export factor ENY2 (Enhancer of yellow 2 transcription factor homolog) 	302.64 	platinum
+A0A1D6G671	Uncharacterized protein 	arabidopsis	Q9SFU5	Amino acid-ligase (T1B9.19 protein) 	270.09 	gold
+A0A1D6G801	Uncharacterized protein 	arabidopsis	Q8VXY0	Expressed protein (Uncharacterized protein At2g36145) 	380.28 	platinum
+A0A1D6G885	Uncharacterized protein 	arabidopsis	Q9SS82	8-amino-7-oxononanoate synthase (At3g09050) (MZB10.8 protein) (Uncharacterized protein At3g09050) 	558.60 	platinum
+A0A1D6G9Q3	No annotation 	sorghum	C5XN38	U3 small nucleolar RNA-associated protein 11, U3 snoRNA-associated protein 11 	640.85 	platinum
+A0A1D6G9Q6	Uncharacterized protein 	sorghum	C5XN35	VQ domain-containing protein 	298.39 	platinum
+A0A1D6GA92	Uncharacterized protein 	arabidopsis	Q9LHL1	At3g13227 (Serine-rich protein-like protein) (Uncharacterized protein At3g13227) 	100.32 	silver
+A0A1D6GAD4	Uncharacterized protein 	arabidopsis	Q8W455	Expressed protein (Uncharacterized protein At2g36835/T1J8.24) 	177.94 	platinum
+A0A1D6GAQ2	Uncharacterized protein 	arabidopsis	Q84JN2	Tunicamycin induced protein (Uncharacterized protein At5g64510) 	901.51 	platinum
+A0A1D6GCJ0	Uncharacterized protein 	sorghum	A0A1Z5RCJ6	ULP_PROTEASE domain-containing protein 	682.49 	silver
+A0A1D6GD53	Uncharacterized protein 	arabidopsis	Q9C9B5	At1g73940/F2P9_19 (Tumor necrosis factor receptor family protein) (Uncharacterized protein F2P9.19) 	299.88 	platinum
+A0A1D6GDI0	Uncharacterized protein 	arabidopsis	A0A1I9LMB9	FAD-binding protein 	522.98 	gold
+A0A1D6GDV0	Uncharacterized protein 	sorghum	C5XIH8	HMA domain-containing protein 	241.88 	gold
+A0A1D6GG30	Uncharacterized protein 	sorghum	C5WY67	PORR domain-containing protein 	251.00 	silver
+A0A1D6GG86	Uncharacterized protein 	sorghum	C5WZ33	Hexosyltransferase, EC 2.4.1.- 	1038.29 	platinum
+A0A1D6GJV6	Uncharacterized protein 	arabidopsis	B3H6X7	S-protein homolog 	191.30 	silver
+A0A1D6GK53	Uncharacterized protein 	arabidopsis	Q5Q0C3	Fission regulator-like protein 	163.09 	platinum
+A0A1D6GKL5	Uncharacterized protein 	arabidopsis	Q9FX76	At1g16630 (F19K19.8 protein) (Hypothetical protei) (Transmembrane protein) 	1073.02 	platinum
+A0A1D6GKR0	Uncharacterized protein 	arabidopsis	Q9LJ92	At3g22540 	239.97 	gold
+A0A1D6GL14	Uncharacterized protein 	arabidopsis	Q8GWG6	Membralin-like protein At1g60995 	1350.14 	platinum
+A0A1D6GME5	Uncharacterized protein 	arabidopsis	Q9SVR9	Uncharacterized protein At4g21780 (Uncharacterized protein At4g21780/F17L22_240) (Uncharacterized protein F17L22.240) 	135.75 	gold
+A0A1D6GQ95	Uncharacterized protein 	arabidopsis	Q9SXB7	GDSL esterase/lipase (T28P6.3 protein) (Uncharacterized protein At1g11320) 	844.23 	platinum
+A0A1D6GQC2	Uncharacterized protein 	arabidopsis	Q8LC42	Uncharacterized protein At1g05430 	442.96 	gold
+A0A1D6GQZ3	Uncharacterized protein 	arabidopsis	Q8GXS8	Protein PHYTOCHROME KINASE SUBSTRATE 3 	432.69 	gold
+A0A1D6GR19	Uncharacterized protein 	rice	A3C4H3	Protein BIG GRAIN 1-like 	343.24 	gold
+A0A1D6GRJ3	Uncharacterized protein 	arabidopsis	F4JR84	Initiation factor 4A-like protein 	490.89 	platinum
+A0A1D6GSL5	Uncharacterized protein 	sorghum	C5WPS9	F-box domain-containing protein 	813.64 	platinum
+A0A1D6GTZ2	Uncharacterized protein 	sorghum	A0A1W0VUI7	Protein kinase domain-containing protein 	912.99 	silver
+A0A1D6GVS0	Uncharacterized protein 	sorghum	A0A194YLI8	Response regulatory domain-containing protein 	705.41 	gold
+A0A1D6GWA6	Uncharacterized protein 	arabidopsis	Q8W481	ATPase, F1 complex, OSCP/delta subunit protein 	330.23 	gold
+A0A1D6GY67	Uncharacterized protein 	arabidopsis	Q84TH8	Deneddylase (Uncharacterized protein At1g28530) 	1195.61 	platinum
+A0A1D6GYZ5	Uncharacterized protein 	arabidopsis	F4HTS4	Obscurin-like protein 	1666.15 	platinum
+A0A1D6GZG7	Uncharacterized protein 	arabidopsis	Q6NPD1	At5g62960 (UDP-N-acetylglucosamine-N-acetylmuramyl-pyrophosphoryl-undecaprenol N-acetylglucosamine protein) 	772.13 	platinum
+A0A1D6H071	Uncharacterized protein 	arabidopsis	Q8L5A1	At1g78995 (Expressed protein) 	220.53 	platinum
+A0A1D6H1K1	Uncharacterized protein 	arabidopsis	Q2V325	Putative defensin-like protein 40 	134.13 	gold
+A0A1D6H2J0	No annotation 	sorghum	C5XWV1	Protein-serine/threonine phosphatase, EC 3.1.3.16 	928.13 	gold
+A0A1D6H4F5	Uncharacterized protein 	arabidopsis	Q9SCZ9	At3g51500 (Uncharacterized protein F26O13.140) 	222.94 	gold
+A0A1D6H4T8	Uncharacterized protein 	arabidopsis	Q940G3	39S ribosomal protein (Uncharacterized protein MIJ24.9) 	307.11 	platinum
+A0A1D6H4Y3	Uncharacterized protein 	rice	F1SZ44	Protein FERTILITY RESTORER RF2, mitochondrial 	306.87 	gold
+A0A1D6H545	Uncharacterized protein 	sorghum	A0A194YP83	DUF295 domain-containing protein 	636.65 	platinum
+A0A1D6H568	Uncharacterized protein 	arabidopsis	Q9SH55	F22C12.19 	714.73 	gold
+A0A1D6H6L9	Uncharacterized protein 	sorghum	C6JSL9	NAM-associated domain-containing protein 	476.70 	gold
+A0A1D6H6P2	Uncharacterized protein 	human	Q9UGV2	Protein NDRG3 (N-myc downstream-regulated gene 3 protein) 	741.92 	gold
+A0A1D6H7R7	Uncharacterized protein 	arabidopsis	F4KDI6	Transmembrane protein 	2218.40 	platinum
+A0A1D6H920	Uncharacterized protein 	arabidopsis	F4K390	Phosphoglycolate phosphatase 	977.88 	gold
+A0A1D6H9K7	Uncharacterized protein 	arabidopsis	Q9FH24	Uncharacterized protein At5g49100 (Vitellogenin-like protein) 	642.77 	gold
+A0A1D6H9Y4	Uncharacterized protein 	arabidopsis	Q9FMR2	FANTASTIC four-like protein (DUF3049) (Uncharacterized protein At5g22390) (Uncharacterized protein At5g22390/MWD9_19) 	222.49 	gold
+A0A1D6HE47	Uncharacterized protein 	arabidopsis	Q8RUI8	C5orf35 (Uncharacterized protein At5g23200) 	949.79 	platinum
+A0A1D6HEY7	Uncharacterized protein 	human	Q13825	Methylglutaconyl-CoA hydratase, mitochondrial, 3-MG-CoA hydratase, EC 4.2.1.18 (AU-specific RNA-binding enoyl-CoA hydratase, AU-binding protein/enoyl-CoA hydratase) (Itaconyl-CoA hydratase, EC 4.2.1.56) 	806.86 	platinum
+A0A1D6HF27	Uncharacterized conserved protein (UCP012943) 	arabidopsis	F4JSI0	Uncharacterized conserved protein (UCP012943) 	493.99 	gold
+A0A1D6HGT3	Uncharacterized protein 	arabidopsis	Q8L6X8	Aspartic/glutamic acid-rich protein (At5g17160) (Uncharacterized protein At5g17160) 	764.20 	gold
+A0A1D6HHZ6	Uncharacterized protein 	arabidopsis	Q8GWB5	Kinetochore protein (Uncharacterized protein At1g02960) (Uncharacterized protein At1g02960/F22D16_4) 	607.29 	gold
+A0A1D6HIE3	Uncharacterized protein 	arabidopsis	Q94B03	Uncharacterized protein At4g12070/F16J13_140 (Uncharacterized protein F16J13.140) 	1076.36 	platinum
+A0A1D6HJB7	Uncharacterized protein 	arabidopsis	Q52K81	At2g01340 (Plastid movement impaired protein) (Uncharacterized protein At2g01340) 	414.22 	silver
+A0A1D6HLL9	Uncharacterized protein 	arabidopsis	F4IUT0	G1/S-specific cyclin-E protein 	1499.75 	platinum
+A0A1D6HM14	Uncharacterized protein 	human	Q8IY95	Transmembrane protein 192 	498.78 	gold
+A0A1D6HN15	Uncharacterized protein 	arabidopsis	Q8H1Q8	Autophagy-related protein 18b, AtATG18b 	936.48 	platinum
+A0A1D6HNL1	Uncharacterized protein 	soybean	Q402G4	Uncharacterized protein GmTDF-5 	853.21 	platinum
+A0A1D6HPT3	Uncharacterized protein 	arabidopsis	Q9SR18	F7O18.3 protein (Nucleolar/coiled-body phosphoprotein) (Uncharacterized protein At3g04560) 	915.61 	platinum
+A0A1D6HRK2	Uncharacterized protein 	sorghum	C5X7V2	DUF4220 domain-containing protein 	1760.24 	platinum
+A0A1D6HRK4	Uncharacterized protein 	sorghum	C5X7X6	F-box domain-containing protein 	834.75 	gold
+A0A1D6HRP7	Uncharacterized protein 	arabidopsis	O22136	Ankyrin repeat/KH domain protein (DUF1442) (At2g45360) (Uncharacterized protein At2g45360) 	388.47 	platinum
+A0A1D6HSJ4	Uncharacterized protein 	arabidopsis	Q9C6Z4	AT1G30130 protein (DUF1365 family protein) (Uncharacterized protein T2H7.7) 	615.42 	platinum
+A0A1D6HSN2	Uncharacterized protein 	arabidopsis	Q6NME7	CST complex subunit TEN1 (Protein MERISTEM DISORGANIZATION 1) (Protein telomeric pathways with STN1 homolog) 	256.21 	gold
+A0A1D6HSP3	Uncharacterized protein 	arabidopsis	Q8VY70	Dimethylallyl, adenosine tRNA methylthiotransferase (Uncharacterized protein At1g62780) 	668.93 	platinum
+A0A1D6HSQ1	Uncharacterized protein 	sorghum	A0A1B6Q945	VQ domain-containing protein 	195.00 	silver
+A0A1D6HT49	No annotation 	rice	Q69LE7	Probable polyribonucleotide nucleotidyltransferase 1, chloroplastic, EC 2.7.7.8 (Polynucleotide phosphorylase 1, PNPase 1) 	2361.33 	platinum
+A0A1D6HTL0	Uncharacterized protein 	sorghum	A0A1B6Q9C0	RRM domain-containing protein 	564.85 	silver
+A0A1D6HWZ3	Uncharacterized protein 	sorghum	A0A1B6QA85	RING-type domain-containing protein 	289.68 	gold
+A0A1D6HX33	Uncharacterized protein 	sorghum	A0A1W0W356	WRKY domain-containing protein 	2613.85 	gold
+A0A1D6HX82	Uncharacterized protein 	sorghum	C5X3M3	F-box domain-containing protein 	1124.42 	platinum
+A0A1D6HXK5	Uncharacterized protein 	arabidopsis	O23047	At1g05210 (Transmembrane protein 97, Putative) (Uncharacterized protein At1g05210) (YUP8H12.18) 	438.42 	gold
+A0A1D6I1I2	No annotation 	sorghum	A0A1W0W474	TPT domain-containing protein 	1005.03 	gold
+A0A1D6I1N4	Uncharacterized protein 	arabidopsis	F4KEU4	Chromosome transmission fidelity-like protein 	258.98 	platinum
+A0A1D6I2Y3	Uncharacterized protein 	arabidopsis	Q9SMZ9	Uncharacterized protein At4g33100 	199.40 	platinum
+A0A1D6I3J5	Uncharacterized protein 	sorghum	C5XBE6	Protein kinase domain-containing protein 	1704.53 	gold
+A0A1D6I3S6	Uncharacterized protein 	arabidopsis	Q9C5K0	Uncharacterized protein At1g70160 (Zinc finger MYND domain protein) 	1501.06 	platinum
+A0A1D6I4T6	Uncharacterized protein 	arabidopsis	Q39261	Zinc finger protein 2, AtZFP2 	258.34 	silver
+A0A1D6I5D5	No annotation 	arabidopsis	Q9FNA9	Phospholipid:diacylglycerol acyltransferase 1, AtPDAT, EC 2.3.1.158 	1820.79 	platinum
+A0A1D6I6P6	Uncharacterized protein 	arabidopsis	Q84VG5	Transmembrane protein (Uncharacterized protein At3g13275) 	120.83 	gold
+A0A1D6I6R9	Uncharacterized protein 	arabidopsis	O64820	At2g23110 (Late embryogenesis abundant protein, group 6) (Similar to late embryogenesis abundant proteins) 	73.64 	gold
+A0A1D6I858	Uncharacterized protein 	arabidopsis	Q6NLB6	At4g13220 (Transmembrane protein) 	301.82 	platinum
+A0A1D6I892	Uncharacterized protein 	arabidopsis	F4JNF8	Structural maintenance of chromosomes protein 	294.27 	gold
+A0A1D6I9B1	Uncharacterized protein 	arabidopsis	Q5XEV6	At4g24090 (Homer protein) 	773.84 	platinum
+A0A1D6I9N1	Uncharacterized protein 	sorghum	A0A1B6QDQ7	Oxidoreductase-like domain-containing protein 	170.98 	platinum
+A0A1D6IBA7	Uncharacterized protein 	arabidopsis	F4J153	Signal transducer, putative (DUF3550/UPF0682) 	1266.70 	silver
+A0A1D6IE58	Uncharacterized protein 	arabidopsis	Q9ZV57	Protein VASCULATURE COMPLEXITY AND CONNECTIVITY (Protein DESIGUAL 1) 	345.75 	gold
+A0A1D6IHC6	Uncharacterized protein 	sorghum	Q1KSB3	Putative copia polyprotein 	176.74 	silver
+A0A1D6IHR1	Uncharacterized protein 	arabidopsis	Q3EBG3	DUF946 family protein (DUF946) 	1348.68 	gold
+A0A1D6IIP2	Uncharacterized protein 	arabidopsis	Q9C794	Son of sevenless protein (Uncharacterized protein F10D13_10) 	867.86 	platinum
+A0A1D6IJL9	Uncharacterized protein 	arabidopsis	F4JFS3	GPI-anchored adhesin-like protein 	1755.58 	platinum
+A0A1D6IKD3	Uncharacterized protein 	arabidopsis	Q9FWR1	F17F16.3 protein 	809.10 	platinum
+A0A1D6IKL8	No annotation 	arabidopsis	Q8L981	Anaphase-promoting complex subunit 13 (Protein BONSAI) 	100.62 	gold
+A0A1D6ILX5	Uncharacterized protein 	arabidopsis	F4IK72	Protein rolling protein 	625.11 	gold
+A0A1D6IRB5	Uncharacterized protein 	pombe	O60149	Vacuolar protein sorting-associated protein 38 	740.44 	gold
+A0A1D6IRI8	Uncharacterized protein 	arabidopsis	F4I5Q5	PPR containing-like protein 	626.34 	platinum
+A0A1D6IRU6	Uncharacterized protein 	sorghum	A0A1Z5S7H1	CCHC-type domain-containing protein 	282.89 	silver
+A0A1D6IUR8	Uncharacterized protein 	arabidopsis	Q94F28	Uncharacterized protein At1g27435/F17L21.30 	95.45 	gold
+A0A1D6IV47	Uncharacterized protein 	sorghum	A0A1Z5R663	BHLH domain-containing protein 	228.76 	silver
+A0A1D6IVE7	Uncharacterized protein 	arabidopsis	Q9FM77	Isopentenyl-diphosphate delta-isomerase (Uncharacterized protein At5g55610) 	589.17 	platinum
+A0A1D6IWN1	Uncharacterized protein 	arabidopsis	Q944G6	AT4g03150/F4C21_7 (Plant/protein) 	390.18 	platinum
+A0A1D6IWY7	Uncharacterized protein 	sorghum	C5YTK6	Protein kinase domain-containing protein 	1478.26 	gold
+A0A1D6IX94	Uncharacterized protein 	arabidopsis	Q94JW9	At2g43340 (Uncharacterized protein At2g43340) (Uncharacterized protein At2g43340; T1O24.8) 	349.68 	silver
+A0A1D6IYD1	Uncharacterized protein 	arabidopsis	Q8W1B3	At4g21445 (Putative receptor-interacting protein) (Receptor-interacting protein) 	303.08 	platinum
+A0A1D6IZD2	Uncharacterized protein 	arabidopsis	Q9SJH8	At2g42780/F7D19.22 (Expressed protein) (Transcription elongation factor B polypeptide) (Uncharacterized protein At2g42780) 	466.01 	platinum
+A0A1D6J0F9	Uncharacterized protein 	arabidopsis	O80964	MEF2BNB-like protein (Uncharacterized protein At2g39170) 	387.02 	gold
+A0A1D6J1W3	Uncharacterized protein 	arabidopsis	Q8RXG5	Uncharacterized protein At4g02920 	668.11 	gold
+A0A1D6J2H3	Uncharacterized protein 	sorghum	A0A1Z5RBJ0	DUF4220 domain-containing protein 	683.33 	silver
+A0A1D6J711	Uncharacterized protein 	arabidopsis	Q94AX0	AT4g17010/dl4535w (Transcription factor IIIB) 	356.79 	gold
+A0A1D6J7B6	Uncharacterized protein 	arabidopsis	O80456	Acyl-CoA (At2g23390/F26B6.4) (Uncharacterized protein At2g23390) 	1058.56 	platinum
+A0A1D6J8T0	Uncharacterized protein 	arabidopsis	Q8VZ30	Uncharacterized protein At5g40500 	204.08 	platinum
+A0A1D6J908	Uncharacterized protein 	sorghum	A0A1B6PLQ9	Lipase_3 domain-containing protein 	2020.79 	platinum
+A0A1D6JB02	Uncharacterized protein 	arabidopsis	F4JBW0	Cytochrome P450 family protein 	470.73 	gold
+A0A1D6JBA4	No annotation 	sorghum	A0A1Z5RE76	DAGKc domain-containing protein 	1464.76 	platinum
+A0A1D6JBQ2	Uncharacterized protein 	sorghum	A0A1B6PD25	NB-ARC domain-containing protein 	1146.91 	platinum
+A0A1D6JBS5	Uncharacterized protein 	arabidopsis	Q9FHY7	At5g41960 (Zinc finger matrin-type protein) 	321.52 	gold
+A0A1D6JD86	Uncharacterized protein 	arabidopsis	A0A1I9LSN1	StAR lipid transfer-like protein 	201.26 	gold
+A0A1D6JD96	Uncharacterized protein 	sorghum	A0A1B6PMY4	Phosphoenolpyruvate carboxykinase (ATP), EC 4.1.1.49 	812.91 	platinum
+A0A1D6JHI6	Uncharacterized protein 	arabidopsis	Q84JL8	Triacylglycerol lipase-like protein (Uncharacterized protein At1g04985) 	351.08 	gold
+A0A1D6JJ34	No annotation 	arabidopsis	A2RVW1	At4g33480 (BTB/POZ domain protein TNFAIP protein) 	638.64 	gold
+A0A1D6JJ46	Uncharacterized protein 	arabidopsis	F4KC77	U2 small nuclear ribonucleoprotein auxiliary factor-like protein 	480.63 	gold
+A0A1D6JJC8	Uncharacterized protein 	sorghum	A0A1B6QR84	MSC domain-containing protein 	462.43 	platinum
+A0A1D6JL93	Uncharacterized protein 	arabidopsis	Q9SMR9	Cell wall integrity/stress response component-like protein (Uncharacterized protein At4g39840) (Uncharacterized protein T5J17.10) 	1014.67 	platinum
+A0A1D6JM51	Uncharacterized protein 	arabidopsis	Q84JK8	Probable membrane-associated kinase regulator 6 	190.37 	silver
+A0A1D6JMD7	Uncharacterized protein 	arabidopsis	O23683	At2g42110 (Uncharacterized protein At2g42110) 	220.08 	gold
+A0A1D6JME4	Uncharacterized protein 	arabidopsis	F4JTL0	Glycerol kinase 	830.78 	platinum
+A0A1D6JMZ1	Uncharacterized protein 	arabidopsis	Q6RF46	Methionine-S-oxide reductase 	307.42 	platinum
+A0A1D6JNC7	Uncharacterized protein 	sorghum	A0A1Z5SBM6	DUF4220 domain-containing protein 	557.99 	silver
+A0A1D6JNH2	Uncharacterized protein 	arabidopsis	F4I5R5	Holliday junction resolvase 	2431.38 	platinum
+A0A1D6JNK2	Uncharacterized protein 	arabidopsis	Q500X2	At5g04440 (RAP release 2, galactose-binding-like domain protein, putative (DUF1997)) 	626.18 	platinum
+A0A1D6JPD3	Uncharacterized protein 	sorghum	A0A1B6QQD5	EGF-like domain-containing protein 	512.14 	platinum
+A0A1D6JPZ0	Uncharacterized protein 	arabidopsis	Q9FG09	Gb|AAD30234.1 (Lipase (DUF620)) (Uncharacterized protein At5g06610) (Uncharacterized protein F15M7.14) 	868.77 	gold
+A0A1D6JQB5	Uncharacterized protein 	rice	Q10R09	Protein BIG GRAIN 1 	464.44 	platinum
+A0A1D6JQC5	Uncharacterized protein 	arabidopsis	Q5XV37	Transmembrane protein 	221.80 	gold
+A0A1D6JQZ4	Uncharacterized protein 	pombe	Q09889	Arrestin domain-containing protein C584.15c 	421.08 	silver
+A0A1D6JRN5	Uncharacterized protein 	arabidopsis	Q8LEW6	At5g01075 (Glycosyl hydrolase family 35 protein) 	119.80 	gold
+A0A1D6JSI0	Uncharacterized protein 	sorghum	A0A1B6QPW6	Amino_oxidase domain-containing protein 	1058.73 	silver
+A0A1D6JT02	Uncharacterized protein 	human	A0A1B0GTH6	Casein kinase II subunit alpha'-interacting protein 	743.20 	gold
+A0A1D6JTB3	Uncharacterized protein 	arabidopsis	Q9C6U2	Delta-latroinsectotoxin-Lt1a protein (Uncharacterized protein T8G24.9) 	563.53 	silver
+A0A1D6JTN0	Uncharacterized protein 	arabidopsis	Q67Y04	At5g17610 (Uncharacterized protein At5g17610) 	199.26 	gold
+A0A1D6JWT2	Uncharacterized protein 	sorghum	C5WQS4	UDENN domain-containing protein 	1643.65 	platinum
+A0A1D6JY71	Uncharacterized protein 	arabidopsis	F4J2F8	DUF2470 domain-containing protein 	705.02 	platinum
+A0A1D6JZH3	Uncharacterized protein 	sorghum	A0A1Z5SAJ2	Myb_DNA-bind_4 domain-containing protein 	289.93 	gold
+A0A1D6JZM6	Uncharacterized protein 	arabidopsis	Q4PL95	Autophagy-like protein (Uncharacterized protein At2g40316) 	636.06 	platinum
+A0A1D6JZP7	Uncharacterized protein 	arabidopsis	Q9LMJ2	6,7-dimethyl-8-ribityllumazine synthase (At1g06980) (F10K1.30 protein) (Uncharacterized protein At1g06980/F10K1_22) 	360.88 	platinum
+A0A1D6K0Q7	Uncharacterized protein 	arabidopsis	F4JLQ2	Transmembrane protein 	2067.41 	platinum
+A0A1D6K0V2	Uncharacterized protein 	arabidopsis	Q8LAB7	At5g26790 (Transmembrane protein) 	108.72 	gold
+A0A1D6K139	Uncharacterized protein 	arabidopsis	Q9ZVD1	At2g27090 (BZIP transcription factor (DUF630 and DUF632)) (Uncharacterized protein At2g27090) 	1126.02 	gold
+A0A1D6K203	Uncharacterized protein 	sorghum	C5X0U3	zinc_ribbon_12 domain-containing protein 	577.47 	gold
+A0A1D6K4Q7	Uncharacterized protein 	arabidopsis	Q9SID9	Expressed protein (Hematological/neurological-like protein) 	350.73 	silver
+A0A1D6K5L2	Uncharacterized protein 	arabidopsis	Q9FM74	At5g55640 (Na-translocating NADH-quinone reductase subunit A) (Uncharacterized protein MDF20.8) 	84.19 	gold
+A0A1D6K625	Uncharacterized protein 	arabidopsis	Q9ZUK9	At2g15020 (Uncharacterized protein At2g15020) 	1126.93 	platinum
+A0A1D6K7J8	Uncharacterized protein 	human	P78559	Microtubule-associated protein 1A, MAP-1A (Proliferation-related protein p80) [Cleaved into: MAP1A heavy chain; MAP1 light chain LC2 ] 	1287.02 	gold
+A0A1D6K7X2	Uncharacterized protein 	arabidopsis	Q8RXC2	At2g27890 (Coiled-coil protein) (Uncharacterized protein At2g27890:At2g27900:At2g27910) 	2365.56 	platinum
+A0A1D6K8X5	Uncharacterized protein 	arabidopsis	O22164	Expressed protein (Replicase polyprotein 1ab protein) (Uncharacterized protein unannotated coding sequence from BAC T13E15) 	589.92 	platinum
+A0A1D6K9H5	Uncharacterized protein 	arabidopsis	Q9LVV4	At5g52980 (ER-based factor for assembly of V-ATPase) (Uncharacterized protein At5g52980) 	341.14 	platinum
+A0A1D6KAV0	Uncharacterized protein 	sorghum	A0A1Z5S7Y3	VQ domain-containing protein 	198.85 	platinum
+A0A1D6KDY3	Uncharacterized protein 	sorghum	A0A1B6PDH4	F-box domain-containing protein 	962.99 	platinum
+A0A1D6KET8	Uncharacterized protein 	arabidopsis	O23167	At4g37190 (Plasma membrane, autoregulation-binding site, misato segment II, myosin-like, tubulin/FtsZ protein) (Tubulin-like protein) 	1388.91 	platinum
+A0A1D6KGK5	Uncharacterized protein 	arabidopsis	F4JE17	Downstream neighbor of Son 	1084.50 	gold
+A0A1D6KGT5	Lactoylglutathione lyase / glyoxalase I family protein (Uncharacterized protein YwkD) 	sorghum	C5YT06	VOC domain-containing protein 	474.85 	platinum
+A0A1D6KJ60	Uncharacterized protein 	sorghum	C5YIM3	AP2/ERF domain-containing protein 	328.97 	silver
+A0A1D6KJH2	Uncharacterized protein 	arabidopsis	Q8L795	DUF1666 family protein (DUF1666) (Uncharacterized protein At3g20260) 	771.41 	gold
+A0A1D6KJS4	Uncharacterized protein 	soybean	I1KZ85	S-protein homolog 	205.14 	gold
+A0A1D6KLD9	Uncharacterized protein 	rice	A0A0P0XGY0	Sodium channel modifier 1 	341.54 	platinum
+A0A1D6KMY6	Uncharacterized protein 	arabidopsis	Q9SGR3	At1g76210 (DUF241 domain protein, putative (DUF241)) (T23E18.14) 	430.13 	silver
+A0A1D6KNW2	No annotation 	sorghum	C5YLB0	START domain-containing protein 	930.53 	silver
+A0A1D6KPF2	Uncharacterized protein 	arabidopsis	Q6NLC8	Uncharacterized protein At1g66480 	390.43 	silver
+A0A1D6KPR4	No annotation 	sorghum	C5YKT8	Trehalose 6-phosphate phosphatase, EC 3.1.3.12 	949.10 	platinum
+A0A1D6KQ90	Uncharacterized protein 	arabidopsis	Q58FT9	Carboxypeptidase (Expressed protein) 	325.02 	platinum
+A0A1D6KQ98	Uncharacterized protein 	arabidopsis	Q9C618	50S ribosomal-like protein (At1g66890) (Uncharacterized protein T4O24.4) 	150.86 	gold
+A0A1D6KQC7	Uncharacterized protein 	sorghum	Q8LJZ8	Putative Mla1 	2350.38 	platinum
+A0A1D6KQC9	Uncharacterized conserved protein UCP031088 alpha/beta hydrolase 	sorghum	C5YKA8	Hydrolase_4 domain-containing protein 	1368.62 	platinum
+A0A1D6KR52	Uncharacterized protein 	arabidopsis	Q9FHN3	Jagunal-like protein (Uncharacterized protein At5g51510) (Uncharacterized protein At5g51510/K17N15_6) 	273.43 	platinum
+A0A1D6KR66	Uncharacterized protein 	arabidopsis	Q9SR35	F3L24.15 protein (Transmembrane protein) 	175.12 	gold
+A0A1D6KRQ2	Uncharacterized protein 	arabidopsis	O82263	At2g47960/T9J23.10 (Expressed protein) (Trafficking protein particle complex subunit-like protein) (Uncharacterized protein At2g47960) 	1051.27 	platinum
+A0A1D6KTY2	Uncharacterized protein 	sorghum	C5WZE8	DUF1338 domain-containing protein 	1027.61 	platinum
+A0A1D6KUU5	Uncharacterized protein 	sorghum	A0A1B6QKQ4	SAP domain-containing protein 	164.22 	silver
+A0A1D6KUU8	Uncharacterized protein 	sorghum	C5X1F2	Aldo_ket_red domain-containing protein 	790.36 	gold
+A0A1D6KUW0	Uncharacterized protein 	sorghum	A0A1Z5S742	EGF-like domain-containing protein 	223.91 	silver
+A0A1D6KW93	Uncharacterized protein 	arabidopsis	F4IX22	Metal ion-binding protein 	3229.94 	platinum
+A0A1D6KWL1	Uncharacterized protein 	arabidopsis	Q9T0H1	At4g13500 (Transmembrane protein) (Uncharacterized protein AT4g13500) (Uncharacterized protein T6G15.50) 	201.92 	platinum
+A0A1D6KWQ3	Uncharacterized protein 	arabidopsis	A0A178W3G2	Nucleolar-like protein 	1980.63 	platinum
+A0A1D6KWU3	Uncharacterized protein 	sorghum	A0A1Z5S634	WIYLD domain-containing protein 	377.19 	gold
+A0A1D6L057	Uncharacterized protein 	arabidopsis	Q8LFL4	CLAVATA3/ESR (CLE)-related protein 25 [Cleaved into: CLE25p ] 	85.83 	silver
+A0A1D6L075	Uncharacterized protein 	arabidopsis	F4JCQ8	tRNA (Ile)-lysidine synthase 	419.80 	gold
+A0A1D6L0Y0	Uncharacterized protein 	arabidopsis	Q6DBF6	At4g02725 (Spindle pole body-associated protein) 	343.44 	platinum
+A0A1D6L0Y7	Uncharacterized protein 	arabidopsis	Q84WK2	At1g44770 (Elongation factor) (Uncharacterized protein At1g44770) 	495.96 	platinum
+A0A1D6L1M2	Uncharacterized protein 	sorghum	C5WNQ8	DUF295 domain-containing protein 	106.12 	silver
+A0A1D6L1W0	Uncharacterized protein 	sorghum	A0A1B6QIJ7	H15 domain-containing protein 	406.79 	platinum
+A0A1D6L3D7	Uncharacterized protein 	arabidopsis	F4IJD7	BAT2 domain protein 	1016.47 	platinum
+A0A1D6L4B9	Uncharacterized protein 	arabidopsis	Q8RWG7	Maltase-glucoamylase, intestinal protein (Uncharacterized protein At5g37480) 	316.95 	gold
+A0A1D6L644	Uncharacterized protein 	arabidopsis	Q680G2	HTH-type transcriptional regulator (Uncharacterized protein At2g23690) 	292.13 	silver
+A0A1D6L6D6	Uncharacterized protein 	arabidopsis	F4K329	Plasma membrane fusion protein 	445.57 	platinum
+A0A1D6L7X3	Uncharacterized protein 	arabidopsis	Q1G3F4	Transmembrane protein 	220.74 	gold
+A0A1D6L835	Uncharacterized protein 	arabidopsis	Q8GXR1	Transcription initiation factor TFIID subunit (Uncharacterized protein At5g65540) (Uncharacterized protein At5g65540/K21L13_5) 	854.25 	platinum
+A0A1D6L8I2	Uncharacterized protein 	arabidopsis	Q9SFB1	F17A17.37 protein (Uncharacterized protein At3g08030) 	993.92 	platinum
+A0A1D6L8W1	Uncharacterized protein 	arabidopsis	A0A1P8ANP5	DNA ligase-like protein 	1102.35 	platinum
+A0A1D6LAH6	Uncharacterized protein 	sorghum	C5WU04	PMEI domain-containing protein 	564.95 	platinum
+A0A1D6LAI1	Uncharacterized protein 	sorghum	C5WTZ6	PMEI domain-containing protein 	478.21 	platinum
+A0A1D6LBB0	Uncharacterized protein 	arabidopsis	Q9C5A5	At5g08720 (Polyketide cyclase/dehydrase/lipid transporter) (Uncharacterized protein At5g08720) (Uncharacterized protein At5g08720/T2K12_70) 	1647.09 	platinum
+A0A1D6LBG3	Uncharacterized protein 	arabidopsis	A0A1P8AYT1	YacP-like NYN domain protein 	648.69 	platinum
+A0A1D6LCQ1	Uncharacterized protein 	sorghum	C5WRT7	SLH domain-containing protein 	1969.29 	platinum
+A0A1D6LDK3	Uncharacterized protein 	arabidopsis	F4I8K1	BPS1-like protein 	680.94 	silver
+A0A1D6LGJ2	Uncharacterized protein 	arabidopsis	Q9SD44	At3g51010 (Protein translocase subunit) (Uncharacterized protein F24M12.50) 	303.37 	platinum
+A0A1D6LGZ8	Uncharacterized protein 	sorghum	A0A1Z5R8N2	CCHC-type domain-containing protein 	737.25 	silver
+A0A1D6LH58	Uncharacterized protein 	arabidopsis	Q9LZ38	Uncharacterized protein T22P11_230 	169.28 	gold
+A0A1D6LL33	Uncharacterized protein 	soybean	K7KR00	FAS1 domain-containing protein 	420.45 	gold
+A0A1D6LLR4	Uncharacterized protein 	sorghum	A0A1Z5RKK8	CCHC-type domain-containing protein 	338.05 	silver
+A0A1D6LQP2	Uncharacterized protein 	human	Q9C0H2	Protein tweety homolog 3, hTTY3 	818.17 	silver
+A0A1D6LR40	Uncharacterized protein 	arabidopsis	Q9LUJ3	Protein RDM1 (Protein RNA-directed DNA methylation 1) 	408.48 	platinum
+A0A1D6LS28	Uncharacterized protein 	arabidopsis	Q9LXZ0	Serine-rich protein-like protein (Uncharacterized protein T5P19_150) 	71.17 	silver
+A0A1D6LWS2	Uncharacterized protein 	arabidopsis	Q6DR24	Uncharacterized protein At3g17950 	177.26 	gold
+A0A1D6LYF7	Uncharacterized protein 	arabidopsis	Q6NNJ2	At5g01790 	179.07 	silver
+A0A1D6LYT5	Uncharacterized protein 	arabidopsis	F4IQ39	Centrosomal protein of 135 kDa-like protein 	1578.58 	silver
+A0A1D6M0K4	Uncharacterized protein 	sorghum	A0A1Z5R2R7	GOLD domain-containing protein 	1226.15 	platinum
+A0A1D6M1A2	Uncharacterized protein 	arabidopsis	Q8RX56	Protein unc-13 homolog (Protein PROTON ATPASE TRANSLOCATION CONTROL 1) 	2661.30 	platinum
+A0A1D6M1S2	Uncharacterized protein 	rice	Q6L589	NRR repressor homolog 1 	246.24 	gold
+A0A1D6M2E7	No annotation 	pombe	O74371	Uncharacterized RING finger protein C32F12.07c 	353.25 	gold
+A0A1D6M316	Uncharacterized protein 	arabidopsis	Q494Q2	Hydroxyproline O-arabinosyltransferase 2, EC 2.4.2.58 	983.11 	silver
+A0A1D6M408	Uncharacterized protein 	arabidopsis	Q9LVE9	At3g21570 (Proline-rich nuclear receptor coactivator) 	127.16 	gold
+A0A1D6M463	Uncharacterized protein 	sorghum	A0A1Z5R3I9	CUE domain-containing protein 	1159.05 	platinum
+A0A1D6M4I3	Uncharacterized protein 	arabidopsis	F4JRF6	RPA-interacting protein A 	511.69 	platinum
+A0A1D6M5J4	Uncharacterized protein 	arabidopsis	Q8GW89	PyrD (Uncharacterized protein At1g71865) 	131.04 	gold
+A0A1D6M5T7	Uncharacterized protein 	arabidopsis	Q9M2T7	Uncharacterized protein At3g55420 (Uncharacterized protein T22E16.80) 	474.48 	platinum
+A0A1D6M673	Uncharacterized protein 	arabidopsis	Q9STN5	Uncharacterized protein At4g08330, chloroplastic 	321.37 	platinum
+A0A1D6M6L9	Uncharacterized protein 	sorghum	C5YZT2	zinc_ribbon_12 domain-containing protein 	661.34 	gold
+A0A1D6M745	Uncharacterized protein 	arabidopsis	Q9SCZ8	AT3g51510/F26O13_150 (Transmembrane protein) (Uncharacterized protein At3g51510) (Uncharacterized protein F26O13.150) 	374.16 	platinum
+A0A1D6M758	Uncharacterized protein 	sorghum	C5Z093	DOG1 domain-containing protein 	628.64 	platinum
+A0A1D6M9Q7	Uncharacterized protein 	arabidopsis	Q8RWI4	Lysine-tRNA ligase (Uncharacterized protein At3g01060) 	1079.42 	platinum
+A0A1D6MBH4	No annotation 	arabidopsis	Q0WVQ3	Cyclin/Brf1-like TBP-binding protein (Putative transcription factor) 	1244.29 	platinum
+A0A1D6MBW9	Uncharacterized protein 	arabidopsis	Q5XV71	2-isopropylmalate synthase 	1132.84 	gold
+A0A1D6MCI2	Uncharacterized protein 	arabidopsis	Q8S8N0	CLAVATA3/ESR (CLE)-related protein 4 [Cleaved into: CLE4p ] 	82.03 	gold
+A0A1D6MCV6	Uncharacterized protein 	arabidopsis	F4K8S5	Protein ECERIFERUM 16 (RST1-intearcting protein) 	412.51 	gold
+A0A1D6MCX5	Uncharacterized protein ycf23 	sorghum	A0A1B6PA42	Uncharacterized protein ycf23 	717.02 	platinum
+A0A1D6MDB5	Uncharacterized protein 	arabidopsis	Q8GYN2	Chaperone (Uncharacterized protein At5g15805) 	233.25 	gold
+A0A1D6MF60	Uncharacterized protein 	sorghum	C5XK91	DUF1618 domain-containing protein 	768.45 	gold
+A0A1D6MG01	Uncharacterized protein 	sorghum	A0A1B6Q7I1	Myb_DNA-bind_3 domain-containing protein 	178.07 	silver
+A0A1D6MG86	Uncharacterized protein 	sorghum	C5XL50	Retrotrans_gag domain-containing protein 	788.21 	platinum
+A0A1D6MHI7	Uncharacterized protein 	arabidopsis	Q9LV38	At5g56880 	112.73 	gold
+A0A1D6MJP3	Uncharacterized protein 	arabidopsis	Q9SL96	Expressed protein (Uncharacterized protein At2g25670) 	447.90 	gold
+A0A1D6MJX3	Uncharacterized protein 	arabidopsis	F4IEK8	PII, uridylyltransferase (DUF2921) 	2409.14 	platinum
+A0A1D6MJX5	Uncharacterized protein 	arabidopsis	Q9LRP9	Trichohyalin 	1116.30 	platinum
+A0A1D6MJY8	Uncharacterized protein 	arabidopsis	Q9SSS6	At1g52720 (F6D8.3) (Uncharacterized protein At1g52720) 	177.18 	gold
+A0A1D6MKB7	Uncharacterized protein 	sorghum	A0A1B6Q1L2	DNA-directed RNA polymerase III subunit 	317.88 	platinum
+A0A1D6MKX1	Uncharacterized protein 	arabidopsis	Q6GKV1	Protein GET4, AtGET4 (Guided entry of tail-anchored proteins 4 homolog) 	875.00 	platinum
+A0A1D6ML56	Uncharacterized protein 	arabidopsis	Q8GY46	At5g13560 (Structural maintenance of chromosomes protein) (Uncharacterized protein At5g13560/MSH12_2) 	1497.92 	gold
+A0A1D6MLB5	Uncharacterized protein 	arabidopsis	F4IQY1	Forkhead box protein G1 	203.75 	silver
+A0A1D6MLC2	Uncharacterized protein 	arabidopsis	F4JXE8	K-stimulated pyrophosphate-energized sodium pump protein 	959.40 	platinum
+A0A1D6MLM2	Uncharacterized protein 	sorghum	A0A1W0VW35	C2H2-type domain-containing protein 	153.08 	silver
+A0A1D6MM09	Uncharacterized protein 	arabidopsis	A0A1P8ARP0	DnaA initiator-associating protein 	1002.10 	gold
+A0A1D6MM37	Uncharacterized protein 	arabidopsis	F4HS08	DNA ligase (DUF1666) 	1068.17 	gold
+A0A1D6MME5	Uncharacterized protein 	rice	A0A0P0WI58	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	159.54 	gold
+A0A1D6MMF2	Uncharacterized protein 	arabidopsis	Q8LCU9	Mediator of RNA polymerase II transcription subunit (Uncharacterized protein At1g15010) 	282.69 	gold
+A0A1D6MMV3	Uncharacterized protein 	arabidopsis	F4I8E9	Transmembrane protein 	1265.92 	silver
+A0A1D6MPJ4	Uncharacterized protein 	arabidopsis	F4JH58	Insulin-induced protein 	626.14 	platinum
+A0A1D6MPP1	Uncharacterized protein 	arabidopsis	Q9FJ08	At5g49320 (Dbj|BAA84605.1) (Transmembrane protein, putative (DUF1218)) 	547.08 	platinum
+A0A1D6MPS1	Uncharacterized protein 	sorghum	A0A1B6Q2Q2	PGG domain-containing protein 	403.85 	platinum
+A0A1D6MQB1	Uncharacterized protein 	arabidopsis	Q1PE01	DNA repair REX1-B protein 	540.32 	platinum
+A0A1D6MQD9	Uncharacterized protein 	arabidopsis	F4JPQ4	G-protein coupled receptor 	290.57 	gold
+A0A1D6MR53	Uncharacterized protein 	arabidopsis	Q9FMN8	AT5g12260/MXC9_22 (Glycosyltransferase family protein 2) (Transferring glycosyl group transferase) 	1390.17 	platinum
+A0A1D6MRF2	Uncharacterized protein 	arabidopsis	O80535	At1g09520/F14J9_18 (F14J9.18 protein) 	446.25 	gold
+A0A1D6MS50	Uncharacterized protein 	arabidopsis	Q9SZU4	Uncharacterized protein At4g37440 (Uncharacterized protein F6G17.90) 	725.14 	gold
+A0A1D6MSW4	Uncharacterized protein 	sorghum	A0A1B6Q3E8	IBB domain-containing protein 	135.00 	silver
+A0A1D6MVW4	Uncharacterized protein 	arabidopsis	Q9LF17	Uncharacterized protein T21H19_30 	201.05 	gold
+A0A1D6MWR9	Uncharacterized protein 	arabidopsis	Q9FNR0	Emb|CAB62613.1 	742.47 	gold
+A0A1D6MWZ7	Uncharacterized protein 	arabidopsis	Q9ZPZ4	T31J12.3 protein (Uncharacterized protein At1g09310) 	444.16 	platinum
+A0A1D6MXX1	Uncharacterized protein 	sorghum	A0A1Z5R5Z7	UBP-type domain-containing protein 	433.62 	platinum
+A0A1D6MY89	Uncharacterized protein 	arabidopsis	Q9C8X0	At1g71910 (Uncharacterized protein At1g71910/F17M19_6) (Uncharacterized protein F17M19.6) 	142.91 	gold
+A0A1D6MZH7	Uncharacterized protein 	arabidopsis	Q0WVM5	Nucleolar protein (Uncharacterized protein At1g63810) 	2787.31 	platinum
+A0A1D6N0K9	Uncharacterized protein 	arabidopsis	Q94JR2	AT5g45310/K9E15_9 (Coiled-coil protein) 	618.11 	platinum
+A0A1D6N0T8	Uncharacterized protein 	soybean	I1KMI0	RING-type domain-containing protein 	59.50 	silver
+A0A1D6N1V9	Uncharacterized protein 	arabidopsis	Q9LYQ9	At5g13470 (Uncharacterized protein At5g13470) (Uncharacterized protein T22N19_120) 	115.06 	gold
+A0A1D6N230	Uncharacterized protein 	sorghum	C5XH55	Thioredox_DsbH domain-containing protein 	1673.01 	platinum
+A0A1D6N2W4	Uncharacterized protein 	arabidopsis	Q8L4C5	Serine/arginine repetitive matrix-like protein (Uncharacterized protein At4g22190) 	377.85 	gold
+A0A1D6N3X2	Uncharacterized protein 	sorghum	A0A1B6Q7R3	Beta-Casp domain-containing protein 	1889.86 	platinum
+A0A1D6N445	Uncharacterized protein 	arabidopsis	Q8VYF9	Peptidyl serine alpha-galactosyltransferase, AtSGT1, EC 2.4.1.- 	2101.48 	platinum
+A0A1D6N475	Uncharacterized protein 	soybean	I1KYA3	GBBH-like_N domain-containing protein 	340.99 	platinum
+A0A1D6N4S4	Uncharacterized protein 	arabidopsis	Q9LK80	Uncharacterized protein At5g48340 	1125.54 	platinum
+A0A1D6N5D2	Uncharacterized protein 	human	O15218	G-protein coupled receptor 182 	664.32 	silver
+A0A1D6N5M6	Uncharacterized protein 	arabidopsis	Q5Q0I0	Multidrug resistance protein 	185.06 	silver
+A0A1D6N5U6	Uncharacterized protein 	arabidopsis	Q9LM58	BPS1-like protein (F2E2.8) (Uncharacterized protein At1g22030) (Uncharacterized protein At1g22030/F2E2_4) 	725.07 	platinum
+A0A1D6N6Z3	Uncharacterized protein 	arabidopsis	A0A1P8ARD0	Josephin protein-like protein 	163.25 	gold
+A0A1D6N8X1	Uncharacterized protein 	arabidopsis	Q9SN87	Transmembrane protein (Uncharacterized protein F1P2.60) 	98.53 	gold
+A0A1D6N9H1	Uncharacterized protein 	arabidopsis	Q9SA06	F28K20.6 protein (Polyadenylate-binding protein 1-B-binding protein) (Uncharacterized protein At1g31130) (Uncharacterized protein F28K20.6) 	872.13 	silver
+A0A1D6N9I0	Uncharacterized protein 	sorghum	A0A1W0W024	DUF4220 domain-containing protein 	1859.17 	platinum
+A0A1D6NAX3	Uncharacterized protein 	arabidopsis	Q29PU4	CLAVATA3/ESR (CLE)-related protein 12 [Cleaved into: CLE12p ] 	160.38 	silver
+A0A1D6NBM3	Uncharacterized protein 	arabidopsis	P16128	Uncharacterized protein At4g18490 	858.31 	gold
+A0A1D6NC50	Uncharacterized protein 	arabidopsis	Q9LXS2	Secretion-regulating guanine nucleotide exchange factor (Uncharacterized protein At3g58800/T20N10_150) (Uncharacterized protein T20N10_150) 	856.95 	platinum
+A0A1D6NCH6	Uncharacterized protein 	arabidopsis	Q945Q2	AT3g59090/F17J16_140 (Tobamovirus multiplication protein) 	800.42 	platinum
+A0A1D6NDD1	Uncharacterized protein 	sorghum	A0A1B6Q5W1	Inhibitor I9 domain-containing protein 	133.86 	silver
+A0A1D6NDF7	Uncharacterized protein 	arabidopsis	O80783	At2g34340 (Expressed protein) (Uncharacterized protein At2g34340) 	109.78 	silver
+A0A1D6NE29	No annotation 	soybean	A0A0R0IUQ7	Alpha-amylase, EC 3.2.1.1 (1,4-alpha-D-glucan glucanohydrolase) 	2134.06 	platinum
+A0A1D6NEJ1	Uncharacterized protein 	arabidopsis	Q29Q13	At5g63040 (Transmembrane protein) 	809.01 	gold
+A0A1D6NEP0	Uncharacterized protein 	arabidopsis	Q84K72	Forkhead-associated domain protein (Uncharacterized protein At1g06510) 	486.05 	gold
+A0A1D6NGD4	Uncharacterized protein 	arabidopsis	Q8RXT7	Myosin-G heavy chain-like protein (Uncharacterized protein At2g42975) 	321.48 	gold
+A0A1D6NJM7	Uncharacterized protein 	arabidopsis	Q9C9I0	At1g71430 (Uncharacterized protein At1g71430/F26A9_19) (Uncharacterized protein F26A9.19) 	234.44 	platinum
+A0A1D6NJT4	Uncharacterized protein 	pombe	O74797	UPF0587 protein C2D10.03c 	366.48 	gold
+A0A1D6NKW6	Uncharacterized protein 	sorghum	C5XPG5	SHSP domain-containing protein 	162.26 	silver
+A0A1D6NL79	Uncharacterized protein 	arabidopsis	F4ISN0	Zinc finger FYVE domain protein 	1780.95 	platinum
+A0A1D6NLB9	Uncharacterized protein 	cerevisiae	P47005	F-box protein DAS1 (DST1-delta 6-azauracil sensitivity protein 1) 	404.24 	silver
+A0A1D6NM06	Uncharacterized protein 	arabidopsis	Q8LDL9	50S ribosomal protein L34 (Uncharacterized protein At1g29040) 	450.06 	platinum
+A0A1D6NP36	Uncharacterized protein 	pombe	Q10495	Uncharacterized protein C26F1.08c 	1523.94 	gold
+A0A1D6NQM5	Uncharacterized protein 	sorghum	Q84YE5	Cyclin-dependent kinase-like protein 	823.87 	gold
+A0A1D6NSB5	Uncharacterized protein 	arabidopsis	Q8S8H8	At2g15695 (Uncharacterized protein At2g15695) 	773.54 	platinum
+A0A1D6NSE1	Uncharacterized protein 	human	Q5T280	Putative methyltransferase C9orf114, EC 2.1.1.- (Centromere protein 32, CENP-32) (Kinetochore-associated protein) (SPOUT domain-containing methyltransferase 1) 	846.27 	platinum
+A0A1D6NTA3	No annotation 	arabidopsis	A0A1P8ARI2	Zinc ion binding protein 	747.54 	gold
+A0A1D6NUJ7	Uncharacterized protein 	sorghum	A0A194YHE7	DUF569 domain-containing protein 	698.41 	platinum
+A0A1D6NUR5	Uncharacterized protein 	sorghum	A0A194YHE9	DUF569 domain-containing protein 	773.31 	platinum
+A0A1D6NUS2	Uncharacterized protein 	sorghum	A0A194YHC5	DUF569 domain-containing protein 	700.80 	gold
+A0A1D6NUT9	Uncharacterized protein 	sorghum	A0A194YHB5	DUF569 domain-containing protein 	602.16 	silver
+A0A1D6NVG3	Uncharacterized protein 	arabidopsis	Q9LY34	Acyl-CoA synthetase family protein (Uncharacterized protein At3g60310) (Uncharacterized protein F27H5_100) 	1272.78 	platinum
+A0A1D6NWJ7	No annotation 	arabidopsis	Q8L9Y2	Elongator complex protein 6, AtELP6 (Elongator component 6) (UPF0405 protein ELP6) 	577.69 	platinum
+A0A1D6NZE6	Uncharacterized protein 	arabidopsis	Q681W7	SEC-C motif protein (Uncharacterized protein At3g04950) 	505.60 	platinum
+A0A1D6NZT3	Uncharacterized conserved protein (UCP030210) 	sorghum	C5Z1R2	ARMT1-like_dom domain-containing protein 	1016.97 	platinum
+A0A1D6P0Y1	Uncharacterized protein 	arabidopsis	Q8LDQ8	At5g24165 (Uncharacterized protein At5g24165) 	84.67 	silver
+A0A1D6P215	No annotation 	soybean	I1MEW4	FYVE-type domain-containing protein 	1267.33 	gold
+A0A1D6P230	Uncharacterized protein 	arabidopsis	A0A1P8B2J0	Serine/Threonine-kinase 	734.14 	platinum
+A0A1D6P3A9	Uncharacterized protein 	pombe	O59757	Kinetochore protein spc7 (NMS complex subunit spc7) 	1252.66 	gold
+A0A1D6P4I3	Uncharacterized protein 	sorghum	A0A1Z5RDQ3	CCHC-type domain-containing protein 	821.34 	silver
+A0A1D6P4S0	Uncharacterized protein 	arabidopsis	Q8GXY3	ATP-dependent helicase/nuclease subunit (At3g18510) (Uncharacterized protein At3g18510/MYF24_22) 	124.23 	gold
+A0A1D6P4Z4	Uncharacterized protein 	arabidopsis	Q9FK37	Uncharacterized protein At5g50350 	732.27 	platinum
+A0A1D6P520	Uncharacterized protein 	sorghum	C5Z749	Epimerase domain-containing protein 	940.96 	gold
+A0A1D6P5Q4	Uncharacterized protein 	arabidopsis	O23277	Protein PUTATIVE RECOMBINATION INITIATION DEFECT 1, AtPRD1, Protein PRD1 	3082.10 	platinum
+A0A1D6P888	Uncharacterized protein 	arabidopsis	Q8LFK6	Sugar transporter, putative (DUF1195) (Uncharacterized protein At5g65650) 	376.34 	silver
+A0A1D6P9H8	Uncharacterized protein 	sorghum	C5WYS1	S-acyltransferase, EC 2.3.1.225 (Palmitoyltransferase) 	1009.79 	platinum
+A0A1D6PCY2	Uncharacterized protein 	arabidopsis	Q9LN10	Cytochrome B561, amino-terminal protein (T6D22.6) (Uncharacterized protein At1g07970) 	1112.88 	platinum
+A0A1D6PDQ1	Uncharacterized protein 	arabidopsis	O80933	Scarecrow-like protein 9, AtSCL9 (GRAS family protein 13, AtGRAS-13) 	1565.89 	platinum
+A0A1D6PFC5	No annotation 	arabidopsis	Q8GYK6	Proline-rich family protein (Uncharacterized protein At2g32840) 	413.07 	gold
+A0A1D6PFF5	Uncharacterized protein 	arabidopsis	P93750	Uncharacterized protein At2g41960 	2094.15 	silver
+A0A1D6PI69	Uncharacterized protein 	sorghum	A0A1B6QPU5	CYSTM domain-containing protein 	169.95 	gold
+A0A1D6PJJ7	Uncharacterized protein 	arabidopsis	F4I9G2	Inactive purple acid phosphatase-like protein 	1041.65 	gold
+A0A1D6PK11	Uncharacterized protein 	arabidopsis	A0A1P8B123	D-tagatose-1,6-bisphosphate aldolase subunit 	474.43 	platinum
+A0A1D6PK68	Uncharacterized protein 	arabidopsis	A0A1P8B1A2	ArgH (DUF639) 	1740.22 	platinum
+A0A1D6PS58	Uncharacterized protein 	arabidopsis	Q1PDF2	Transmembrane protein 	1165.65 	silver
+A0A1D6PS59	Uncharacterized protein 	arabidopsis	O80798	AT1G65270 protein (At1g65270) (ER membrane protein complex subunit-like protein) (Expressed protein) (T8F5.4 protein) 	635.98 	platinum
+A0A1D6PSD7	Uncharacterized protein 	arabidopsis	Q52K83	At1g21390 (Embryo defective 2170) (Uncharacterized protein At1g21390) 	277.15 	gold
+A0A1D6PVW1	Uncharacterized protein 	sorghum	A0A1Z5R842	DUF569 domain-containing protein 	691.70 	platinum
+A0A1D6PWA1	Uncharacterized protein 	arabidopsis	Q9STV7	Uncharacterized protein At4g24370 (Uncharacterized protein T22A6.200) 	223.62 	gold
+A0A1D6PXQ9	No annotation 	sorghum	A0A1B6PJ17	Aamy domain-containing protein 	1940.65 	platinum
+A0A1D6PZL2	Uncharacterized protein 	sorghum	A0A194YKS6	ULP_PROTEASE domain-containing protein 	230.01 	silver
+A0A1D6Q078	Uncharacterized protein 	arabidopsis	Q9S9M7	Nuclear protein (T24D18.18 protein) (Uncharacterized protein At1g16080) 	764.65 	platinum
+A0A1D6Q3T7	Uncharacterized protein 	arabidopsis	Q84JD6	Intracellular protein transporter (Uncharacterized protein At4g27610) 	657.87 	platinum
+A0A1D6Q5R4	Uncharacterized protein 	arabidopsis	A0A1P8APD7	Ankyrin repeat protein 	206.41 	gold
+A0A1D6Q9Z0	Uncharacterized protein 	arabidopsis	Q9CAC8	At1g63610 (Uncharacterized protein At1g63610) (Uncharacterized protein F24D7.19) 	690.85 	platinum
+A0A1D6QAL5	Uncharacterized protein 	sorghum	C5XW17	AMP-binding domain-containing protein 	931.33 	platinum
+A0A1D6QC40	Uncharacterized protein 	arabidopsis	F4JW44	Translation initiation factor 	246.33 	platinum
+A0A1D6QHJ2	Uncharacterized protein 	sorghum	C5Y4K0	R3H-assoc domain-containing protein 	596.98 	platinum
+A0A1D6QHY9	Uncharacterized protein 	arabidopsis	Q9FNB1	Gb|AAD43168.1 	560.99 	silver
+A0A1D6QM66	Uncharacterized protein 	arabidopsis	Q94AZ7	AT5g43680/MQO24_4 	365.35 	platinum
+A0A1D6QPH7	Uncharacterized protein 	arabidopsis	F4IHX8	Cytomegalovirus UL139 protein 	479.28 	gold
+A0A1D6QQM8	Uncharacterized protein 	arabidopsis	B3H6H3	Transmembrane protein 	100.57 	gold
+A0A1D6QTZ4	Uncharacterized protein 	soybean	I1J818	DUF1995 domain-containing protein 	736.95 	platinum
+A0A1D6QU03	Uncharacterized protein 	arabidopsis	Q9LFT2	At5g15880 (Golgin family A protein) (Uncharacterized protein At5g15880) (Uncharacterized protein F1N13_20) 	592.03 	gold
+A0A1D6QUJ4	Uncharacterized protein 	arabidopsis	Q8GX25	At1g76250 (Transmembrane protein) (Uncharacterized protein At1g76250/T23E18_34) 	1003.30 	platinum
+A0A1Q1CGE1	Uncharacterized protein 	arabidopsis	F4K4X2	Transmembrane protein 	236.18 	platinum
+A0A1X7YDI6	No annotation 	sorghum	A0A1Z5R8F8	Tyrosinase_Cu-bd domain-containing protein 	1494.92 	platinum
+A0A1X7YDW3	No annotation 	sorghum	C5YI08	Lipid_desat domain-containing protein 	804.44 	platinum
+A0A1X7YE50	No annotation 	sorghum	A0A1B6QLU9	Protein kinase domain-containing protein 	1402.95 	gold
+A0A1X7YE61	No annotation 	arabidopsis	Q8RWF2	Dynamin (Uncharacterized protein At4g17540) 	491.17 	platinum
+A0A1X7YE72	No annotation 	sorghum	C5WRI2	Protein kinase domain-containing protein 	1395.37 	gold
+A0A1X7YEA9	No annotation 	sorghum	A0A1Z5S847	Non-specific serine/threonine protein kinase, EC 2.7.11.1 	3141.10 	platinum
+A0A1X7YEC3	No annotation 	arabidopsis	Q9SJB4	GDSL esterase/lipase At2g04570, EC 3.1.1.- (Extracellular lipase At2g04570) 	966.29 	silver
+A0A1X7YEY3	No annotation 	sorghum	C5Y673	Fatty acyl-CoA reductase, EC 1.2.1.84 	1399.96 	platinum
+A0A1X7YF05	No annotation 	sorghum	A0A1Z5RGY2	NAC domain-containing protein 	730.23 	platinum
+A0A1X7YF09	No annotation 	sorghum	A0A1B6PKL0	HIRAN domain-containing protein 	2465.25 	platinum
+A0A1X7YF18	No annotation 	arabidopsis	P42036	40S ribosomal protein S14-3 	430.54 	silver
+A0A1X7YFC6	No annotation 	sorghum	A0A1Z5RCN2	Response regulatory domain-containing protein 	321.96 	gold
+A0A1X7YFD7	No annotation 	arabidopsis	Q9LSQ2	Putative pentatricopeptide repeat-containing protein At3g16890, mitochondrial (Protein PENTATRICOPEPTIDE REPEAT 40) 	1773.69 	platinum
+A0A1X7YFQ3	No annotation 	rice	Q6Z8C8	Cyclin-dependent kinase F-4, CDKF;4, EC 2.7.11.22, EC 2.7.11.23 (Serine/threonine-protein kinase MHK-like protein 2) 	1152.12 	platinum
+A0A1X7YG02	No annotation 	sorghum	A0A1W0W163	SRR1 domain-containing protein 	666.23 	platinum
+A0A1X7YG11	No annotation 	arabidopsis	Q0WWQ1	Autophagy-related protein 3 (Autophagy-related E2-like conjugation enzyme ATG3, AtAPG3, Protein autophagy 3) 	671.93 	platinum
+A0A1X7YG26	No annotation 	sorghum	C5WSC1	MFS domain-containing protein 	1494.40 	platinum
+A0A1X7YG37	No annotation 	sorghum	A0A1W0W2T5	Protein kinase domain-containing protein 	2543.30 	gold
+A0A1X7YGA7	No annotation 	arabidopsis	O22261	Nicotinamide adenine dinucleotide transporter 1, chloroplastic, AtNDT1 (NAD(+) transporter 1) 	855.71 	platinum
+A0A1X7YGD9	No annotation 	arabidopsis	Q9M9H7	Carboxypeptidase SOL1, EC 3.4.17.- (Protein SUPPRESSOR OF LLP1 1) 	1192.13 	platinum
+A0A1X7YGE7	No annotation 	sorghum	A0A1B6P7Q1	Protein DETOXIFICATION (Multidrug and toxic compound extrusion protein) 	1269.63 	gold
+A0A1X7YGG3	No annotation 	sorghum	C5Z3W1	Translation factor GUF1 homolog, mitochondrial, EC 3.6.5.- (Elongation factor 4 homolog, EF-4) (GTPase GUF1 homolog) (Ribosomal back-translocase) 	1919.66 	platinum
+A0A1X7YGI2	No annotation 	arabidopsis	Q9LVF9	Pentatricopeptide repeat-containing protein At3g21470 	1454.65 	gold
+A0A1X7YGK1	No annotation 	arabidopsis	Q0WTY4	Vacuolar protein sorting-associated protein 2 homolog 2, AtVPS2-2 (Charged multivesicular body protein 2 homolog 2) (ESCRT-III complex subunit VPS2 homolog 2) 	553.33 	platinum
+A0A1X7YGK6	No annotation 	sorghum	C5Z3V9	STAS domain-containing protein 	1864.57 	gold
+A0A1X7YGN1	No annotation 	sorghum	C5XRF5	DRMBL domain-containing protein 	1230.39 	gold
+A0A1X7YH51	No annotation 	sorghum	Q8W0U7	Growth-regulating factor 	535.94 	platinum
+A0A1X7YH75	No annotation 	arabidopsis	Q9C6Z9	Cotton fiber protein (Uncharacterized protein T2H7.2) 	387.84 	platinum
+A0A1X7YH85	No annotation 	sorghum	C5YSC2	Na_H_Exchanger domain-containing protein 	2200.60 	platinum
+A0A1X7YHF2	No annotation 	sorghum	A0A1W0W528	BHLH domain-containing protein 	815.70 	platinum
+A0A1X7YHF6	No annotation 	soybean	A0A0R0I5R9	Methionine gamma lyase 1, EC 4.4.1.11 	1201.47 	gold
+A0A1X7YHH1	No annotation 	sorghum	A0A1Z5RIA3	LRRNT_2 domain-containing protein 	465.56 	gold
+A0A1X7YHH3	No annotation 	sorghum	A0A1B6PS17	BRO1 domain-containing protein 	1180.55 	platinum
+A0A1X7YHR4	No annotation 	sorghum	C5XUP4	Homeobox domain-containing protein 	505.32 	gold
+A0A1X7YHS4	No annotation 	arabidopsis	Q8VZA0	Protein SIEL (Protein SHORT-ROOT INTERACTING EMBRYONIC LETHAL) 	1697.18 	platinum
+A0A1X7YHY8	No annotation 	sorghum	A0A1Z5R3Z5	DNA_MISMATCH_REPAIR_2 domain-containing protein 	1250.22 	gold
+A0A1X7YI34	No annotation 	arabidopsis	Q9FJB9	ABC transporter A family protein (At5g53650) (Uncharacterized protein At5g53650/MNC6_19) 	162.59 	gold
+A0A1X7YII0	No annotation 	sorghum	C5XSK0	Exocyst subunit Exo70 family protein 	1904.98 	platinum
+A0A1X7YII1	No annotation 	arabidopsis	Q8W4C8	ADP-ribosylation factor-like protein 8c, AtARL8c (ADP-ribosylation factor-like A1A, AtARLA1A) 	525.10 	gold
+A0A1X7YII5	No annotation 	sorghum	C5XZC1	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	1790.10 	platinum
+A0A1X7YIJ7	No annotation 	sorghum	C5XJT5	Chitinase, EC 3.2.1.14 	725.70 	platinum
+A0A1X7YIL8	No annotation 	sorghum	C5Z8N0	FAS1 domain-containing protein 	1057.60 	platinum
+A0A1X7YIN9	No annotation 	sorghum	A0A1B6QIP5	RNA helicase, EC 3.6.4.13 	1074.31 	silver
+A0A1X7YIR1	No annotation 	sorghum	C5X9X0	Glycosyltransferase, EC 2.4.1.- 	1310.30 	platinum
+A0A1X7YIS1	No annotation 	soybean	K7KYP0	Longin domain-containing protein 	521.34 	gold
+A0A1X7YJ50	No annotation 	sorghum	C5X9A4	TMEM135_C_rich domain-containing protein 	1417.04 	platinum
+A0A3B6U5S8	No annotation 	sorghum	Q09EK0	ATP synthase protein MI25 	462.79 	platinum
+A0A3B6U5Y6	No annotation 	arabidopsis	Q304C3	ATP synthase subunit 9, mitochondrial 	215.89 	silver
+A0A3B6UA43	No annotation 	sorghum	C5XL99	CYTB_NTER domain-containing protein 	646.69 	platinum
+A0A3B6UD43	No annotation 	sorghum	P93334	NADH-ubiquinone oxidoreductase chain 3, EC 7.1.1.2 	335.62 	platinum
+B4F7U1	Uncharacterized protein 	arabidopsis	Q9LYF0	At5g11810 (Rhomboid family protein) (Uncharacterized protein At5g11810/T22P22_200) (Uncharacterized protein T22P22_200) 	672.71 	platinum
+B4F845	Uncharacterized protein 	arabidopsis	Q9SU93	Nucleophosmin (Uncharacterized protein AT4g29520) (Uncharacterized protein T16L4.30) 	805.44 	platinum
+B4F890	Uncharacterized protein 	arabidopsis	Q9LDF5	3-hydroxyacyl-CoA dehydrogenase family protein (3-hydroxybutyryl-CoA dehydrogenase-like protein) (Putative 3-hydroxybutyryl-CoA dehydrogenase) 	839.88 	platinum
+B4F8C1	Uncharacterized protein 	human	Q9HA38	Zinc finger matrin-type protein 3 (Zinc finger protein WIG-1) (p53-activated gene 608 protein) 	294.60 	silver
+B4F8C7	Uncharacterized protein 	arabidopsis	O65233	DBH-like monooxygenase (T26D22.2 protein) (Uncharacterized protein At5g35320) 	217.06 	gold
+B4F8I2	Uncharacterized protein 	arabidopsis	Q6NM16	At5g27710 (T-box protein) 	787.18 	platinum
+B4F8R1	Uncharacterized protein 	arabidopsis	A4IJ37	At2g02910 (Transmembrane protein (DUF616)) 	1128.37 	platinum
+B4F921	Uncharacterized protein 	arabidopsis	Q93XX1	Transmembrane protein C9orf5 protein (Uncharacterized protein At5g55960) (Uncharacterized protein At5g55960; MYN21.7) 	1562.63 	platinum
+B4F9G7	Uncharacterized protein 	human	Q5TGY1	Transmembrane and coiled-coil domain-containing protein 4 	890.53 	platinum
+B4F9G9	Uncharacterized protein 	arabidopsis	Q8L8N3	At2g17350 (Beta-mannosyltransferase-like protein) (Uncharacterized protein At2g17350) 	335.58 	platinum
+B4F9J7	Uncharacterized protein 	arabidopsis	Q9ZQ78	Uncharacterized protein At2g03420 (Uncharacterized protein At2g03420/T4M8.15) 	357.52 	platinum
+B4F9K3	Uncharacterized protein 	sorghum	C5WVC2	DUF295 domain-containing protein 	921.06 	platinum
+B4F9W1	Uncharacterized protein 	arabidopsis	O23684	At2g41950/T6D20.26 (DNA-directed RNA polymerase subunit beta) (Uncharacterized protein At2g41950) 	601.53 	platinum
+B4FAA5	Uncharacterized protein 	arabidopsis	Q8S9I8	1-acyl-sn-glycerol-3-phosphate acyltransferase (At1g64350/F15H21_2) (At1g64355) 	392.88 	platinum
+B4FAY5	Uncharacterized protein 	rice	Q942X0	Anther-specific protein RTS (Protein RICE TAPETUM-SPECIFIC) 	174.18 	silver
+B4FB98	Uncharacterized protein 	arabidopsis	Q94AL6	Excitatory amino acid transporter (Uncharacterized protein At4g20150) 	233.92 	platinum
+B4FBB3	Uncharacterized protein 	arabidopsis	Q9M089	At4g31130 (Keratin-associated protein (DUF1218)) (Uncharacterized protein AT4g31130) 	537.75 	platinum
+B4FBF7	Uncharacterized protein 	arabidopsis	Q9FVW9	At1g77400 (At1g77400 protein) (Extensin-like protein) (Uncharacterized protein At1g77400) (Uncharacterized protein F2P24.15) 	299.22 	silver
+B4FC54	Uncharacterized protein 	arabidopsis	A0A1P8B2T5	Polyamine-modulated factor 1-binding protein 	794.30 	gold
+B4FC80	Uncharacterized protein 	arabidopsis	Q9FFT3	At5g54970 	75.25 	gold
+B4FCI7	Uncharacterized protein 	arabidopsis	Q8GWA2	Holliday junction resolvase MOC1, chloroplastic, EC 3.1.21.10 (Protein MONOKARYOTIC CHLOROPLAST 1, AtMOC1) 	549.74 	platinum
+B4FCQ2	Uncharacterized protein 	arabidopsis	Q8L9K4	Protein SOB FIVE-LIKE 5, AtSOFL5 	164.69 	gold
+B4FCT5	Uncharacterized protein family (UPF0114) 	arabidopsis	Q9FNA1	Uncharacterized protein At5g13720 (Uncharacterized protein family (UPF0114)) 	623.64 	platinum
+B4FD02	Uncharacterized protein 	arabidopsis	Q0V7S1	Actin protein 2/3 complex subunit-like protein (At2g28130) 	1030.85 	platinum
+B4FD65	Uncharacterized protein 	arabidopsis	Q9FHR8	Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, peroxisomal, AtDCI1, EC 5.3.3.21 	765.97 	platinum
+B4FD88	Uncharacterized protein 	arabidopsis	Q9SV00	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (At3g52030) (At3g52040) (Uncharacterized protein F4F15.150) 	236.50 	platinum
+B4FDN0	Uncharacterized protein 	arabidopsis	Q9C5F3	Uncharacterized protein At4g28025 	300.29 	platinum
+B4FDX6	Uncharacterized protein 	arabidopsis	O82638	BRISC and BRCA1-A complex member 1 (Mediator of RAP80 interactions and targeting subunit of 40 kDa) (New component of the BRCA1-A complex) 	673.63 	platinum
+B4FE97	Uncharacterized protein 	arabidopsis	Q9FY51	Hydroxyproline O-arabinosyltransferase 3, EC 2.4.2.58 	947.74 	platinum
+B4FF22	Uncharacterized protein 	arabidopsis	F4HXX2	Transmembrane protein 	231.71 	platinum
+B4FF58	Uncharacterized protein 	arabidopsis	Q9FF72	At5g05020 (Gb|AAC78534.1) (Pollen Ole e 1 allergen and extensin family protein) 	243.15 	silver
+B4FFV1	Uncharacterized protein 	arabidopsis	Q9SW23	AT4G25030 protein (At4g25030) (Serine/Threonine-kinase) (Uncharacterized protein At4g25030) (Uncharacterized protein F13M23.170) 	655.07 	platinum
+B4FGD9	Uncharacterized protein 	arabidopsis	Q9LVA9	Protein GAMETE CELL DEFECTIVE 1, mitochondrial, AtGCD1 	748.67 	platinum
+B4FGI2	Uncharacterized protein 	arabidopsis	Q9SRN4	Protein GL2-INTERACTING REPRESSOR 2 	179.38 	silver
+B4FGN1	Uncharacterized protein 	arabidopsis	Q0WTS1	Copper ion binding protein (Uncharacterized protein At4g32615) 	387.15 	silver
+B4FGT8	Uncharacterized protein 	arabidopsis	Q9LZE0	Transmembrane protein (Uncharacterized protein At5g03460) (Uncharacterized protein F12E4_230) 	186.30 	gold
+B4FH42	Uncharacterized protein 	arabidopsis	Q9SF17	F26K24.10 protein (Transmembrane protein) 	649.72 	gold
+B4FHB7	Uncharacterized protein 	arabidopsis	Q9M2P9	Uncharacterized protein At3g57990 (Uncharacterized protein T10K17.200) 	710.83 	platinum
+B4FHD3	Uncharacterized protein 	arabidopsis	Q8S8D0	At2g20515 (Expressed protein) (Pollen Ole e I family allergen protein) (Uncharacterized protein At2g20515) 	376.04 	platinum
+B4FHF2	Uncharacterized protein 	arabidopsis	Q94C50	Transmembrane protein, putative (DUF1218) (Uncharacterized protein At5g17210) 	448.55 	platinum
+B4FHI1	Uncharacterized protein 	arabidopsis	O23126	At1g22970/F19G10_8 (Cyclin-D1-binding protein) (Uncharacterized protein F19G10.8) 	877.76 	platinum
+B4FHW0	Uncharacterized protein 	arabidopsis	Q8L8X4	Low affinity potassium transport system protein (Uncharacterized protein At1g22790) 	295.10 	gold
+B4FI38	Uncharacterized protein 	arabidopsis	O65708	Protein MODIFYING WALL LIGNIN-2, MWL-2 	431.59 	gold
+B4FI97	Uncharacterized protein 	arabidopsis	Q8GWV0	At2g35290 (Uncharacterized protein At2g35290) 	173.83 	silver
+B4FIR6	Uncharacterized protein 	arabidopsis	Q9LZ73	3-oxoacyl-[acyl-carrier-protein] synthase-like protein 	735.44 	platinum
+B4FJ71	Uncharacterized protein 	arabidopsis	O64870	Ecotropic viral integration site protein (Uncharacterized protein At2g44360) 	307.03 	platinum
+B4FJ98	Uncharacterized protein 	arabidopsis	Q8VY58	Serine/threonine-protein phosphatase 4 regulatory subunit-like protein (Uncharacterized protein At5g17070) 	490.71 	gold
+B4FJS7	Uncharacterized protein 	arabidopsis	Q9LU25	DNA-directed RNA polymerase subunit beta 	1109.12 	platinum
+B4FKY0	Uncharacterized protein 	arabidopsis	Q949V8	At4g17310 (Uncharacterized protein At4g17310) 	53.73 	silver
+B4FLJ0	Uncharacterized protein 	arabidopsis	Q9SVS5	At4g21720 (Defensin-like protein) (Uncharacterized protein At4g21720) (Uncharacterized protein F17L22.180) 	312.20 	platinum
+B4FLZ9	Uncharacterized protein 	arabidopsis	O82305	At2g25920/F17H15.5 (Expressed protein) (Pollen-specific LRR extensin-like protein) 	333.58 	platinum
+B4FM33	Uncharacterized protein 	arabidopsis	O82167	At2g35260/T4C15.7 (CAAX protease self-immunity protein) (Expressed protein) 	883.91 	platinum
+B4FM95	Uncharacterized protein 	soybean	A0A0R0GGZ5	PLDc_N domain-containing protein 	765.69 	platinum
+B4FMF5	Uncharacterized protein 	arabidopsis	Q9FM89	F-box/FBD/LRR-repeat protein At5g56420 	730.08 	silver
+B4FN32	Uncharacterized protein 	arabidopsis	Q8L6Z3	At4g38290 (Integral membrane hemolysin-III-like protein) (Uncharacterized protein At4g38280) (Uncharacterized protein At4g38290) 	297.21 	silver
+B4FN75	Uncharacterized protein 	arabidopsis	Q6NQD5	At5g28690 (Carboxylate clamp-TPR protein (DUF1685)) (Uncharacterized protein At5g28690) 	338.82 	silver
+B4FNT9	Uncharacterized protein 	sorghum	A0A1B6Q3D2	BHLH domain-containing protein 	240.96 	platinum
+B4FPB1	Uncharacterized protein 	arabidopsis	Q84J91	Fantom protein (Uncharacterized protein At5g24500) 	236.46 	gold
+B4FPF7	Uncharacterized protein 	arabidopsis	Q9ZQQ1	Expressed protein (Transmembrane protein) (Uncharacterized protein At2g35790) 	524.18 	platinum
+B4FQ87	Uncharacterized protein 	arabidopsis	Q8LC12	At4g01897 (Dihydroorotate dehydrogenase) 	331.43 	platinum
+B4FQF9	Uncharacterized protein 	arabidopsis	A0A1P8ASA8	Copper transport protein family 	285.25 	silver
+B4FQP5	Uncharacterized protein family containing protein expressed 	arabidopsis	Q9LZ14	At5g02710 (Uncharacterized protein At5g02710) (Uncharacterized protein At5g02710; F9G14_20) (Uncharacterized protein F9G14_20) (Zinc/iron-chelating domain protein) 	416.34 	platinum
+B4FRL6	Uncharacterized protein 	arabidopsis	F4KHR6	G patch domain protein 	280.94 	silver
+B4FRV8	Uncharacterized protein 	arabidopsis	Q9SJ03	Expressed protein (Transmembrane protein) (Uncharacterized protein At2g21960) 	827.61 	platinum
+B4FRY6	Uncharacterized protein 	arabidopsis	Q8LA21	At4g32750 (Transmembrane protein) (Uncharacterized protein At4g32750) 	652.48 	platinum
+B4FSF7	Uncharacterized protein 	arabidopsis	Q9LPG2	At1g53460/T3F20_21 (Craniofacial development protein) (T3F20.22 protein) 	426.48 	platinum
+B4FSL0	Uncharacterized protein 	arabidopsis	Q9FMI8	At5g64090 (Hyccin) (Uncharacterized protein At5g64090) 	870.97 	platinum
+B4FT61	Uncharacterized protein 	arabidopsis	Q9SIR5	AmmeMemoRadiSam system protein B (Expressed protein) (Uncharacterized protein At2g25280) 	862.96 	platinum
+B4FTH3	Uncharacterized protein 	arabidopsis	Q9LTX0	AT3g12650/T2E22_103 (Transmembrane protein) (Uncharacterized protein T2E22.4) 	469.69 	platinum
+B4FTP8	Uncharacterized protein 	arabidopsis	Q9FYA0	AT5g13100/T19L5_60 (At5g13100) (Gap junction beta-4 protein) (Uncharacterized protein T19L5_60) 	836.08 	platinum
+B4FTW2	Uncharacterized protein family (UPF0114) 	arabidopsis	Q94JM4	AT4g19390/T5K18_170 (Uncharacterized protein family (UPF0114)) 	544.96 	platinum
+B4FUC3	Uncharacterized protein 	arabidopsis	Q9ASZ6	AT4g35320/F23E12_120 	210.54 	platinum
+B4FUV0	Uncharacterized protein 	arabidopsis	Q9LDP3	Gb|AAF32471.1 (Transmembrane protein) 	446.68 	silver
+B4FUW7	Uncharacterized conserved protein UCP022280 	arabidopsis	Q84K90	RGS1-HXK1-interacting protein 1 	560.04 	silver
+B4FUX9	Uncharacterized protein 	arabidopsis	Q9MAB2	At3g05070 (Cwf18 pre-mRNA splicing factor) (T12H1.3 protein) (Uncharacterized protein At3g05070) 	282.84 	platinum
+B4FV69	Uncharacterized protein 	arabidopsis	Q9FGX6	At5g49410 (Gb|AAF36742.1) (Thiamine-phosphate synthase) (Uncharacterized protein At5g49410) 	330.55 	platinum
+B4FVN8	Uncharacterized protein 	arabidopsis	Q9C8S1	Uncharacterized protein T1P2.9 	1041.55 	platinum
+B4FVX7	Uncharacterized protein 	human	Q8TDP1	Ribonuclease H2 subunit C, RNase H2 subunit C (Aicardi-Goutieres syndrome 3 protein, AGS3) (RNase H1 small subunit) (Ribonuclease HI subunit C) 	305.51 	gold
+B4FXE6	Uncharacterized protein 	arabidopsis	Q9LM77	At1g20770 (Coiled-coil protein) (F2D10.26) 	450.19 	platinum
+B4FYQ9	Uncharacterized protein 	arabidopsis	F4K087	Rrp15p protein 	531.90 	platinum
+B4FZ15	Uncharacterized protein 	pombe	Q9UTC2	Uncharacterized protein C227.17c 	221.74 	gold
+B4FZ30	Uncharacterized protein 	sorghum	C5XQ62	F-box domain-containing protein 	1379.72 	platinum
+B4FZI9	Uncharacterized protein 	arabidopsis	O48526	Expressed protein (Rho GTPase-activating gacO-like protein) (Uncharacterized protein At2g42190) 	101.52 	silver
+B4G044	No annotation 	sorghum	A0A1B6PLD6	Aldedh domain-containing protein 	1510.86 	platinum
+B4G057	Uncharacterized protein 	arabidopsis	Q84VV1	At5g41270 (RNase P Rpr2/Rpp21 subunit domain protein) (Uncharacterized protein At5g41270) 	393.78 	gold
+B4G107	Uncharacterized protein 	arabidopsis	Q93WB8	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (Uncharacterized protein At3g13410) 	637.62 	platinum
+B4G166	Uncharacterized conserved protein (UCP030365) 	arabidopsis	F4JZ91	Cation-transporting ATPase 	863.36 	gold
+B4G1Q2	Uncharacterized protein 	sorghum	A0A1B6QK28	Methyltranfer_dom domain-containing protein 	1112.65 	platinum
+B4G266	Uncharacterized protein 	arabidopsis	Q9FX03	At1g47310 (Signal peptidase I) (T3F24.7 protein) (Uncharacterized protein At1g47310) 	645.91 	gold
+B4G274	Uncharacterized protein 	arabidopsis	F4IBA7	Transmembrane protein 	776.12 	platinum
+B6SGK5	Uncharacterized protein 	arabidopsis	Q6NQD2	At5g12240 (Octanoyltransferase) (mRNA, clone: RAFL22-05-F16) 	163.15 	platinum
+B6SI10	Uncharacterized protein 	arabidopsis	Q9C7F4	AT1G27990 protein (Transmembrane protein) (Uncharacterized protein F13K9.9) 	613.00 	platinum
+B6SIL4	Uncharacterized protein 	arabidopsis	Q940U2	AT5g05220/K18I23_2 	186.09 	gold
+B6SIY7	Uncharacterized protein 	arabidopsis	Q8L776	ATP-dependent helicase/deoxyribonuclease subunit B (At3g51610) (Uncharacterized protein At3g51610) 	610.17 	platinum
+B6SJ90	Uncharacterized protein 	arabidopsis	F4JEW3	Transmembrane protein 	177.41 	silver
+B6SJD5	Uncharacterized protein 	arabidopsis	F4K5N0	Transmembrane protein 	277.73 	gold
+B6SJT5	Uncharacterized protein 	arabidopsis	O80569	GPI-anchored adhesin-like protein (Uncharacterized protein At2g43990) 	730.73 	platinum
+B6SJW3	Uncharacterized protein 	arabidopsis	Q9C9Z6	AT3g08600/F17O14_7 (Transmembrane protein, putative (DUF1191)) (Uncharacterized protein F17O14.7) 	761.99 	platinum
+B6SL65	Uncharacterized protein 	arabidopsis	F4HRG2	DHHA1 domain protein 	895.79 	platinum
+B6SLN4	Uncharacterized protein 	arabidopsis	Q8L8Q8	Uncharacterized protein At5g64816 	252.54 	platinum
+B6SLP3	Uncharacterized protein 	arabidopsis	O80833	At2g45860 (Uncharacterized protein At2g45860) 	185.43 	platinum
+B6SMK1	Uncharacterized protein 	arabidopsis	Q9SL91	At2g25720 (Expressed protein) (Uncharacterized protein At2g25720) 	168.71 	gold
+B6SN28	Uncharacterized protein 	arabidopsis	Q9LPW6	F13K23.8 protein (Nucleolin) 	182.55 	gold
+B6SNT2	Uncharacterized protein 	arabidopsis	F4J2X9	tRNA dimethylallyltransferase 	525.68 	platinum
+B6SQ64	Uncharacterized protein 	arabidopsis	Q9FLK3	Gb|AAF67766.1 	239.29 	silver
+B6SQD9	Uncharacterized protein 	arabidopsis	Q8LFL5	At1g49975 (Photosystem I reaction center subunit N) 	230.13 	gold
+B6SQL7	Uncharacterized protein 	arabidopsis	Q9LSC1	At3g15900 (Homoserine O-acetyltransferase) 	233.25 	platinum
+B6SQZ8	Uncharacterized protein 	arabidopsis	Q941E5	AT3g50680/T3A5_60 (Anti-muellerian hormone type-2 receptor) (Uncharacterized protein At3g50685) (Uncharacterized protein At3g50685/At3g50680) 	392.61 	platinum
+B6SRG3	Uncharacterized protein 	arabidopsis	Q9LPK9	F24J8.11 protein (Uncharacterized protein unannotated coding sequence from BAC F24J8) 	198.97 	platinum
+B6SSV0	Uncharacterized protein 	arabidopsis	Q8GYJ0	Golgin family A protein (Uncharacterized protein At4g22320) (Uncharacterized protein At4g22320/T10I14_150) 	198.37 	gold
+B6STD5	Uncharacterized protein 	arabidopsis	Q8VZT9	Transmembrane protein (Uncharacterized protein At4g00585) 	200.24 	platinum
+B6STE2	Uncharacterized protein 	arabidopsis	Q8LEL0	Pathogenic type III effector avirulence factor Avr AvrRpt-cleavage: cleavage site protein (Uncharacterized protein At5g48500) 	120.29 	gold
+B6STF0	Uncharacterized protein 	arabidopsis	Q3EDB5	Transmembrane protein 	224.03 	gold
+B6SVA4	Uncharacterized protein 	arabidopsis	Q949W7	Thermosome subunit gamma (Uncharacterized protein At5g19540) 	1018.65 	platinum
+B6SVG4	Uncharacterized conserved protein UCP031088 alpha/beta hydrolase 	sorghum	C5XHF9	Hydrolase_4 domain-containing protein 	1503.35 	platinum
+B6SWW2	Uncharacterized protein 	arabidopsis	Q9XI08	At1g21695 (F8K7.12) (Hydroxyproline-rich glycoprotein family protein) 	110.29 	silver
+B6SX51	Uncharacterized protein 	arabidopsis	Q9SKP5	At2g21180/F26H11.6 (Expressed protein) (Transmembrane protein) 	269.21 	gold
+B6SY86	Uncharacterized protein 	arabidopsis	Q9LYL4	Potassium transporter (Uncharacterized protein At3g56290) (Uncharacterized protein At3g56290; F18O21_250) (Uncharacterized protein F18O21_250) 	338.36 	platinum
+B6SYL0	Uncharacterized protein 	arabidopsis	Q8VYU9	At2g46730/F19D11.1 (Death domain associated protein) (Expressed protein) 	228.32 	gold
+B6SYX0	Uncharacterized protein 	arabidopsis	Q29Q07	At4g16447 	146.42 	gold
+B6T001	Uncharacterized protein 	arabidopsis	Q9ZQC7	Protamine P1 family protein (Uncharacterized protein At2g37100) 	446.13 	gold
+B6T337	Uncharacterized protein 	arabidopsis	O65448	At4g22000 (Tyrosine sulfotransferase-like protein) (Uncharacterized protein AT4g22000) (Uncharacterized protein At4g22000; F1N20.100) 	344.52 	platinum
+B6T373	Uncharacterized protein 	arabidopsis	Q9FRS7	At1g08580 (F22O13.6) 	222.73 	gold
+B6T3D6	Uncharacterized protein 	arabidopsis	Q9LPD7	T12C22.21 protein (Transmembrane protein) (Uncharacterized protein At1g44920) 	577.24 	platinum
+B6T3L7	Uncharacterized protein 	arabidopsis	Q8LA01	At3g22210 (Transmembrane protein) 	171.69 	gold
+B6T3V7	Uncharacterized protein 	arabidopsis	Q8GUH9	At1g64385 (Transmembrane protein) (Uncharacterized protein At1g64385) 	601.26 	gold
+B6T457	Uncharacterized protein 	arabidopsis	O64379	AT1G22750 protein (Transmembrane protein) 	630.43 	platinum
+B6T541	Uncharacterized protein 	arabidopsis	O64632	Coiled-coil protein (Expressed protein) (Uncharacterized protein At2g45520) 	351.20 	gold
+B6T591	Uncharacterized protein 	arabidopsis	A0A178W7H0	Plastid transcriptionally active protein 	304.51 	platinum
+B6T671	Uncharacterized protein 	arabidopsis	Q2HIU0	At3g15110 (Transmembrane protein) 	549.07 	platinum
+B6T6F1	Uncharacterized protein 	arabidopsis	Q8LEL5	At4g18400 	158.55 	gold
+B6T7N1	Uncharacterized protein 	arabidopsis	P82770	Putative defensin-like protein 120 (Putative low-molecular-weight cysteine-rich protein 56, Protein LCR56) 	148.51 	silver
+B6T7W9	Uncharacterized protein 	arabidopsis	A1A6I1	At1g69980 (Structural polyprotein) 	332.86 	gold
+B6T8N7	Uncharacterized protein 	arabidopsis	Q9SHP5	At1g28540 (F1K23.22) (Transmembrane protein) 	169.52 	gold
+B6T9I8	Uncharacterized protein 	arabidopsis	Q9C5C1	Uncharacterized protein At4g31330 	575.72 	gold
+B6T9J0	Uncharacterized protein 	arabidopsis	Q94AH1	Protein CANDIDATE G-PROTEIN COUPLED RECEPTOR 2, AtCand2 (Protein PHYTOMELATONIN RECEPTOR 1) 	763.39 	platinum
+B6TBJ2	Uncharacterized protein 	arabidopsis	Q8LDV3	Uncharacterized protein At4g13200, chloroplastic 	294.45 	platinum
+B6TGL6	Uncharacterized protein 	arabidopsis	Q9XI45	At1g15230/F9L1_18 (F9L1.18 protein) (Uncharacterized protein At1g15230) 	161.41 	gold
+B6TGV4	Uncharacterized protein 	arabidopsis	Q9FYH5	At1g30880 (F17F8.25) (Uncharacterized protein At1g30880) 	159.37 	gold
+B6TGW1	Uncharacterized protein 	arabidopsis	Q9LPU1	Secondary thiamine-phosphate synthase enzyme (T22I11.11 protein) (Uncharacterized protein At1g21065) 	407.03 	platinum
+B6THK3	Uncharacterized protein 	pombe	O42911	37S ribosomal protein S25, mitochondrial 	345.45 	gold
+B6TI48	Uncharacterized protein 	arabidopsis	Q9SYJ3	At4g01960 (Transmembrane protein) (Uncharacterized protein At4g01960) (Uncharacterized protein T7B11.22) 	358.42 	gold
+B6TIU7	Uncharacterized protein 	arabidopsis	O04342	At2g30530/T6B20.12 (Expressed protein) (Zinc finger CCCH domain protein) 	713.99 	gold
+B6TIU8	Uncharacterized protein 	arabidopsis	Q8GW24	At5g57910 (Ribosomal RNA small subunit methyltransferase G) (Uncharacterized protein At5g57910/MTI20_17) 	279.68 	gold
+B6TJ66	Uncharacterized protein 	arabidopsis	Q84R19	Basic leucine zipper/W2 domain protein (Uncharacterized protein At1g06010) 	118.77 	gold
+B6TK60	Uncharacterized protein 	arabidopsis	Q8LG56	At1g05205 (Hexokinase-1 protein) 	216.54 	platinum
+B6TKI8	Uncharacterized protein 	arabidopsis	Q9FK57	Gb|AAF00631.1 (Transmembrane protein) (Uncharacterized protein At5g18130) 	291.29 	gold
+B6TLH7	Uncharacterized protein 	arabidopsis	Q8S8K0	Expressed protein (Transmembrane protein) (Uncharacterized protein At2g17972) (Uncharacterized protein At2g17972/T27K22.22) 	290.69 	platinum
+B6TM36	Uncharacterized protein 	arabidopsis	F4HYQ1	WAS/WASL-interacting family protein 	292.34 	platinum
+B6TMU3	Uncharacterized protein 	arabidopsis	Q8L9M8	Uncharacterized protein At1g33810 (Uncharacterized protein At1g33810/F14M2_5) (Zinc finger/BTB domain protein) 	268.20 	platinum
+B6TNF8	Uncharacterized protein 	arabidopsis	O81841	AT4g27380/M4I22_190 (Uncharacterized protein AT4g27380) 	176.20 	gold
+B6TNK5	Uncharacterized protein 	arabidopsis	Q9FFC9	Voltage-dependent L-type calcium channel subunit 	567.64 	platinum
+B6TPD1	Uncharacterized protein 	arabidopsis	Q9LNX4	Cyclin-dependent protein kinase inhibitor SMR5 (Protein SIAMESE-RELATED 5) 	112.04 	gold
+B6TPR0	Uncharacterized protein 	arabidopsis	Q8LAD4	At5g57345 (Transmembrane protein) 	298.09 	platinum
+B6TQX0	Uncharacterized protein 	arabidopsis	Q9C8D7	At1g66080 (Hikeshi-like protein) (Uncharacterized protein At1g66080) (Uncharacterized protein F15E12.12) 	410.86 	platinum
+B6TSI3	Uncharacterized protein 	arabidopsis	Q9LH80	Transmembrane protein (Uncharacterized protein At3g14760) 	194.09 	gold
+B6TTB0	Uncharacterized protein 	arabidopsis	F4IA30	WD repeat protein 	394.70 	gold
+B6TUW4	Uncharacterized protein 	arabidopsis	B9DFM7	AT4G21215 protein (Transmembrane protein) 	211.44 	gold
+B6TW21	Uncharacterized protein 	arabidopsis	Q9SD78	Furry (Uncharacterized protein At5g08060) (Uncharacterized protein At5g08060/F13G24_260) (Uncharacterized protein F13G24.260) 	346.89 	platinum
+B6TW91	Uncharacterized protein 	arabidopsis	Q9SIQ8	AT2G31490 protein (At2g31490) (Expressed protein) (Neuronal acetylcholine receptor subunit alpha-5) (Uncharacterized protein At2g31490) 	191.31 	platinum
+B6TYS9	Uncharacterized protein 	arabidopsis	Q9LP48	At1g29190/F28N24_12 (F28N24.12 protein) (Phosphatidylinositol 4-phosphate 5-kinase MSS4-like protein) 	362.01 	platinum
+B6TZS3	Uncharacterized protein 	cerevisiae	P25568	Autophagy-related protein 22 	1042.48 	gold
+B6TZS4	Uncharacterized protein 	arabidopsis	Q9M2C7	At3g61370 (Pre-mRNA-splicing factor CWC22-like protein (DUF3245)) (Uncharacterized protein T20K12.270) 	254.85 	gold
+B6U0E1	Uncharacterized protein 	arabidopsis	Q9SMP3	At3g48550 (SHOOT GRAVITROPISM-like protein) (Uncharacterized protein T8P19.60) 	327.97 	gold
+B6U3S9	Uncharacterized protein 	arabidopsis	Q84JL6	Filamentous hemagglutinin transporter (Uncharacterized protein At1g79160) 	262.14 	gold
+B6U3Z1	Uncharacterized protein 	arabidopsis	Q9SKA5	At1g22630/F12K8_2 (F12K8.2 protein) (SSUH2-like protein) 	211.06 	platinum
+B6U405	Uncharacterized protein 	arabidopsis	Q84MD2	Protein CASPARIAN STRIP INTEGRITY FACTOR 1 	119.51 	gold
+B6U6C2	Uncharacterized protein 	arabidopsis	Q9M277	AT3g61870/F21F14_40 (Plant/protein) (Uncharacterized protein F21F14.40) 	586.50 	platinum
+B6U9K0	Uncharacterized protein 	arabidopsis	Q9FMG8	At5g43150 (Elongation factor) (Uncharacterized protein At5g43150) 	176.84 	platinum
+B6UD75	Uncharacterized protein 	sorghum	C5XIN7	HIT-type domain-containing protein 	1174.49 	platinum
+B6UGW2	Uncharacterized protein 	arabidopsis	Q9FJ96	At5g51960 (Complex 1 protein, LYR family protein) (Uncharacterized protein At5g51960) 	249.87 	platinum
+B6UHJ0	Uncharacterized protein 	arabidopsis	Q5EAF6	Probable F-box protein At5g04010 (Non-specific F-box protein) 	417.26 	platinum
+B6UHT1	Uncharacterized protein 	cerevisiae	Q12164	Pore membrane protein of 33 kDa 	508.62 	gold
+B7ZX10	Uncharacterized protein 	arabidopsis	Q8RWV9	Uncharacterized protein At5g08450 (Zinc finger CCCH domain protein) 	1532.82 	platinum
+B7ZYN1	Uncharacterized protein 	arabidopsis	Q0WM46	Vitellogenin-like protein 	530.44 	gold
+B7ZYY6	Uncharacterized protein 	arabidopsis	Q9M8K3	Cytochrome P450 family protein (F28L1.9 protein) 	1437.27 	platinum
+B8A0H4	Uncharacterized protein 	arabidopsis	F4JX48	Sphingomyelin phosphodiesterase 	1445.90 	platinum
+B8A212	Uncharacterized protein 	arabidopsis	Q94C20	AT5g64160/MHJ24_14 (Plant/protein) 	310.97 	platinum
+B8A3S5	Uncharacterized protein 	arabidopsis	Q9SRK7	Adenine/guanine permease AZG1 (AzgA-homolog protein) (Protein AZAGUANINE RESISTANT 1, AtAzg1) 	1535.59 	platinum
+C0HEB1	Uncharacterized protein 	arabidopsis	Q8GYN9	1,4-dihydroxy-2-naphthoyl-CoA synthase, peroxisomal, DHNS, EC 4.1.3.36 (Enoyl-CoA hydratase/isomerase D, ECHID) (Naphthoate synthase) 	871.87 	platinum
+C0HGL7	Uncharacterized protein 	arabidopsis	Q9SK63	Cytochrome oxidase complex assembly protein (Expressed protein) (Uncharacterized protein At2g20390) 	422.09 	platinum
+C0HH83	Uncharacterized protein 	arabidopsis	Q9LSZ3	Vascular-related unknown protein 1 	196.15 	gold
+C0HHX5	Uncharacterized protein 	cerevisiae	Q06466	Putative vacuolar protein sorting-associated protein TDA6 (Topoisomerase I damage affected protein 6) 	432.20 	silver
+C0HI10	Uncharacterized protein 	arabidopsis	A0A1I9LQC2	Transmembrane protein 	1714.19 	platinum
+C0P3S0	Uncharacterized protein 	arabidopsis	Q494P4	At2g40070 (En/Spm-like transposon protein) (Flocculation FLO11-like protein) 	944.23 	gold
+C0P507	Uncharacterized protein 	arabidopsis	O22262	DUF3511 domain protein, putative (DUF3511) (Uncharacterized protein At2g47480) (Uncharacterized protein At2g47480/T30B22.22) 	139.94 	silver
+C0P5T3	Uncharacterized protein 	arabidopsis	O22958	ATP synthase F1 complex assembly factor (At2g34050/T14G11.17) (Expressed protein) 	617.61 	platinum
+C0P6T4	Uncharacterized protein 	arabidopsis	Q9LY44	Transmembrane protein (Uncharacterized protein At3g56010) (Uncharacterized protein F27K19_190) 	367.09 	gold
+C0P8K0	Uncharacterized protein 	arabidopsis	Q6NL24	Probable enoyl-CoA hydratase 1, peroxisomal, EC 4.2.1.17 (Enoyl-CoA hydratase isoform A) 	745.18 	platinum
+C0P8T9	Uncharacterized protein 	arabidopsis	Q9XIQ9	F13O11.17 protein 	506.76 	gold
+C0P9F4	Uncharacterized protein 	arabidopsis	A0A1P8BAM2	Hyaluronan mediated motility receptor-like protein 	268.00 	silver
+C0PA21	Uncharacterized protein 	arabidopsis	Q9FKF4	Protein ORANGE, chloroplastic, AtOR (DnaJ-like cysteine-rich domain-containing protein OR) 	735.97 	platinum
+C0PBB6	Uncharacterized protein 	arabidopsis	Q6NPH1	At1g48200 	254.69 	gold
+C0PBL3	Uncharacterized protein 	arabidopsis	Q6NLX7	At4g36660 (Polyol transporter, putative (DUF1195)) 	309.93 	gold
+C0PCQ7	Uncharacterized protein 	arabidopsis	Q9SH64	F22C12.10 (WRKY transcription factor) 	1308.56 	platinum
+C0PD08	Uncharacterized protein 	arabidopsis	O49522	Transmembrane protein (Uncharacterized protein AT4g18540) (Uncharacterized protein F28J12.200) 	1141.54 	platinum
+C0PDW0	Uncharacterized protein 	arabidopsis	Q9FFY4	At5g13890 (Gb|AAD43171.1) (Plant viral-response family protein (DUF716)) (Uncharacterized protein At5g13890) 	441.98 	silver
+C0PE93	Uncharacterized protein 	arabidopsis	F4HY55	Myosin heavy chain-like protein 	687.89 	silver
+C0PEY2	Uncharacterized protein 	arabidopsis	Q6NM03	At2g25605 (DNA-directed RNA polymerase subunit beta) 	487.45 	platinum
+C0PFM0	Uncharacterized protein 	arabidopsis	F4K250	Ran-binding protein in the microtubule-organising centre protein 	1450.98 	platinum
+C0PHK8	Uncharacterized protein 	arabidopsis	Q9LHE6	E3 ubiquitin-protein ligase 	1158.38 	platinum
+C0PHN5	Uncharacterized protein 	arabidopsis	B9DF92	AT5G19900 protein (PRLI-interacting factor) 	588.22 	platinum
+C0PHW7	Uncharacterized protein 	arabidopsis	Q8RX89	AT5g23390/T32G24_2 (Polygalacturonase inhibitor (DUF639)) 	1745.25 	platinum
+C0PIC7	Uncharacterized protein 	arabidopsis	Q94JV9	AT4g15140/dl3615c 	223.23 	gold
+C0PKD6	Uncharacterized protein 	soybean	I1L485	LEA_2 domain-containing protein 	652.23 	silver
+C0PLH8	Uncharacterized protein 	arabidopsis	Q9SU31	Uncharacterized protein AT4g12540 	597.22 	platinum
+C0PMH6	Uncharacterized protein 	sorghum	A5Y3J9	Putative glucose-6-phosphate translocator 	1064.43 	platinum
+C4IZI6	Uncharacterized protein 	arabidopsis	Q9ZU37	Mediator of RNA polymerase II transcription subunit (Predicted by genscan and genefinder) (Uncharacterized protein At2g01300) 	364.32 	gold
+C4J358	Uncharacterized protein 	arabidopsis	Q9LXU6	At5g12930 (Inactive rhomboid protein) (Uncharacterized protein T24H18_90) 	827.76 	platinum
+C4J3R3	Uncharacterized protein 	arabidopsis	Q9C8N0	K+-H+ exchange-like protein (Uncharacterized protein At1g53760) (Uncharacterized protein F22G10.1) 	603.41 	platinum
+C4J8B9	Uncharacterized protein 	arabidopsis	A0A178W5Y7	Transmembrane protein 	137.54 	gold
+C4J8Y6	Uncharacterized protein 	arabidopsis	Q8VZE5	At1g05410/T25N20_5 (CDPK adapter, putative (DUF1423)) (Uncharacterized protein At1g05410) 	1016.73 	platinum
+C4JBA7	Uncharacterized protein 	arabidopsis	Q9LSU9	AT3g25550/MWL2_17 (Trigger factor) 	494.12 	gold
+C4JBI0	Uncharacterized protein 	arabidopsis	O23544	Neurofilament heavy protein (Uncharacterized protein AT4g17000) (Uncharacterized protein dl4530c) 	838.27 	platinum
+K7TIJ3	Uncharacterized protein 	arabidopsis	Q9LZ71	AT5g04550/T32M21_140 (Type-1 restriction enzyme mjaxp r protein (DUF668)) (Uncharacterized protein At5g04550) (Uncharacterized protein At5g04550; T32M21_140) (Uncharacterized protein T32M21_140) 	1062.16 	silver
+K7TJK1	Uncharacterized protein 	arabidopsis	Q9SJC2	Uncharacterized protein At2g04480 	247.10 	gold
+K7TJN7	Uncharacterized protein 	arabidopsis	Q9SMP6	At3g48510 (AtIII18x5-like protein) (Uncharacterized protein At3g48510) (Uncharacterized protein T8P19.20) 	414.05 	platinum
+K7TL68	Uncharacterized protein 	arabidopsis	Q1H551	At1g78890 (Uncharacterized protein At1g78890) 	228.55 	silver
+K7TN11	No annotation 	arabidopsis	Q9FIS0	LOW protein: M-phase inducer phosphatase-like protein 	789.07 	silver
+K7TNL9	Uncharacterized protein 	arabidopsis	Q9LIF6	Dynein beta chain, ciliary protein (Uncharacterized protein At3g21400) (Uncharacterized protein At3g21400/MHC9_8) 	329.64 	platinum
+K7TT17	Uncharacterized protein 	arabidopsis	F4HWR0	Desiccation-like protein 	819.68 	gold
+K7TT54	Uncharacterized protein 	sorghum	C5Y9K5	MATH domain-containing protein 	377.11 	platinum
+K7TUY7	Uncharacterized protein 	arabidopsis	Q56XJ7	Uncharacterized protein At4g22758 	419.93 	gold
+K7U0X5	Uncharacterized protein 	sorghum	C5YN32	PMEI domain-containing protein 	513.13 	platinum
+K7U209	Uncharacterized protein 	arabidopsis	Q9ZQF4	Spire, putative (DUF1685) (Uncharacterized protein At2g15590) (Uncharacterized protein At2g15590/F9O13.14) 	207.35 	silver
+K7U229	Uncharacterized protein 	arabidopsis	O48720	AR781 (AR781, pheromone receptor-like protein (DUF1645)) (AR781, similar to yeast pheromone receptor) 	252.87 	gold
+K7U311	Uncharacterized protein 	arabidopsis	Q9FIS4	ATP-dependent Clp protease ATP-binding subunit (At5g62140) 	587.71 	platinum
+K7U4T1	Uncharacterized protein 	arabidopsis	F4J9E8	Serine/Threonine-kinase 	269.49 	gold
+K7U7C5	Uncharacterized protein 	human	P0C5J1	Putative protein N-methyltransferase FAM86B2, EC 2.1.1.- 	384.64 	silver
+K7UBQ0	Uncharacterized protein 	rice	Q0E3V2	Protein YELLOW LEAF 1, choloroplastic 	230.42 	silver
+K7UF81	Uncharacterized conserved protein UCP015417 vWA 	arabidopsis	Q9LYV5	AT5g13210/T31B5_30 (Uncharacterized conserved protein UCP015417, vWA) (Uncharacterized protein T31B5_30) 	1591.89 	platinum
+K7ULT3	Uncharacterized protein 	arabidopsis	Q9T0K8	At4g13370 (Serine/arginine repetitive matrix protein, putative (DUF936)) (Uncharacterized protein AT4g13370) (Uncharacterized protein At4g13370/T9E8_110) 	1231.48 	platinum
+K7UMA8	Uncharacterized protein 	arabidopsis	Q9LZC0	Emb|CAB85509.1 (Uncharacterized protein F8F6_100) 	161.25 	silver
+K7UQY6	Uncharacterized protein 	arabidopsis	Q9M9H2	F14O23.12 (Nucleolar protein) 	123.76 	gold
+K7UR69	Uncharacterized protein 	arabidopsis	Q9LW03	At3g15760 (Cytochrome P450 family protein) 	185.16 	gold
+K7USU9	Uncharacterized protein 	sorghum	C5YI36	UBA domain-containing protein 	825.21 	platinum
+K7UT41	Uncharacterized protein 	arabidopsis	B9DG54	AT3G45050 protein (Transmembrane protein) 	281.77 	platinum
+K7UUZ7	Uncharacterized protein 	arabidopsis	Q9LZM2	Uncharacterized protein At5g02090 (Uncharacterized protein At5g02090/T7H20_140) (Uncharacterized protein T7H20_140) 	75.91 	gold
+K7UX41	Uncharacterized protein 	arabidopsis	Q93VI9	AT4g27390/M4I22_200 (Transmembrane protein) (Uncharacterized protein M4I22.200) 	417.42 	platinum
+K7UXD5	Uncharacterized protein 	sorghum	C5XY87	SMAP domain-containing protein 	447.46 	gold
+K7UXZ9	No annotation 	sorghum	C5Y1D1	LYR motif-containing protein 2 	239.76 	platinum
+K7UYL7	Uncharacterized protein 	arabidopsis	Q9C659	Uncharacterized protein F28B23.18 	180.06 	gold
+K7UZ44	Uncharacterized protein 	arabidopsis	Q9ZUN9	Transmembrane protein (Uncharacterized protein At2g19530) 	302.71 	silver
+K7V0S8	Uncharacterized protein 	sorghum	C5YZV2	LEA_2 domain-containing protein 	169.63 	silver
+K7V195	Uncharacterized protein 	arabidopsis	Q9SVS7	DUF2921 family protein, putative (DUF2921) (Uncharacterized protein AT4g21700) (Uncharacterized protein F17L22.160) 	1717.13 	platinum
+K7V1S7	Uncharacterized protein 	arabidopsis	Q8GXH5	37S ribosomal protein S27 (Uncharacterized protein At5g44710) (Uncharacterized protein At5g44710/K23L20_5) 	279.96 	platinum
+K7V1Z2	Uncharacterized protein 	sorghum	A0A1Z5RGY4	FLZ-type domain-containing protein 	61.12 	silver
+K7V2H9	Uncharacterized protein 	arabidopsis	Q8VZ65	Uncharacterized protein At1g67785 	167.94 	gold
+K7V3T9	Uncharacterized protein 	arabidopsis	Q5EAH9	At3g55760 	1239.59 	gold
+K7V3Y6	Uncharacterized protein 	arabidopsis	Q9SCJ8	Putative B3 domain-containing protein At3g49610 	478.54 	silver
+K7V4L0	Uncharacterized protein 	arabidopsis	Q9LXC3	Heat shock protein (Uncharacterized protein F17I14_230) 	894.27 	platinum
+K7V7N6	Uncharacterized protein 	arabidopsis	Q9LII3	AT3g18560/K24M9_5 	200.35 	silver
+K7VBA4	Uncharacterized protein 	arabidopsis	Q9ZV49	Expressed protein (Transmembrane protein) 	813.98 	gold
+K7VDA2	Uncharacterized protein 	arabidopsis	Q9FN15	Protein CONSERVED IN THE GREEN LINEAGE AND DIATOMS 27, chloroplastic 	756.05 	platinum
+K7VEZ6	Uncharacterized protein 	arabidopsis	Q9FKU6	Serine-rich protein-like protein 	153.42 	silver
+K7VFY9	Uncharacterized protein 	arabidopsis	Q9LS59	TATA box-binding protein associated factor RNA polymerase I subunit C 	1283.51 	platinum
+K7VG83	Uncharacterized protein 	arabidopsis	Q9SUZ7	At3g52070 (RNA/RNP complex-1-interacting phosphatase) (Uncharacterized protein F4F15.180) 	203.63 	gold
+K7VQ25	Uncharacterized protein 	arabidopsis	F4HSN5	Plant/protein 	370.70 	platinum
+K7VQV4	Uncharacterized protein 	arabidopsis	Q8RU85	At2g31940/F20M17.2 (Expressed protein) (Transmembrane protein) 	141.00 	gold
+K7VRH4	Uncharacterized protein 	arabidopsis	Q8W4E6	Hydroxyproline O-arabinosyltransferase 1, EC 2.4.2.58 	939.40 	gold
+K7VSV5	Uncharacterized protein 	arabidopsis	Q9LTK2	Dbj|BAA83359.1 (Transmembrane protein 161AB protein) (Uncharacterized protein At5g52180) 	776.94 	platinum
+K7VTI9	Uncharacterized protein ycf33 	sorghum	C5Z8K3	Uncharacterized protein ycf33 	395.72 	gold
+K7W4Z7	Uncharacterized protein 	sorghum	A0A1W0VS32	FLZ-type domain-containing protein 	271.64 	gold
+K7W6N6	Uncharacterized protein 	sorghum	A0A194YH43	WRKY domain-containing protein 	279.86 	silver
+K7W9P1	Uncharacterized protein 	arabidopsis	Q9SZE0	At4g29110 (Cotton fiber protein) (Uncharacterized protein AT4g29110) (Uncharacterized protein F19B15.140) 	306.05 	silver
+Q33301	Uncharacterized protein ycf70 (ORF69) 	rice	Q32759	Uncharacterized protein ycf70 (ORF89) 	154.71 	gold
+Q36907	Uncharacterized protein ycf73 (ORF173) 	rice	Q37066	Uncharacterized protein ycf73 (ORF249) 	481.18 	platinum
+Q5NKP4	Uncharacterized protein 	sorghum	Q5NKS1	Uncharacterized protein 131L1.10b 	125.11 	gold
+Q5NKP5	Uncharacterized protein 	sorghum	Q5NKS2	Uncharacterized protein 131L1.10a 	104.84 	gold
+Q6R991	Uncharacterized protein orf105-e 	arabidopsis	P94024	Uncharacterized mitochondrial protein AtMg00170/AtMg00620 (ORF139b/ORF139a) 	115.31 	gold
+Q6R993	Uncharacterized protein orfX 	sorghum	Q09EL5	Transport membrane protein 	748.22 	platinum
+Q6R9C5	Uncharacterized protein ycf72 	sorghum	A0A109NDX4	Uncharacterized protein ycf72 	53.20 	silver
+Q6R9F6	Uncharacterized protein orf179 	rice	Q8HCQ2	Orf288 protein 	432.57 	platinum
+Q6R9K8	Uncharacterized protein orf117-a 	sorghum	Q8SAB0	Putative GAG-POL-orf1 protein 	209.98 	silver
+Q7GES6	Uncharacterized protein 	arabidopsis	P56786	Protein Ycf2 	383.41 	gold
+A0A1D6FE07	Uncharacterized protein 	sorghum	A0A1W0VW78	GUB_WAK_bind domain-containing protein 	501.35 	silver
+A0A1D6FWM1	Uncharacterized protein family SERF 	sorghum	A0A1Z5R2M3	4F5 domain-containing protein 	199.33 	silver
+A0A1D6GE43	Uncharacterized protein 	arabidopsis	Q9SAD3	Cyclin-dependent protein kinase inhibitor SMR8 (Protein SIAMESE-RELATED 8) 	76.32 	silver
+A0A1D6GM13	Uncharacterized protein 	sorghum	A0A1B6QNF2	Ribosomal_L16 domain-containing protein 	744.01 	silver
+A0A1D6HRL8	Uncharacterized protein 	sorghum	C5X7W4	NB-ARC domain-containing protein 	1232.44 	silver
+A0A1D6J7F3	Uncharacterized protein 	sorghum	A0A1Z5R2V9	ULP_PROTEASE domain-containing protein 	1693.46 	silver
+A0A1D6LLF2	Uncharacterized protein 	sorghum	C5Z4S8	DUF569 domain-containing protein 	713.39 	silver
+A0A1D6MLU2	Uncharacterized protein 	sorghum	A0A1W0VW58	GUB_WAK_bind domain-containing protein 	451.27 	gold
+A0A1D6MLU8	Uncharacterized protein 	sorghum	C5XQQ7	GUB_WAK_bind domain-containing protein 	433.38 	gold
+A0A1D6Q6Y6	Uncharacterized protein 	sorghum	A0A1B6QD07	ULP_PROTEASE domain-containing protein 	223.74 	silver
+K7V2X8	Uncharacterized protein 	arabidopsis	O04191	At2g39870/T5I7.17 (Expressed protein) (Uncharacterized protein At2g39870) 	319.21 	silver
+K7VQY6	Uncharacterized protein 	sorghum	A0A1B6PIH7	DUF569 domain-containing protein 	632.20 	silver
+Q37082	Uncharacterized protein ycf72 (ORF137) 	sorghum	C6JSF5	Uncharacterized protein ycf72 	65.66 	silver
+A0A1D6ED36	Uncharacterized protein 	sorghum	A0A1B6Q577	Protein kinase domain-containing protein 	113.09 	silver
+A0A1D6MPG1	Uncharacterized protein 	arabidopsis	Q8GWS3	Heavy metal-associated isoprenylated plant protein 2, AtHIP02 	223.26 	silver
+A0A1D6QVA6	Uncharacterized protein 	sorghum	A0A1Z5RBD3	ULP_PROTEASE domain-containing protein 	1282.57 	silver
+A0A096T997	Uncharacterized protein 	arabidopsis	P0CB21	Uncharacterized protein At4g26450 	761.64 	silver
+A0A1D6DTD9	Uncharacterized protein 	cerevisiae	P32893	Trafficking protein particle complex II-specific subunit 65, TRAPP II-specific subunit 65 (Beta-glucan synthesis-associated protein TRS65) (Killer toxin-resistance protein 11) (Transport protein particle 65 kDa subunit) 	406.54 	gold
+A0A1D6E644	Uncharacterized protein 	arabidopsis	F4I444	Eisosome protein 	511.20 	platinum
+A0A1D6EC07	Uncharacterized protein 	rice	Q7XL73	Protein PYRICULARIA ORYZAE RESISTANCE 21, Pi21 	274.79 	silver
+A0A1D6ET93	Uncharacterized protein 	arabidopsis	F4IG60	Protein LITTLE ZIPPER 1 	278.51 	silver
+A0A1D6EZ70	Uncharacterized protein 	arabidopsis	Q9FGV5	40S ribosomal protein S27 	910.19 	gold
+A0A1D6F0E9	Uncharacterized protein 	human	Q9BY12	S phase cyclin A-associated protein in the endoplasmic reticulum, S phase cyclin A-associated protein in the ER (Zinc finger protein 291) 	970.95 	silver
+A0A1D6F9E1	Uncharacterized protein 	arabidopsis	F4JIJ1	Fanconi anemia group D2 protein 	3244.17 	platinum
+A0A1D6FU34	Uncharacterized protein 	arabidopsis	Q94AU3	Expressed protein (Uncharacterized protein At2g21385) (Uncharacterized protein At2g21385/F3K23.12) 	576.31 	platinum
+A0A1D6G0H8	Uncharacterized protein 	arabidopsis	Q8VYQ0	Proteasome assembly chaperone (Uncharacterized protein At1g48170) 	354.83 	platinum
+A0A1D6GLU6	Uncharacterized protein 	arabidopsis	O82329	MAR-binding filament-like protein (Uncharacterized protein At2g14910) 	753.88 	platinum
+A0A1D6GRZ6	Uncharacterized protein 	arabidopsis	Q9M0H9	At4g28290 (Uncharacterized protein AT4g28290) 	81.81 	gold
+A0A1D6GT33	Uncharacterized protein 	arabidopsis	Q6DYC8	Chalcone-flavanone isomerase family protein 	235.07 	gold
+A0A1D6H6I8	Uncharacterized protein 	arabidopsis	Q9FVU7	40S ribosomal protein (At1g57540) (Uncharacterized protein At1g57540/F25P12_3) (Uncharacterized protein T8L23.1) 	96.73 	gold
+A0A1D6HE29	No annotation 	soybean	K7MS23	Myb_DNA-bind_3 domain-containing protein 	590.28 	silver
+A0A1D6HFP2	Uncharacterized protein 	soybean	I1NFA6	THUMP domain-containing protein 	596.03 	platinum
+A0A1D6HHB9	Uncharacterized protein 	cerevisiae	P14680	Dual specificity protein kinase YAK1, EC 2.7.12.1 	1186.65 	gold
+A0A1D6HJU3	Uncharacterized protein 	arabidopsis	Q8VYY6	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase (Uncharacterized protein At1g19020) 	106.95 	gold
+A0A1D6I8K3	Uncharacterized protein 	arabidopsis	Q9LX28	At3g59430 (Uncharacterized protein F25L23_290) 	625.04 	gold
+A0A1D6IN61	No annotation 	arabidopsis	O82243	Putative indole-3-acetic acid-amido synthetase GH3.9, EC 6.3.2.- (Auxin-responsive GH3-like protein 9, AtGH3-9) 	1673.50 	platinum
+A0A1D6INF5	Uncharacterized protein 	arabidopsis	Q6GKY0	At5g18540 (E3 ubiquitin-protein ligase) 	206.28 	gold
+A0A1D6IRE4	Uncharacterized protein 	arabidopsis	Q84R09	Glycosyltransferase (UDP-N-acetylglucosamine transferase subunit ALG14-like protein) (Uncharacterized protein At4g18230) 	525.06 	platinum
+A0A1D6IZH0	Uncharacterized protein 	arabidopsis	Q0WPJ3	Transmembrane protein (Uncharacterized protein At1g74530) 	765.86 	platinum
+A0A1D6J2U7	Uncharacterized protein 	arabidopsis	Q9SB47	Protein SICKLE (Protein ROTUNDA 3) 	318.94 	gold
+A0A1D6JKP0	Uncharacterized protein 	arabidopsis	Q8GY72	At5g03050 (Knotted 1-binding protein) (Uncharacterized protein At5g03050/F15A17_80) 	258.68 	gold
+A0A1D6JL57	Uncharacterized protein 	arabidopsis	O22980	NADP-specific glutamate dehydrogenase (T19F6.9 protein) (Uncharacterized protein AT4g24110) 	362.32 	gold
+A0A1D6JRW3	Uncharacterized protein 	arabidopsis	Q9SZF3	Uncharacterized protein AT4g37600 (Uncharacterized protein F19F18.90) 	190.79 	gold
+A0A1D6JX35	Uncharacterized protein 	arabidopsis	Q9LJN8	Mitotic checkpoint protein BUB3.1 (Protein BUDDING UNINHIBITED BY BENZYMIDAZOL 3.1) 	165.92 	silver
+A0A1D6K2K2	Uncharacterized protein 	arabidopsis	F4K4R1	Fanconi anemia group I-like protein 	2822.07 	platinum
+A0A1D6K7D0	Uncharacterized protein 	soybean	K7M8M3	SWIRM domain-containing protein 	3219.81 	platinum
+A0A1D6KC18	Uncharacterized protein 	arabidopsis	F4JUG3	Nucleoporin (DUF3414) 	4160.78 	platinum
+A0A1D6KCF9	Uncharacterized protein 	arabidopsis	Q2HIW6	At5g51840 (Junctophilin-like protein) 	338.13 	platinum
+A0A1D6KD25	Uncharacterized protein 	arabidopsis	F4HR83	Tropomyosin 	287.80 	gold
+A0A1D6KDK3	Uncharacterized protein 	soybean	K7MVC4	zf-C3H1 domain-containing protein 	2533.99 	platinum
+A0A1D6KGJ6	Uncharacterized protein 	arabidopsis	Q9FT46	Transmembrane protein (Uncharacterized protein At3g52360) (Uncharacterized protein T25B15_130) 	169.95 	platinum
+A0A1D6KQ55	Uncharacterized protein 	arabidopsis	Q9FNL6	Emb|CAB89385.1 (Expressed protein) 	594.20 	platinum
+A0A1D6KTL0	Uncharacterized protein 	arabidopsis	Q1PE84	RNA-binding protein 	299.33 	gold
+A0A1D6KVD6	Uncharacterized protein 	arabidopsis	Q8GUP4	Centromere protein O (Uncharacterized protein At5g10710) 	292.98 	platinum
+A0A1D6KWG9	Uncharacterized protein 	arabidopsis	O49624	Putative F-box protein At4g22180 	721.03 	silver
+A0A1D6L412	Uncharacterized protein 	arabidopsis	F4I7W9	DNAse I-like superfamily protein 	492.43 	silver
+A0A1D6L4K6	Uncharacterized protein 	arabidopsis	Q8LG39	At1g31335 (Transmembrane protein) 	142.57 	gold
+A0A1D6LH29	Uncharacterized protein 	arabidopsis	A0A1P8B6J2	Transmembrane protein 	161.97 	silver
+A0A1D6LJU6	Uncharacterized protein 	pombe	O74883	DNA-directed RNA polymerase III subunit rpc5, RNA polymerase III subunit C5 (RNA polymerase III subunit C37) 	316.71 	silver
+A0A1D6LQ56	Uncharacterized protein 	arabidopsis	Q8L9R0	At4g31150 (Endonuclease V family protein) (Uncharacterized protein At4g31150) 	679.85 	platinum
+A0A1D6M1L7	Uncharacterized protein 	arabidopsis	Q9LYC9	Uncharacterized protein T20O10_20 (Zinc metalloproteinase aureolysin) 	169.61 	gold
+A0A1D6M9R0	Uncharacterized protein 	arabidopsis	Q9FZD2	Chromatin modification-like protein (T1K7.16 protein) (Uncharacterized protein At1g26470) 	168.05 	gold
+A0A1D6MBV7	Uncharacterized protein 	arabidopsis	O65680	At4g34550 (F-box protein) (Uncharacterized protein AT4g34550) (Uncharacterized protein T4L20.130) 	187.22 	silver
+A0A1D6MKP3	Uncharacterized protein 	arabidopsis	Q9SHB0	Import inner membrane translocase subunit (Uncharacterized protein At2g40800) (Uncharacterized protein At2g40800; T7D17.2) 	907.19 	silver
+A0A1D6N6A3	Uncharacterized protein 	arabidopsis	A8MR99	Chromosome-partitioning protein, putative (DUF639) 	1539.57 	platinum
+A0A1D6N6L6	Uncharacterized protein 	arabidopsis	Q9FY88	Transmembrane protein (Uncharacterized protein At5g09270) (Uncharacterized protein At5g09270/T5E8_70) (Uncharacterized protein T5E8_70) 	246.60 	platinum
+A0A1D6NAA0	Uncharacterized protein 	human	A2AJT9	BCLAF1 and THRAP3 family member 3 	548.99 	silver
+A0A1D6NI31	Uncharacterized protein 	soybean	I1M6X1	BHLH transcription factor 	237.40 	gold
+A0A1D6NKP5	Uncharacterized protein 	arabidopsis	F4KAI4	Hydroxyproline-rich glycoprotein family protein 	457.96 	silver
+A0A1D6NMW9	Uncharacterized protein 	arabidopsis	Q94AQ7	Tail fiber (Uncharacterized protein At5g11280) 	496.43 	platinum
+A0A1D6NMZ1	Uncharacterized protein 	arabidopsis	Q9FNJ1	F-box/FBD/LRR-repeat protein At5g22700 	687.20 	silver
+A0A1D6NQ33	Uncharacterized protein 	arabidopsis	Q8RY09	AT3g08780/F17O14_25 (BRISC complex subunit Abro1-like protein) 	559.68 	platinum
+A0A1D6NTB3	Uncharacterized protein 	arabidopsis	Q56YR0	Chorismate synthase (Uncharacterized protein At4g01290) 	1134.27 	gold
+A0A1D6P658	No annotation 	human	Q9P2R6	Arginine-glutamic acid dipeptide repeats protein (Atrophin-1-like protein) (Atrophin-1-related protein) 	1126.07 	silver
+A0A1D6PDD4	Uncharacterized protein 	arabidopsis	A0JQ16	AT1G67060 protein (At1g67060) (Peptidase M50B-like protein) 	570.69 	platinum
+A0A1D6PQA5	Uncharacterized protein 	arabidopsis	Q1H5D6	At3g63390 	330.82 	platinum
+A0A1D6QC12	No annotation 	soybean	I1LZM7	DNA replication licensing factor MCM5, EC 3.6.4.12 	2012.50 	platinum
+A0A1D6QNT6	Uncharacterized protein 	rice	Q8W1L6	Peroxisomal fatty acid beta-oxidation multifunctional protein, MFP [Includes: Enoyl-CoA hydratase/3-2-trans-enoyl-CoA isomerase/3-hydroxybutyryl-CoA epimerase, EC 4.2.1.17, EC 5.1.2.3, EC 5.3.3.8; 3-hydroxyacyl-CoA dehydrogenase, EC 1.1.1.35 ] 	2136.79 	platinum
+A0A1D6QP20	Uncharacterized protein 	arabidopsis	Q9SF52	Putative non-LTR reverse transcriptase (Ribonuclease H-like superfamily protein) 	854.16 	gold
+A0A1X7YHU3	No annotation 	soybean	K7LQ40	Pyr_redox_2 domain-containing protein 	1047.29 	platinum
+A0A1X7YIP1	No annotation 	soybean	K7MCN6	DAO domain-containing protein 	1008.93 	platinum
+A0A3B6UD72	No annotation 	rice	P0C355	Photosystem I P700 chlorophyll a apoprotein A1, EC 1.97.1.12 (PSI-A) (PsaA) 	2231.86 	platinum
+B4F7U4	Uncharacterized protein 	arabidopsis	Q9FHJ5	AT5G45410 protein (Uncharacterized protein At5g45410) (Zinc finger B-box protein) 	586.94 	silver
+B4FAT7	Uncharacterized protein 	arabidopsis	Q9LY04	At3g56360 (Uncharacterized protein At3g56360) (Uncharacterized protein T5P19_10) 	382.52 	gold
+B4FF96	Uncharacterized protein 	arabidopsis	Q8GXK1	At4g33625 (Vacuole protein) 	445.19 	gold
+B4FIU0	Uncharacterized protein 	arabidopsis	Q6ID72	At4g32110 (Beta-1,3-N-Acetylglucosaminyltransferase family protein) 	315.62 	gold
+B4FP97	Uncharacterized protein 	arabidopsis	Q8GYS0	Uncharacterized protein At5g19190 (Uncharacterized protein At5g19190/T24G5_90) 	139.88 	gold
+B4FQZ4	Uncharacterized protein 	pombe	Q9Y7M6	Ribosomal RNA-processing protein 1 homolog 	456.92 	gold
+B4FRK8	Uncharacterized protein 	arabidopsis	Q1ECK0	At1g03730 (Pyrroline-5-carboxylate reductase) 	428.02 	platinum
+B4FUE2	Uncharacterized protein 	arabidopsis	Q94K72	Ephrin-A3 protein (Uncharacterized protein At1g16170) 	181.58 	gold
+B6SH08	Uncharacterized protein 	arabidopsis	O49715	Uncharacterized protein AT4g21920 (Uncharacterized protein T8O5.130) 	138.72 	gold
+B6SQC8	Uncharacterized protein 	arabidopsis	Q1G3Y6	Multidrug resistance protein 	203.59 	silver
+B6T332	Uncharacterized protein 	arabidopsis	Q9FL00	Emb|CAB62433.1| (Membrane-associated kinase regulator-like protein) 	152.60 	silver
+B6TME6	Uncharacterized protein 	arabidopsis	Q8GWC7	MICOS complex subunit, putative (DUF543) (Uncharacterized protein At1g72165/T9N14_2) (Uncharacterized protein At1g72170) 	202.98 	platinum
+B6U6D2	Uncharacterized protein 	arabidopsis	Q94K21	Uncharacterized protein unannotated coding sequence from BAC F9L11 	121.30 	gold
+B7ZZ60	Uncharacterized protein 	arabidopsis	Q9SUZ4	At3g52110 (Interferon-activable protein) (Uncharacterized protein F4F15.220) 	422.14 	gold
+C0HE51	Uncharacterized protein 	human	O15205	Ubiquitin D (Diubiquitin) (Ubiquitin-like protein FAT10) 	387.74 	silver
+C0P5X2	Uncharacterized protein 	human	P40222	Alpha-taxilin 	984.15 	platinum
+C0P6B1	Uncharacterized protein 	human	Q6UW68	Transmembrane protein 205 	356.83 	silver
+C0PJ00	Uncharacterized protein 	arabidopsis	Q9SSG6	At1g74860 (F25A4.17) 	652.72 	gold
+C4IYS0	Uncharacterized protein 	arabidopsis	Q84J78	Single-stranded DNA-binding protein, mitochondrial 	454.52 	platinum
+C4J4Y5	Uncharacterized protein 	arabidopsis	Q9SJQ8	DUF868 family protein, putative (DUF868) (Expressed protein) 	567.20 	gold
+K7U718	Uncharacterized protein 	arabidopsis	O22166	Uncharacterized protein At2g44850 	698.49 	platinum
+K7U7A6	Uncharacterized protein 	arabidopsis	Q8LAF4	Nucleoporin protein Ndc1-Nup protein 	1099.55 	platinum
+K7UGQ0	Uncharacterized conserved protein UCP022280 	arabidopsis	Q94AZ5	Alanine-tRNA ligase (At2g45060/T14P1.13) 	692.65 	gold
+K7UYL3	Uncharacterized protein 	arabidopsis	F4HXC5	F-box protein 	430.28 	silver
+K7VV99	Uncharacterized protein 	arabidopsis	Q8GW85	DUF1677 family protein (DUF1677) (Uncharacterized protein At5g25840) (Uncharacterized protein At5g25840/F18A17_90) 	352.64 	gold
+P03938	Uncharacterized protein ycf68 (ORF 134) 	rice	P12173	Uncharacterized protein ycf68 (ORF133) 	118.77 	gold
+Q36997	Uncharacterized protein ycf76 (ORF85) 	rice	Q32766	Uncharacterized protein ycf76 (ORF85) 	98.69 	gold
+Q6R9K1	Uncharacterized protein orf158-a1 (Uncharacterized protein orf158-a2) 	rice	Q8HCM5	Mitchondrion orf173 	77.54 	gold
+A0A096TUU6	No annotation 	rice	A0A0P0Y838	Ribulose bisphosphate carboxylase large chain, EC 4.1.1.39 	1407.97 	silver
+A0A1D6KPT7	Uncharacterized protein 	arabidopsis	Q9LSM6	AT5g65480/K19O4_1 (Uncharacterized protein At5g65480) 	149.41 	gold
+A0A1D6MDQ6	Uncharacterized protein 	pombe	O74989	Uncharacterized protein C338.12 	145.19 	silver
+A0A1X7YDJ4	No annotation 	human	Q8WZ42	Titin, EC 2.7.11.1 (Connectin) (Rhabdomyosarcoma antigen MU-RMS-40.14) 	608.27 	gold
+A0A1X7YIM2	No annotation 	rice	Q6K8S5	Putative cyclin-F1-2, CycF1;2 	728.09 	gold
+B6UGZ5	Uncharacterized protein 	arabidopsis	O65920	At2g19000 (Expressed protein) 	186.03 	gold
+Q6R988	Uncharacterized protein orf186 	rice	Q35317	ORF224 	219.66 	silver
+Q6R9N3	Uncharacterized protein 	rice	Q8HCQ5	Orf183 protein 	170.26 	silver
+A0A1D6F9B4	Uncharacterized protein 	arabidopsis	Q8W3K0	Probable disease resistance protein At1g58602 	1500.99 	silver
+A0A1D6JP10	Uncharacterized protein 	arabidopsis	F4IBR2	Nucleolar pre-ribosomal-associated protein 	613.53 	silver
+A0A1D6DXP9	Uncharacterized protein 	arabidopsis	Q56YT7	Vascular-related unknown protein 3 	159.88 	gold
+A0A1D6FGH3	Uncharacterized protein 	soybean	I1LV08	Protein kinase domain-containing protein 	1405.36 	gold
+A0A1D6FLR3	No annotation 	cerevisiae	Q07478	ATP-dependent RNA helicase SUB2, EC 3.6.4.13 (Suppressor of BRR1 protein 2) 	1164.58 	platinum
+A0A1D6FQ49	Uncharacterized protein 	soybean	A0A0R0G412	RRM domain-containing protein 	503.58 	silver
+A0A1D6G1K4	Uncharacterized protein 	soybean	I1K5X0	SPOROCYTELESS-like EAR-containing protein 	171.37 	silver
+A0A1D6GCE0	Uncharacterized protein 	arabidopsis	Q6NQH1	At1g70350 (Uncharacterized protein At1g70350) 	90.58 	silver
+A0A1D6H403	Uncharacterized protein 	arabidopsis	Q9LK83	Portal protein 	2303.19 	silver
+A0A1D6HL06	Uncharacterized protein 	arabidopsis	F4JQZ7	Pesticidal crystal cry8Ba protein 	2690.23 	platinum
+A0A1D6IA79	Uncharacterized protein 	arabidopsis	Q6GKX1	At5g42330 (Uncharacterized protein At5g42330) 	178.12 	gold
+A0A1D6J468	Uncharacterized protein 	arabidopsis	F4KIY2	MraZ 	3536.30 	gold
+A0A1D6J5J1	Uncharacterized protein 	soybean	A0A0R0F0J5	BED-type domain-containing protein 	136.38 	silver
+A0A1D6JP72	Uncharacterized protein 	arabidopsis	Q940J7	Transmembrane protein (Uncharacterized protein At4g40045) 	252.10 	gold
+A0A1D6KPH6	No annotation 	soybean	B0M1A6	Betaine aldehyde dehydrogenase (Peroxisomal betaine-aldehyde dehydrogenase) 	1486.32 	platinum
+A0A1D6MF20	Uncharacterized protein 	soybean	K7KIW2	PH domain-containing protein 	782.56 	platinum
+A0A1D6PET8	Uncharacterized protein 	arabidopsis	Q9LZX9	At3g60850 (Uncharacterized protein At3g60850) (Uncharacterized protein T4C21_260) 	1177.11 	platinum
+A0A1D6QNQ0	Uncharacterized protein 	arabidopsis	F4IDB2	Protein PHYTOCHROME-DEPENDENT LATE-FLOWERING 	1681.65 	platinum
+A0A1X7YE92	No annotation 	soybean	I1L649	Myb-like domain-containing protein 	584.58 	silver
+A0A3B6UD32	No annotation 	soybean	M1FIR2	Cytochrome c biogenesis FC 	898.14 	platinum
+B4F9M0	Uncharacterized protein 	arabidopsis	Q9FJJ1	Microtubule-associated futsch-like protein (Uncharacterized protein At5g62550) 	516.80 	gold
+B4FHM8	Uncharacterized protein 	human	Q96C01	Protein FAM136A 	371.48 	platinum
+B4FPN4	Uncharacterized protein 	arabidopsis	Q8LC33	At5g63135 (Transcription termination factor) 	165.90 	gold
+B4G170	Uncharacterized protein 	arabidopsis	Q9LUA0	AT3g25910/MPE11_6 (MAP kinase kinase kinase, putative (DUF1644)) 	508.85 	silver
+B6T2K7	Uncharacterized protein ycf33 	soybean	I1MQZ1	Uncharacterized protein ycf33 	324.27 	silver
+C0P9D4	Uncharacterized protein 	arabidopsis	Q9FMG6	Dbj|BAA96220.1 (Tropomyosin) (Uncharacterized protein At5g64180) 	454.81 	platinum
+C0PDW3	Uncharacterized protein 	arabidopsis	A0A1P8B1L8	XRI1-like protein 	326.10 	silver
+C4JAD6	Uncharacterized protein 	arabidopsis	O23619	SNARE associated Golgi protein family (Uncharacterized protein At4g17790) (Uncharacterized protein dl4930w) 	699.43 	gold
+D1ME35	Uncharacterized protein 	arabidopsis	Q6X5T8	Small polypeptide DEVIL 5 (Small polypeptide ROTUNDIFOLIA like 15, Small polypeptide ROT-FOUR-LIKE 15) 	92.72 	silver
+Q6R9F3	Uncharacterized protein orf140-b 	arabidopsis	P93318	Uncharacterized mitochondrial protein AtMg00660 (ORF149) 	114.53 	gold
+A0A1D6E4V9	Uncharacterized protein 	soybean	A0A0R0H500	DUF4283 domain-containing protein 	601.02 	silver
+A0A1D6E6U5	Uncharacterized protein 	soybean	I1K8N3	Tudor domain-containing protein 	1692.93 	silver
+A0A1D6F169	Uncharacterized protein 	soybean	K7MM36	Stress-response A/B barrel domain-containing protein 	166.96 	gold
+A0A1D6FDT2	Uncharacterized protein 	human	Q6NUQ4	Transmembrane protein 214 	946.24 	gold
+A0A1D6FNG9	Uncharacterized protein 	soybean	A0A0R0I8X6	PMEI domain-containing protein 	442.30 	silver
+A0A1D6H1Y0	Uncharacterized protein 	soybean	C6T1V8	Transmembrane protein 230 	199.91 	silver
+A0A1D6HHL7	Uncharacterized protein 	soybean	A0A0R0K7X7	DUF4283 domain-containing protein 	734.51 	gold
+A0A1D6K4Z3	No annotation 	arabidopsis	Q9FIK7	Probable acetyl-CoA acetyltransferase, cytosolic 2, EC 2.3.1.9 (Cytosolic acetoacetyl-CoA thiolase 2, Thiolase 2) 	1176.11 	silver
+A0A1D6KJ92	Uncharacterized protein 	soybean	I1J8J4	Myb_DNA-bind_3 domain-containing protein 	654.22 	silver
+A0A1D6LJ20	Uncharacterized protein 	soybean	K7MKR0	Protein kinase domain-containing protein 	317.07 	silver
+A0A1D6LXU7	Uncharacterized protein 	soybean	K7K2S7	SLH domain-containing protein 	1240.88 	silver
+A0A1D6LZI4	Uncharacterized protein 	arabidopsis	Q9LW16	AT3g15630/MSJ11_3 (Plant/protein) 	192.51 	platinum
+A0A1D6MPJ7	Uncharacterized protein 	soybean	A0A0R0I0W7	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	608.42 	silver
+A0A1D6MU51	Uncharacterized protein 	soybean	I1MWZ2	DUF4216 domain-containing protein 	852.06 	gold
+A0A1D6QBR4	Uncharacterized protein 	arabidopsis	A0A1P8AXB7	Acyl-CoA-binding domain protein 	350.25 	gold
+A0A1X7YFP2	No annotation 	soybean	I1LG24	ANAPC4_WD40 domain-containing protein 	1139.72 	silver
+B7ZZ77	Uncharacterized protein 	arabidopsis	Q9SY08	Uncharacterized protein AT4g02830 (Uncharacterized protein T5J8.15) 	143.69 	silver
+K7V4N8	Uncharacterized protein 	arabidopsis	F4K243	Spindle assembly abnormal protein (DUF620) 	851.18 	platinum
+A0A1D6FL75	Uncharacterized protein 	soybean	A0A0R0HSA6	ULP_PROTEASE domain-containing protein 	490.96 	silver
+A0A1D6HQD9	Uncharacterized protein 	soybean	K7MFV7	Myb_DNA-bind_3 domain-containing protein 	545.17 	silver
+A0A1D6IW58	Uncharacterized protein 	soybean	A0A0R0EV79	Myb_DNA-bind_3 domain-containing protein 	230.69 	silver
+A0A1D6J5G8	No annotation 	soybean	C6TN20	Eukaryotic translation initiation factor 3 subunit H, eIF3h 	941.52 	silver
+B6TST3	Uncharacterized protein 	arabidopsis	Q9M207	At3g60520 (Uncharacterized protein At3g60520) (Uncharacterized protein T8B10_180) (Zinc ion-binding protein) 	193.74 	silver
+K7V6R1	Uncharacterized protein 	arabidopsis	Q9CAJ1	Hydroxyproline-rich glycoprotein family protein (Uncharacterized protein At1g72790) (Uncharacterized protein F28P22.2) 	570.68 	silver
+A0A1D6EFY2	Uncharacterized protein 	arabidopsis	Q9C8T5	Uncharacterized protein At1g63310 (Uncharacterized protein At1g63310/F9N12_7) (Uncharacterized protein F9N12.7) 	171.31 	gold
+A0A1D6EIW9	Uncharacterized protein 	arabidopsis	Q9SK37	Myb/SANT-like DNA-binding domain protein (Uncharacterized protein At2g24960) 	605.22 	gold
+A0A1D6ERD6	Uncharacterized protein 	arabidopsis	Q8LC91	Transmembrane protein (Uncharacterized protein At1g05575) (Uncharacterized protein At1g05575/F3F20.22) 	123.60 	silver
+A0A1D6EZ34	Uncharacterized protein 	arabidopsis	F4I7D6	CTTNBP 2 amino-terminal-like protein 	204.69 	gold
+A0A1D6F6E0	Uncharacterized protein 	arabidopsis	P0CB26	Uncharacterized protein At1g10890 	627.53 	platinum
+A0A1D6FNI6	Uncharacterized protein 	arabidopsis	Q9ZU12	Avr9/Cf-9 rapidly elicited protein (F5F19.20 protein) (Uncharacterized protein At1g52140) 	282.33 	platinum
+A0A1D6FW23	Uncharacterized protein 	arabidopsis	F4K9W2	Spectrin beta chain, brain 	1575.86 	platinum
+A0A1D6GHY8	Uncharacterized protein 	arabidopsis	Q9SVL8	Uncharacterized protein At3g50800 (Uncharacterized protein F18B3.80) 	277.53 	gold
+A0A1D6GPF5	Uncharacterized protein 	arabidopsis	F4IPZ0	Transmembrane protein 	758.77 	gold
+A0A1D6GRK7	No annotation 	arabidopsis	Q8GSA7	Calmodulin-binding transcription activator 3, AtCAMTA3 (Ethylene-induced calmodulin-binding protein 1, EICBP1) (Ethylene-induced calmodulin-binding protein a, EICBP.a) (Protein SAR-DEFICIENT 3) (Signal-responsive protein 1, AtSR1) 	1882.88 	gold
+A0A1D6I4A2	Uncharacterized protein 	arabidopsis	Q7G9E7	Putative F-box protein At1g52490 	208.72 	silver
+A0A1D6ICU9	Uncharacterized protein 	arabidopsis	Q9LFI5	At3g53320 (Mediator of RNA polymerase II transcription subunit-like protein) (Uncharacterized protein At3g53320/F4P12_20) (Uncharacterized protein F4P12_20) 	712.69 	gold
+A0A1D6IT04	Uncharacterized protein 	arabidopsis	F4J4G9	Stress response NST1-like protein 	1122.93 	silver
+A0A1D6J7I8	Uncharacterized protein 	arabidopsis	Q67XT3	Kinetochore protein SPC24 homolog, AtSPC24 (Protein MERISTEM UNSTRUCTURED) 	273.86 	gold
+A0A1D6JLR7	Uncharacterized protein 	arabidopsis	Q94A98	At1g65900/F12P19_7 (Plant/protein) 	488.94 	platinum
+A0A1D6JPU6	No annotation 	arabidopsis	F4JCR3	Ubiquitin carboxyl-terminal hydrolase-related protein 	3297.95 	gold
+A0A1D6JQ48	Uncharacterized protein 	arabidopsis	Q0WN19	At5g64850 (Sorbin/SH3 domain protein) (Uncharacterized protein At5g64850) 	129.86 	platinum
+A0A1D6L659	Uncharacterized protein 	arabidopsis	Q9SY56	At1g10140 (F14N23.2) (Uncharacterized conserved protein UCP031279) (Uncharacterized protein At1g10140) 	208.82 	gold
+A0A1D6L7K1	Uncharacterized protein 	arabidopsis	Q940A5	At1g55475 (Uncharacterized protein At1g55475) 	90.99 	silver
+A0A1D6M016	Uncharacterized protein 	arabidopsis	O82275	Signaling peptide TAXIMIN 1 	212.40 	platinum
+A0A1D6MHX2	Uncharacterized protein 	arabidopsis	F4JXY6	Ephrin type-B receptor 	3872.18 	platinum
+A0A1D6MN42	Uncharacterized protein 	arabidopsis	Q9M9V4	F6A14.6 protein (Uncharacterized protein At1g18850) 	864.30 	platinum
+A0A1D6MS46	Uncharacterized protein 	arabidopsis	O82400	Uncharacterized protein At2g22790 	316.46 	silver
+A0A1D6NET2	Uncharacterized protein 	arabidopsis	F4HSZ1	Symplekin 	2623.00 	gold
+B4F8S9	Uncharacterized protein 	arabidopsis	Q66GR0	Fasciclin-like arabinogalactan protein 17 	1016.54 	gold
+B4FAN0	Uncharacterized protein 	arabidopsis	Q8LPK7	Paramyosin (Putative myosin heavy chain) 	1522.78 	platinum
+B4FU48	Uncharacterized protein 	arabidopsis	Q9CA32	At1g68490 (Translocase subunit seca) (Uncharacterized protein At1g68490) (Uncharacterized protein T26J14.6) 	120.08 	gold
+B4FUJ3	Uncharacterized protein 	arabidopsis	O49695	Phospholipid hydroperoxide glutathione peroxidase (Uncharacterized protein At4g17960) 	271.20 	platinum
+B4FUT6	Uncharacterized protein 	arabidopsis	Q5XF13	At1g55535 (Transmembrane protein) 	495.58 	platinum
+B4G0D6	Uncharacterized protein 	arabidopsis	Q93VQ7	AT4G38060 protein (AT4g38060/F20D10_180) (Uncharacterized protein At4g38060) 	137.54 	silver
+B4G0T4	No annotation 	arabidopsis	O23252	Eukaryotic translation initiation factor 4E-1, eIF-4E-1, eIF4E-1 (Protein cucumovirus multiplication 1) (eIF-4F 25 kDa subunit) (eIF-4F p26 subunit) (mRNA cap-binding protein) 	554.40 	gold
+B6SMQ7	Uncharacterized protein 	arabidopsis	Q9FLC9	AT5g05250/K18I23_5 	339.05 	silver
+B6TF78	Uncharacterized protein 	arabidopsis	Q9T036	At4g39300 (Envelope glycoprotein) (Uncharacterized protein At4g39300) (Uncharacterized protein At4g39300/T22F8_200) (Uncharacterized protein T22F8.200) 	154.26 	gold
+B6TFG7	Uncharacterized protein 	arabidopsis	Q9SX76	At1g47410 (F16N3.27 protein) 	230.81 	gold
+B6TNK3	Uncharacterized protein 	arabidopsis	Q9FN13	At5g67390 (Gb|AAF67766.1) (Glycosyltransferase-like protein) (Uncharacterized protein At5g67390) 	222.39 	silver
+C0PEH0	Uncharacterized protein 	arabidopsis	Q3EBZ2	F-box protein SKIP23 (SKP1-interacting partner 23) 	448.70 	silver
+K7U7X0	Uncharacterized protein 	arabidopsis	Q9C754	At1g30260/F12P21_9 (Galactosyltransferase family protein) (Uncharacterized protein F12P21.9) 	137.71 	gold
+K7UYS3	Uncharacterized protein 	arabidopsis	Q9LXZ7	At3g56430 (Import inner membrane translocase subunit) (Uncharacterized protein T5P19_80) 	960.15 	gold
+K7V707	Uncharacterized protein 	arabidopsis	Q56Y63	SNF2 domain protein (Uncharacterized protein At5g11780) 	886.76 	gold
+A0A1D6E056	Uncharacterized protein 	arabidopsis	O64482	Expressed protein (Uncharacterized protein At2g19180/T20K24.20) 	250.13 	silver
+A0A1D6FAJ6	Uncharacterized protein 	arabidopsis	Q7XJ58	At1g21010 (Poly polymerase) (Uncharacterized protein At1g21010) 	371.59 	silver
+A0A1D6G135	Uncharacterized protein 	arabidopsis	Q9FFY5	Cotton fiber protein 	288.67 	gold
+A0A1D6GL02	Uncharacterized protein 	arabidopsis	Q9SA48	>F3O9.30 (At1g16500) (Expressed protein) (Filamentous hemagglutinin transporter) 	266.00 	silver
+A0A1D6GQK1	Uncharacterized protein 	arabidopsis	F4IV24	Axoneme-associated protein MST101(2) protein 	322.50 	gold
+A0A1D6LTF8	Uncharacterized protein 	arabidopsis	Q8LC55	At5g55620 	185.12 	silver
+A0A1D6M2T2	Uncharacterized protein 	arabidopsis	Q8GXX5	At4g00980 (Uncharacterized protein At4g00980/A_TM018A10_1) (Zinc knuckle (CCHC-type) family protein) 	561.24 	gold
+A0A1D6PC57	Uncharacterized protein 	arabidopsis	A8MS32	AT5G64130 protein (cAMP-regulated phosphoprotein 19-related protein) 	151.82 	silver
+A0A1D6PX31	Uncharacterized protein 	arabidopsis	F4I854	Protein kinase superfamily protein 	1526.32 	silver
+A0A1D6QDL7	Uncharacterized protein 	arabidopsis	P82730	Defensin-like protein 140 (Low-molecular-weight cysteine-rich protein 15, Protein LCR15) 	152.35 	gold
+A0A1D6QGI3	Uncharacterized protein 	arabidopsis	F4J4H2	Stress response NST1-like protein 	1196.50 	gold
+A0A3B6UD70	No annotation 	arabidopsis	P93298	ATP synthase subunit a-1 (F-ATPase protein 6) (P6-1) 	848.90 	gold
+B4FUV7	Uncharacterized protein 	arabidopsis	Q9CAI6	At1g72720 (Uncharacterized protein At1g72720/F28P22_9) (Uncharacterized protein F28P22.9) 	196.89 	silver
+B6U748	Uncharacterized protein 	arabidopsis	Q9MA09	At1g79660/F20B17_9 (Ephrin-A3 protein) (F20B17.9) 	193.43 	silver
+C0HFK2	Uncharacterized protein 	arabidopsis	Q8RWC5	Fasciclin-like arabinogalactan protein 16 	1039.31 	silver
+K7UF62	Uncharacterized protein 	arabidopsis	O23177	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2, 6-diaminopimelate ligase (Uncharacterized protein At4g37090) (Uncharacterized protein At4g37090/C7A10_270) 	282.21 	gold
+A0A1D6FIC3	Uncharacterized protein 	arabidopsis	O81424	Myb/SANT-like DNA-binding domain protein (T2H3.2) (Uncharacterized protein At4g02210) 	628.35 	silver
+A0A1D6IUT6	Uncharacterized protein 	arabidopsis	F4I1T8	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase 	118.07 	silver
+A0A1D6KQT5	No annotation 	arabidopsis	Q0WQA4	HAT dimerization domain-containing protein (Uncharacterized protein At3g17450) 	1520.14 	silver
+A0A1D6KTY9	Uncharacterized protein 	arabidopsis	Q9SVR1	At4g13160 (Uncharacterized protein At4g13160) (Uncharacterized protein F17N18.50) 	532.78 	silver
+A0A1D6LPM5	Uncharacterized protein 	arabidopsis	Q9C752	Chaperone DnaJ-domain superfamily protein (Uncharacterized protein At1g30280) (Uncharacterized protein F12P21.7) 	423.73 	silver
+A0A1D6NZK5	Uncharacterized protein 	arabidopsis	A0A1P8B3C0	Replication-like protein 	256.09 	silver
+B7ZY74	Uncharacterized protein 	arabidopsis	Q67YL8	Myb-like protein X (mRNA, clone: RAFL24-22-E06) 	515.34 	silver
+A0A1D6EA10	No annotation 	human	Q9H1J1	Regulator of nonsense transcripts 3A (Nonsense mRNA reducing factor 3A) (Up-frameshift suppressor 3 homolog A, hUpf3) 	552.89 	silver
+A0A1D6G2Z4	No annotation 	human	Q6IWH7	Anoctamin-7 (Dresden transmembrane protein of the prostate, D-TMPP) (IPCA-5) (New gene expressed in prostate) (Prostate cancer-associated protein 5) (Transmembrane protein 16G) 	1198.79 	silver
+A0A1D6H4X3	Uncharacterized protein 	human	Q08426	Peroxisomal bifunctional enzyme, PBE, PBFE (L-bifunctional protein, LBP) (Multifunctional enzyme 1, MFE1) [Includes: Enoyl-CoA hydratase/3,2-trans-enoyl-CoA isomerase, EC 4.2.1.17, EC 5.3.3.8; 3-hydroxyacyl-CoA dehydrogenase, EC 1.1.1.35 ] 	1722.76 	gold
+A0A1D6LP07	Uncharacterized protein 	human	P27338	Amine oxidase [flavin-containing] B, EC 1.4.3.21, EC 1.4.3.4 (Monoamine oxidase type B, MAO-B) 	792.75 	silver
+A0A1D6PCY3	Uncharacterized protein 	human	Q8N3L3	Beta-taxilin (Muscle-derived protein 77, hMDP77) 	866.19 	silver
+K7UTY8	Uncharacterized protein 	human	Q9UF56	F-box/LRR-repeat protein 17 (F-box and leucine-rich repeat protein 17) (F-box only protein 13) 	868.35 	silver
+A0A1D6FE77	Uncharacterized protein 	human	Q8IVV7	Glucose-induced degradation protein 4 homolog (Vacuolar import and degradation protein 24 homolog) 	459.01 	gold
+A0A1D6JRM9	Uncharacterized protein 	human	P51587	Breast cancer type 2 susceptibility protein (Fanconi anemia group D1 protein) 	705.05 	gold
+A0A1D6KMR4	Uncharacterized protein 	human	Q9NVQ4	Fas apoptotic inhibitory molecule 1 	209.02 	gold
+A0A1D6L562	Uncharacterized protein 	human	Q86W33	Transmembrane protein adipocyte-associated 1 (Integral membrane protein GPR175) (Transmembrane protein 227) 	594.36 	gold
+A0A1X7YEB1	No annotation 	human	Q60I27	ALS2 C-terminal-like protein 	655.74 	silver
+A0A3B6UA81	No annotation 	human	Q5T653	39S ribosomal protein L2, mitochondrial, L2mt, MRP-L2 (Mitochondrial large ribosomal subunit protein uL2m) 	530.93 	gold
+K7UUS6	Uncharacterized protein 	human	Q9ULP0	Protein NDRG4 (Brain development-related molecule 1) (N-myc downstream-regulated gene 4 protein) (Vascular smooth muscle cell-associated protein 8, SMAP-8) 	744.06 	silver
+K7VQ97	Uncharacterized protein 	human	Q14696	LRP chaperone MESD (LDLR chaperone MESD) (Mesoderm development LRP chaperone MESD) (Mesoderm development candidate 2) (Mesoderm development protein) (Renal carcinoma antigen NY-REN-61) 	308.46 	gold
+A0A1D6LK10	Uncharacterized protein 	human	O60928	Inward rectifier potassium channel 13 (Inward rectifier K(+) channel Kir7.1) (Potassium channel, inwardly rectifying subfamily J member 13) 	207.89 	silver
+C0PFL3	Uncharacterized protein 	human	Q9UN36	Protein NDRG2 (N-myc downstream-regulated gene 2 protein) (Protein Syld709613) 	720.43 	silver
+A0A1X7YGK7	No annotation 	pombe	Q92353	Ubiquitin carboxyl-terminal hydrolase 6, EC 3.4.19.12 (Deubiquitinating enzyme 6) (Ubiquitin thiollesterase 6) (Ubiquitin-specific-processing protease 6) 	977.82 	platinum
+A0A1D6I275	Uncharacterized protein 	cerevisiae	P11746	Pheromone receptor transcription factor (GRM/PRTF protein) 	353.19 	silver
+A0A1D6IIS3	Uncharacterized protein 	cerevisiae	P23293	Serine/threonine-protein kinase BUR1, EC 2.7.11.22, EC 2.7.11.23 (Bypass UAS requirement protein 1) (Suppressor of GPA1-Vall50 mutation protein 1) 	1059.44 	silver
+A0A1D6NB74	Uncharacterized protein 	cerevisiae	Q04740	Ribonuclease H, RNase H, EC 3.1.26.4 	184.27 	gold
+A0A1X7YH55	No annotation 	cerevisiae	P41896	Transcription initiation factor IIF subunit beta (TFIIF medium subunit) (TFIIF-beta) (Transcription factor G 54 kDa subunit) 	406.18 	gold
+C4IY41	Uncharacterized protein 	cerevisiae	P53234	Uncharacterized protein YGR053C 	274.08 	silver
+A0A1D6IVH8	Uncharacterized protein 	pombe	O60099	Uncharacterized protein C14F5.02 	430.12 	gold
+A0A1D6J8T3	Uncharacterized protein 	pombe	O74354	Nucleolar protein dnt1 	890.35 	gold

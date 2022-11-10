@@ -1,0 +1,114 @@
+P36086	Uncharacterized oxidoreductase YKL071W 	maize	A0A1D6KFZ1	Cell-cell signaling protein csgA-like 	532.56 	platinum
+P36151	Uncharacterized protein YKR070W 	pombe	O13899	Uncharacterized CDP-alcohol phosphatidyltransferase class-I family protein C22A12.08c 	822.33 	platinum
+P42840	Uncharacterized membrane protein YNL320W 	pombe	P54069	Protein bem46 	777.49 	platinum
+P43590	Uncharacterized peptidase YFR006W, EC 3.4.-.- 	maize	B4FQH9	Metallopeptidase M24 family protein 	1144.78 	platinum
+P48569	Uncharacterized protein YDL183C 	pombe	O13942	Uncharacterized protein C23H3.12c 	546.69 	platinum
+P53210	Uncharacterized protein YGR017W 	pombe	O94322	Uncharacterized protein C725.03 	382.32 	gold
+P53980	Uncharacterized protein YNL011C 	arabidopsis	A0A1P8AX45	Maternal effect embryo arrest 18 	917.44 	platinum
+Q03730	Uncharacterized vacuolar membrane protein YML018C 	maize	B4FYG0	EamA-like transporter family 	846.40 	platinum
+Q04773	Uncharacterized protein YMR074C 	pombe	O13929	Uncharacterized protein C23C4.09c 	270.81 	platinum
+Q06417	Uncharacterized oxidoreductase TDA5, EC 1.-.-.- (Topoisomerase I damage affected protein 5) 	maize	K7V9S5	Tropinone reductase 2 	474.70 	silver
+Q08634	Uncharacterized protein YOR238W 	arabidopsis	F4HXZ8	Transmembrane protein 	523.77 	platinum
+Q12012	Uncharacterized protein YOR289W 	human	Q9Y4X0	Nuclear protein AMMECR1 (AMME syndrome candidate gene 1 protein) 	482.87 	gold
+Q12251	Uncharacterized mitochondrial carrier YPR011C 	pombe	Q8TFH2	Uncharacterized mitochondrial carrier PB17E12.12c 	723.53 	platinum
+Q12486	Uncharacterized hydrolase YOR131C, EC 3.-.-.- 	maize	B4FXA2	Haloacid dehalogenase-like hydrolase domain-containing protein 	470.49 	platinum
+P36158	Uncharacterized protein YKR078W 	sorghum	A0A1W0W088	PX domain-containing protein 	934.27 	silver
+P38235	Uncharacterized protein YBR053C 	human	Q15493	Regucalcin, RC (Gluconolactonase, GNL, EC 3.1.1.17) (Senescence marker protein 30, SMP-30) 	559.03 	gold
+P38355	Uncharacterized transporter YBR287W 	pombe	O14197	Uncharacterized transporter C5D6.04 	1023.17 	platinum
+P38765	Uncharacterized isomerase YHI9, EC 5.1.-.- 	pombe	Q8NIL3	Antisense-enhancing sequence 1, EC 5.1.-.- (AES factor 1) 	710.09 	platinum
+P38799	Uncharacterized protein YHR078W 	maize	A0A1D6JDI3	GPCR-type G protein 2 	845.14 	gold
+P43617	Uncharacterized mitochondrial carrier YFR045W 	maize	A0A1D6E9L0	Mitochondrial uncoupling protein 3 	697.06 	silver
+P46996	Uncharacterized membrane protein YJL163C 	pombe	O13714	Uncharacterized membrane protein C14C4.07 	1061.47 	gold
+P47048	Uncharacterized protein YJL049W 	pombe	O94730	Charged multivesicular body protein 7, Chmp7 (ESCRT III complex subunit Cmp7, Cmp7) 	740.82 	platinum
+P47181	Uncharacterized protein YJR154W 	maize	A0A1D6L1M0	Phytanoyl-CoA dioxygenase 	393.17 	gold
+P53110	Uncharacterized protein YGL159W 	pombe	Q9HDZ0	Uncharacterized protein P11E10.01 	582.44 	gold
+P53120	Uncharacterized membrane protein YGL140C 	pombe	Q10495	Uncharacterized protein C26F1.08c 	1930.19 	gold
+P53275	Uncharacterized protein YGR127W 	human	Q6ICL3	Transport and Golgi organization protein 2 homolog 	482.84 	gold
+P54072	Uncharacterized transporter YLR152C 	maize	A0A1D6I789	Protein PIN-LIKES 3 	831.86 	gold
+Q03102	Uncharacterized membrane protein YML131W 	maize	K7UXK5	Putative alcohol dehydrogenase superfamily protein 	743.70 	gold
+Q03193	Uncharacterized membrane protein YDR090C 	pombe	Q10227	Uncharacterized protein C2E12.03c 	637.10 	platinum
+Q03219	Uncharacterized protein YMR178W 	sorghum	C5XGE2	MoCF_biosynth domain-containing protein 	568.76 	gold
+Q04223	Uncharacterized protein YMR130W 	pombe	O14262	Putative uncharacterized hydrolase C7D4.05, EC 3.-.-.- 	577.28 	gold
+Q04869	Uncharacterized protein YMR315W 	maize	A0A1D6EKK1	NAD-dependent dihydrogenase, Gfo/Idh/MocA family 	766.47 	gold
+Q05948	Uncharacterized SVF1-like protein YLR225C 	rice	Q6K7V6	Probable tocopherol cyclase, chloroplastic (Vitamin E pathway gene 1 protein) 	352.86 	gold
+Q06252	Uncharacterized protein YLR179C 	maize	A9LLY2	Phosphatidylethanolamine-binding protein8 (ZCN8) 	366.89 	silver
+Q06554	Uncharacterized ATP-dependent helicase IRC20, EC 3.6.1.- (Increased recombination centers protein 20) 	pombe	Q9UTL9	Uncharacterized ATP-dependent helicase C144.05, EC 3.6.4.- 	2253.76 	platinum
+P0CF18	Uncharacterized protein YMR085W 	maize	C4IYW6	Putative arabinose 5-phosphate isomerase 	425.47 	silver
+P36090	Uncharacterized protein ANR2 (AVL9-related family protein 2) 	pombe	O42907	Uncharacterized protein C119.16c 	700.60 	gold
+P38177	Uncharacterized protein YBL086C 	sorghum	C5WTF4	C2 NT-type domain-containing protein 	421.94 	silver
+P39542	Uncharacterized transporter YJL193W 	arabidopsis	Q9LF61	Xylulose 5-phosphate/phosphate translocator, chloroplastic, Xul-5-P/phosphate translocator 	757.01 	gold
+P40098	Uncharacterized mitochondrial membrane protein FMP10 	sorghum	C5YX45	4HBT domain-containing protein 	343.34 	gold
+P40579	Uncharacterized oxidoreductase YIR035C, EC 1.-.-.- 	pombe	O14351	Uncharacterized oxidoreductase C30D10.05c, EC 1.-.-.- 	650.26 	platinum
+P43610	Uncharacterized ATP-dependent helicase IRC5, EC 3.6.4.- (Increased recombination centers protein 5) 	arabidopsis	Q9XFH4	ATP-dependent DNA helicase DDM1, EC 3.6.4.12 (Protein CHROMATIN REMODELING 1, AtCHR1, CHR01) (Protein DECREASED DNA METHYLATION 1, AtDDM1) (Protein SOMNIFEROUS 1) (SWI/SNF2-related matrix-associated actin-dependent regulator of chromatin DDM1) 	1457.27 	silver
+P53234	Uncharacterized protein YGR053C 	pombe	O94410	Meiotically up-regulated gene 163 protein 	219.42 	silver
+P53748	Uncharacterized membrane protein YNR062C 	sorghum	A0A1Z5S929	MFS domain-containing protein 	601.59 	silver
+P53757	Uncharacterized isomerase YNR071C, EC 5.-.-.- 	sorghum	C5XVP8	Aldose 1-epimerase, EC 5.1.3.3 	702.09 	silver
+P53962	Uncharacterized WD repeat-containing protein YNL035C 	pombe	Q9Y7T2	Uncharacterized WD repeat-containing protein C63.06 	693.33 	gold
+Q05881	Uncharacterized protein YLR287C 	pombe	Q10368	Uncharacterized protein C22E12.18 	669.11 	gold
+P38690	Uncharacterized protein YHR033W 	sorghum	C6JSP3	AA_kinase domain-containing protein 	165.37 	silver
+P47173	Uncharacterized protein YJR142W 	pombe	P41888	Thiamine pyrophosphokinase, TPK, Thiamine kinase, EC 2.7.6.2 	717.45 	platinum
+P53729	Uncharacterized protein YNR029C 	arabidopsis	Q500W8	At1g26520 (Cobalamin biosynthesis CobW-like protein) 	709.10 	platinum
+P32618	Uncharacterized protein YEL043W 	sorghum	C5X002	FHA domain-containing protein 	1061.46 	silver
+P47172	Uncharacterized protein YJR141W 	pombe	O74751	Uncharacterized protein C1734.10c 	569.80 	gold
+P53326	Uncharacterized protein YGR266W 	sorghum	C5XWF9	PhoD domain-containing protein 	438.37 	gold
+Q03795	Uncharacterized membrane protein YMR155W 	sorghum	A0A1W0W2M7	Nodulin-like domain-containing protein 	1145.72 	gold
+Q04018	Uncharacterized protein YMR244W 	pombe	O74851	Probable secreted beta-glucosidase adg3, EC 3.2.1.- 	767.42 	platinum
+Q06089	Uncharacterized mitochondrial outer membrane protein YPR098C 	sorghum	C5Y7V1	DUF4149 domain-containing protein 	410.98 	gold
+Q12155	Uncharacterized membrane protein YLR050C 	human	Q5BJF2	Sigma intracellular receptor 2, Sigma-2 receptor, Sigma2 receptor (Meningioma-associated protein 30) (Transmembrane protein 97) 	372.62 	gold
+P38745	Uncharacterized membrane protein YHL071W 	pombe	O13989	Uncharacterized protein C26H5.07c 	1158.46 	gold
+P40896	Uncharacterized protein YJL213W 	sorghum	A0A1W0W1E9	Amidohydro_3 domain-containing protein 	464.99 	silver
+P53278	Uncharacterized protein YGR130C 	sorghum	A0A1B6PA21	TMF_TATA_bd domain-containing protein 	1261.58 	silver
+Q05863	Uncharacterized peptide chain release factor-like protein YLR281C, mitochondrial 	pombe	Q9Y811	Uncharacterized peptide chain release factor-like protein C1105.18c, mitochondrial 	314.07 	platinum
+Q12185	Uncharacterized acyltransferase YDR018C, EC 2.3.-.- 	sorghum	C5XLQ2	1-acylglycerol-3-phosphate O-acyltransferase, EC 2.3.1.51 	746.39 	silver
+Q06152	Uncharacterized protein YLR271W 	human	Q8N954	G patch domain-containing protein 11 (Coiled-coil domain-containing protein 75) 	393.17 	gold
+P53209	Uncharacterized membrane protein YGR016W 	arabidopsis	Q8RXC0	Histone-lysine N-methyltransferase (Uncharacterized protein At4g26240) 	396.07 	gold
+P53925	Uncharacterized vacuolar membrane protein YNL115C 	pombe	O13912	Uncharacterized protein C23C11.06c 	1061.28 	gold
+P53929	Uncharacterized protein YNL108C 	human	P57075	Ubiquitin-associated and SH3 domain-containing protein A (Cbl-interacting protein 4, CLIP4) (Suppressor of T-cell receptor signaling 2, STS-2) (T-cell ubiquitin ligand 1, TULA-1) 	393.18 	gold
+Q04336	Uncharacterized protein YMR196W 	rice	Q6ZC53	Non-lysosomal glucosylceramidase, NLGase, EC 3.2.1.45 	775.04 	silver
+Q12232	Uncharacterized protein SLP1 (SUN-like protein 1) 	pombe	O59729	Uncharacterized protein slp1 (SUN-like protein 1) 	990.77 	platinum
+P47159	Uncharacterized membrane protein YJR124C 	rice	Q2QWW7	Probable anion transporter 7 (Phosphate transporter 4;7) 	842.54 	silver
+P53912	Uncharacterized protein YNL134C 	soybean	I1N5R7	PKS_ER domain-containing protein 	608.17 	silver
+P40586	Uncharacterized protein YIR042C 	human	Q9BTE0	Alpha/beta-tubulin-N-acetyltransferase 9, EC 2.3.1.- (Embryo brain-specific protein) 	373.30 	gold
+P53242	Uncharacterized protein YGR066C 	arabidopsis	A0A1P8AZS5	Glucose-induced degradation-like protein 	398.80 	gold
+P53878	Uncharacterized oxidoreductase YNL181W, EC 1.-.-.- 	pombe	O13822	Uncharacterized oxidoreductase C19A8.06, EC 1.-.-.- 	954.96 	platinum
+Q03629	Uncharacterized protein YML079W 	soybean	I1LY74	Cupin_5 domain-containing protein 	375.72 	gold
+Q06107	Uncharacterized TLC domain-containing protein YPR114W 	soybean	K7L9X3	TLC domain-containing protein 	571.13 	silver
+Q06116	Uncharacterized protein YPR117W 	arabidopsis	Q6IMT1	Protein SABRE (Protein HYPERSENSITIVE TO PI STARVATION 4) 	3044.22 	gold
+Q12275	Uncharacterized protein YOR093C 	pombe	Q10250	Uncharacterized protein C56F8.02 	2989.46 	platinum
+P53227	Uncharacterized protein YGR042W 	pombe	O74939	Uncharacterized protein C553.01c 	420.46 	gold
+Q08748	Uncharacterized protein YOR296W 	pombe	O13683	Uncharacterized protein C11E3.02c 	2411.95 	gold
+Q03516	Uncharacterized protein RSN1 (Rescuer of SRO7 at high Nacl protein 1) 	arabidopsis	Q9C8G5	CSC1-like protein ERD4 (Hyperosmolality-gated Ca2+ permeable channel 3.1, AtOSCA3.1) (Protein EARLY-RESPONSIVE TO DEHYDRATION STRESS 4) 	1618.34 	platinum
+P22215	Uncharacterized transporter SLY41 	arabidopsis	Q84L09	GDP-mannose transporter GONST2 (Protein GOLGI NUCLEOTIDE SUGAR TRANSPORTER 2) 	773.39 	silver
+P53750	Uncharacterized hydrolase YNR064C, EC 3.1.-.- 	arabidopsis	F4K2M9	Alpha/beta-Hydrolases superfamily protein 	565.58 	gold
+P53907	Uncharacterized protein YNL144C 	pombe	O94356	Meiotic expression up-regulated protein 6 	500.58 	silver
+P38430	Uncharacterized deoxyribonuclease YMR262W, EC 3.1.21.- 	pombe	P41890	Cut9-interacting protein scn1 	560.11 	platinum
+Q07530	Uncharacterized oxidoreductase YDL114W, EC 1.-.-.- 	pombe	Q1MTR7	Uncharacterized oxidoreductase C16H5.14c, EC 1.-.-.- 	686.93 	gold
+P38239	Uncharacterized RING finger protein YBR062C 	human	O43164	E3 ubiquitin-protein ligase Praja-2, Praja2, EC 2.3.2.27 (RING finger protein 131) (RING-type E3 ubiquitin transferase Praja-2) 	282.19 	gold
+P38318	Uncharacterized membrane protein YBR220C 	pombe	Q9USW4	Uncharacterized protein C21B10.09 	1199.07 	platinum
+P43599	Uncharacterized protein YFR018C 	human	Q9NXS2	Glutaminyl-peptide cyclotransferase-like protein, EC 2.3.2.5 (Golgi-resident glutaminyl-peptide cyclotransferase) (isoQC, gQC) 	665.58 	platinum
+P53889	Uncharacterized mitochondrial hydrolase FMP41, EC 3.-.-.- 	pombe	Q9P7L4	Uncharacterized hydrolase C21C3.09c, EC 3.-.-.- 	540.79 	platinum
+P38887	Uncharacterized protein YHR202W 	human	P21589	5'-nucleotidase, 5'-NT, EC 3.1.3.5 (Ecto-5'-nucleotidase) (CD antigen CD73) 	655.40 	gold
+P39523	Uncharacterized protein YMR124W 	human	O95886	Disks large-associated protein 3, DAP-3 (PSD-95/SAP90-binding protein 3) (SAP90/PSD-95-associated protein 3, SAPAP3) 	886.03 	gold
+P40169	Uncharacterized plasma membrane protein YNL194C 	human	O60359	Voltage-dependent calcium channel gamma-3 subunit (Neuronal voltage-gated calcium channel gamma-3 subunit) (Transmembrane AMPAR regulatory protein gamma-3, TARP gamma-3) 	511.85 	gold
+P47014	Uncharacterized protein YJL132W 	human	P80108	Phosphatidylinositol-glycan-specific phospholipase D, PI-G PLD, EC 3.1.4.50 (Glycoprotein phospholipase D) (Glycosyl-phosphatidylinositol-specific phospholipase D, GPI-PLD, GPI-specific phospholipase D) 	1086.28 	gold
+P53736	Uncharacterized protein YNR040W 	human	A0PJW6	Transmembrane protein 223 	297.28 	gold
+P03881	Uncharacterized mitochondrial protein RF1 	pombe	P22191	Uncharacterized cox1 intron-1 45.6 kDa protein (Probable maturase) 	539.83 	silver
+P25639	Uncharacterized membrane protein YCR061W 	pombe	O59714	Uncharacterized membrane protein C3B8.06 	1029.26 	platinum
+P38081	Uncharacterized glycosyl hydrolase YBR056W, EC 3.2.1.- 	pombe	O74799	Glucan 1,3-beta-glucosidase 3, EC 3.2.1.58 (Exo-1,3-beta-glucanase 3) 	990.56 	platinum
+P38716	Uncharacterized trans-sulfuration enzyme YHR112C 	pombe	O42851	Uncharacterized trans-sulfuration enzyme C23A1.14c 	984.17 	platinum
+P38740	Uncharacterized protein YHL026C 	pombe	O74505	Uncharacterized protein C594.02c 	497.28 	gold
+P42942	Uncharacterized GTP-binding protein YGR210C 	pombe	O94362	Uncharacterized GTP-binding protein C428.15 	1122.33 	platinum
+P53273	Uncharacterized vacuolar membrane protein YGR125W 	pombe	Q09764	Uncharacterized protein C24H6.11c 	2168.59 	platinum
+P53749	Uncharacterized transcriptional regulatory protein YNR063W 	pombe	Q1MTM9	Uncharacterized transcriptional regulatory protein C1327.01c 	690.53 	silver
+Q05497	Uncharacterized transporter YDR338C 	pombe	Q9USK3	Uncharacterized transporter C4B3.13 	1405.01 	platinum
+Q12177	Uncharacterized protein YLL056C 	pombe	Q9Y7K4	Uncharacterized protein C2A9.02 	816.53 	platinum
+Q12244	Uncharacterized transcriptional regulatory protein YLL054C 	pombe	O60131	Uncharacterized transcriptional regulatory protein C16G5.17 	789.06 	silver
+Q12298	Uncharacterized ABC transporter ATP-binding protein YDR061W 	pombe	Q9UT95	Uncharacterized ABC transporter ATP-binding protein C323.04 	961.30 	platinum
+Q12496	Uncharacterized protein YOL098C 	pombe	Q10068	Uncharacterized protein C3H1.02c 	2555.82 	platinum
+Q2V2P4	Uncharacterized protein YIL156W-B 	pombe	Q10167	Uncharacterized protein C26A3.14c 	203.16 	platinum
+P32788	Uncharacterized protein YBL010C 	pombe	O42882	Uncharacterized protein C8E11.05c 	375.80 	gold
+P53870	Uncharacterized protein YNL193W 	pombe	Q9UUG6	UPF0656 protein C926.02 	751.14 	gold
+Q03508	Uncharacterized protein YMR265C 	pombe	Q9USS8	Uncharacterized protein C4.02c 	636.00 	gold
+Q04170	Uncharacterized protein YDR391C 	pombe	O59806	Uncharacterized N-acetyltransferase C550.08, EC 2.3.1.- 	355.99 	gold
+Q04835	Uncharacterized membrane protein YMR253C 	pombe	O59785	Uncharacterized solute carrier family 35 member C320.08 	773.19 	silver
+Q99296	Uncharacterized protein YLR149C 	pombe	P87229	Uncharacterized protein C4G3.03 	563.99 	silver

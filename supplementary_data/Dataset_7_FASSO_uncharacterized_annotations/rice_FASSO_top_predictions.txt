@@ -1,0 +1,1016 @@
+A2ZV22	No annotation 	maize	A0A1D6NLC0	Transmembrane amino acid transporter family protein 	1172.14 	platinum
+A3AQZ2	No annotation 	maize	A0A1D6J4G9	Transcriptional regulator SUPERMAN 	201.62 	silver
+B7EHI9	No annotation 	sorghum	C5Z0H8	RING-type domain-containing protein 	447.02 	silver
+B9EXB4	No annotation 	maize	A0A1D6HYF9	DNA-directed RNA polymerases I, II, and III 7.3 kDa polypeptide 	143.92 	platinum
+B9FCG5	No annotation 	maize	A0A1D6DZT3	Cell differentiation Rcd1-like protein 	871.63 	platinum
+B9FD40	No annotation 	maize	A0A1D6LTF2	Pentatricopeptide repeat-containing protein chloroplastic 	2449.51 	platinum
+B9FK97	No annotation 	maize	B6T5A5	Allyl alcohol dehydrogenase-like protein 	116.48 	platinum
+B9FKA6	No annotation 	maize	K7UYD7	DVL family protein 	121.53 	silver
+B9G1G1	No annotation 	maize	A0A1D6QK03	Myosin heavy chain-related protein 	963.44 	gold
+B9G761	No annotation 	maize	B6TX99	FAD-binding domain-containing protein 	163.04 	gold
+B9G7J6	No annotation 	maize	B6T5G5	IGR domain-containing protein 	282.29 	platinum
+B9G8P9	No annotation 	maize	B6U0I2	FLZ-type domain-containing protein 	203.91 	gold
+B9GDC7	No annotation 	sorghum	A0A1Z5R5Z7	UBP-type domain-containing protein 	453.10 	platinum
+E3W9W9	Os01g0258600 protein (Uncharacterized protein DPL1) 	arabidopsis	Q9LFK6	AT5g16950/F2K13_100 (Krueppel-like factor) (Uncharacterized protein F2K13_100) 	141.90 	platinum
+P12173	Uncharacterized protein ycf68 (ORF133) 	maize	P03938	Uncharacterized protein ycf68 (ORF 134) 	118.77 	gold
+Q0D3L5	No annotation 	maize	B6SNR4	Ubiquinol-cytochrome c reductase complex 6.7 kDa protein 	167.68 	platinum
+Q0D4M1	No annotation 	sorghum	C5X2E8	FYVE-type domain-containing protein 	737.19 	platinum
+Q0D4Y3	No annotation 	maize	A0A1D6IIU3	Putative LRR receptor-like serine/threonine-protein kinase 	2906.91 	platinum
+Q0D796	No annotation 	maize	B6U862	RING/U-box superfamily protein (RNA-binding protein) 	672.81 	platinum
+Q0D7P1	No annotation 	maize	A0A1D6F8V3	Zinc ion binding 	2104.40 	platinum
+Q0D804	No annotation 	maize	A0A1D6GI57	Protein ACCELERATED CELL DEATH 6 	1508.72 	platinum
+Q0D8H0	No annotation 	maize	A0A1D6KGT5	Lactoylglutathione lyase / glyoxalase I family protein (Uncharacterized protein YwkD) 	486.13 	gold
+Q0D972	No annotation 	maize	A0A1D6HQP8	Glutamate receptor 	2419.14 	gold
+Q0DCP4	No annotation 	maize	Q208U9	CFM6 (RNA-binding CRS1 / YhbY (CRM) domain protein) 	823.94 	platinum
+Q0DFJ3	No annotation 	maize	A0A1D6FL95	Pectin lyase-like superfamily protein 	1267.97 	platinum
+Q0DFU0	No annotation 	sorghum	A0A1B6P9W9	Phytocyanin domain-containing protein 	445.40 	platinum
+Q0DG76	No annotation 	sorghum	A0A1B6P9W0	Protein kinase domain-containing protein 	1493.34 	platinum
+Q0DGU0	No annotation 	arabidopsis	Q8RXD4	Protein BREAST CANCER SUSCEPTIBILITY 1 homolog, AtBRCA1 	1746.51 	platinum
+Q0DHX7	No annotation 	maize	B4FBV9	Transmembrane protein 18 	479.69 	platinum
+Q0DIG5	No annotation 	arabidopsis	Q75W54	Mannosylglycoprotein endo-beta-mannosidase, AtEBM, Endo-beta-mannosidase, EC 3.2.1.152 [Cleaved into: Mannosylglycoprotein endo-beta-mannosidase 31 kDa subunit; Mannosylglycoprotein endo-beta-mannosidase 28 kDa subunit; Mannosylglycoprotein endo-beta-mannosidase 42 kDa subunit ] 	2624.96 	platinum
+Q0DJ66	No annotation 	soybean	K7KA20	Rhodanese domain-containing protein 	1109.80 	platinum
+Q0DJB2	No annotation 	arabidopsis	Q0WVQ3	Cyclin/Brf1-like TBP-binding protein (Putative transcription factor) 	1241.76 	platinum
+Q0DL03	No annotation 	sorghum	A0A1B6P687	Long-chain-fatty-acid--CoA ligase, EC 6.2.1.3 	1965.10 	platinum
+Q0DSR5	No annotation 	arabidopsis	Q9LY44	Transmembrane protein (Uncharacterized protein At3g56010) (Uncharacterized protein F27K19_190) 	360.82 	gold
+Q0DTN6	No annotation 	maize	A0A1D6JVD8	Protein NRT1/ PTR FAMILY 8.3 	1677.65 	platinum
+Q0DYG3	No annotation 	arabidopsis	F4I8C2	COMPLEX 1 LYR-like protein 	237.15 	platinum
+Q0E1L4	No annotation 	arabidopsis	Q9ZPX1	ADP-ribosylation factor-like protein 2 (Protein ARF-like 2) (Protein HALLIMASCH) (Protein TITAN 5) 	549.98 	platinum
+Q0IQU9	No annotation 	arabidopsis	Q9SR32	UPF0161 protein At3g09310 	288.79 	platinum
+Q0ISC5	No annotation 	maize	A0A1D6QIB3	Outer envelope protein 64 chloroplastic 	1676.75 	platinum
+Q0IZR0	No annotation 	maize	A0A1D6IAQ6	Pentatricopeptide repeat-containing protein mitochondrial 	1772.72 	platinum
+Q0J258	No annotation 	sorghum	C5XBE6	Protein kinase domain-containing protein 	1458.85 	platinum
+Q0J5A5	No annotation 	maize	A0A1D6I4W3	AT-rich interactive domain-containing protein 4 	1883.86 	platinum
+Q0J709	ACT domain-containing protein DS12, chloroplastic (Uncharacterized protein DS12 from 2D-PAGE of leaf) 	arabidopsis	Q9FZ47	ACT domain-containing protein ACR11 (Protein ACT DOMAIN REPEATS 11) 	713.63 	platinum
+Q0J7W9	No annotation 	maize	K7U156	Circadian clock associated1 	1323.30 	platinum
+Q0J9U0	No annotation 	maize	A0A1D6DXM8	Transcription factor bHLH112 	693.00 	platinum
+Q0JAI2	No annotation 	maize	B4FRM7	60S ribosomal protein L12 (60S ribosomal protein L12-3) 	479.77 	silver
+Q0JC08	No annotation 	maize	K7TUL7	Cell division control protein 48 homolog B 	1589.50 	platinum
+Q0JCZ2	No annotation 	arabidopsis	O80456	Acyl-CoA (At2g23390/F26B6.4) (Uncharacterized protein At2g23390) 	1237.21 	platinum
+Q0JDG7	No annotation 	maize	A0A1D6EBX1	HGSNAT_cat domain-containing protein 	1203.98 	platinum
+Q0JFC4	No annotation 	maize	A0A1D6EFR8	WEB family protein 	523.76 	platinum
+Q0JFD1	No annotation 	maize	K7TIW4	C2H2-like zinc finger protein 	1130.81 	platinum
+Q0JH55	No annotation 	arabidopsis	Q9LVM2	NAD(P)H-quinone oxidoreductase subunit N, chloroplastic, EC 7.1.1.- (NAD(P)H dehydrogenase subunit N, NDH subunit N, NDH-N) (NADH-plastoquinone oxidoreductase subunit N) 	533.11 	platinum
+Q0JHK4	No annotation 	sorghum	C5XQH8	TFIID_20kDa domain-containing protein 	534.22 	silver
+Q0JHT1	No annotation 	maize	A0A1D6N7C9	Response regulator 20 	357.17 	silver
+Q0JKD5	No annotation 	maize	C0PGQ9	Long-chain-fatty-acid--CoA ligase, EC 6.2.1.3 	1962.44 	platinum
+Q0JKH0	No annotation 	maize	A0A1D6NFW3	Rop guanine nucleotide exchange factor 9 	1166.00 	silver
+Q0JKJ3	No annotation 	maize	A0A1D6G137	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	2106.54 	platinum
+Q0JKV5	No annotation 	sorghum	C5XF61	F-box domain-containing protein 	1119.91 	platinum
+Q0JL26	No annotation 	maize	A0A1D6NI45	Cytochrome P450 family 72 subfamily A polypeptide 8 	1463.39 	platinum
+Q0JLU6	No annotation 	maize	K7UZ29	DUF3511 domain protein 	139.01 	silver
+Q0JNL8	No annotation 	arabidopsis	Q8W207	COP9 signalosome complex subunit 2, Signalosome subunit 2 (Protein FUSCA 12) 	1294.53 	platinum
+Q0JR40	No annotation 	maize	B4FHI4	Protein binding protein (RING/FYVE/PHD zinc finger superfamily protein) 	520.83 	platinum
+Q10L09	Os03g0363400 protein (Uncharacterized protein family containing protein, expressed) 	maize	B4FQP5	Uncharacterized protein family containing protein expressed 	558.98 	gold
+Q10N71	Os03g0280400 protein (Uncharacterized plant-specific domain TIGR01589 family protein, expressed) (cDNA clone:001-122-C05, full insert sequence) 	maize	B4FFL2	Plant-specific domain TIGR01589 family protein 	213.64 	platinum
+Q2QXB4	Os12g0163200 protein (Uncharacterized protein family containing protein, expressed) (cDNA clone:J023054G20, full insert sequence) 	maize	A0A1D6EIG7	Noc2p family 	1721.98 	platinum
+Q2R230	Os11g0581900 protein (Uncharacterized protein family UPF0005 containing protein, expressed) (cDNA clone:J023020E21, full insert sequence) 	maize	A0A1D6QL59	Bax inhibitor-1 family protein 	647.82 	platinum
+Q2R441	Os11g0490100 protein (Uncharacterized plant-specific domain TIGR01627 family protein, expressed) (cDNA clone:002-152-C10, full insert sequence) 	maize	B6TXL0	Plant-specific domain TIGR01627 family protein 	740.92 	platinum
+Q32759	Uncharacterized protein ycf70 (ORF89) 	maize	Q33301	Uncharacterized protein ycf70 (ORF69) 	154.71 	gold
+Q32766	Uncharacterized protein ycf76 (ORF85) 	maize	Q36997	Uncharacterized protein ycf76 (ORF85) 	98.69 	gold
+Q337K2	Os10g0479600 protein (Uncharacterized protein family containing protein, expressed) (cDNA clone:001-112-H08, full insert sequence) 	maize	B6UGA4	Mitochondrial import inner membrane translocase subunit TIM16 (Protein Transporter Pam16) 	316.98 	platinum
+Q337M4	Os10g0463800 protein (Uncharacterized conserved protein, putative, expressed) (cDNA clone:J033091E11, full insert sequence) 	sorghum	C5WZE8	DUF1338 domain-containing protein 	996.36 	platinum
+Q37066	Uncharacterized protein ycf73 (ORF249) 	maize	Q36907	Uncharacterized protein ycf73 (ORF173) 	481.18 	platinum
+Q5JJJ9	No annotation 	maize	B4FAB7	CBS domain-containing protein CBSX6 	799.78 	platinum
+Q5JJM6	Os01g0367100 protein (Uncharacterized protein B1642C07.56) (Uncharacterized protein P0784G04.3) (cDNA clone:002-173-F07, full insert sequence) 	arabidopsis	Q8VZB1	NAD(P)-binding Rossmann-fold superfamily protein (Uncharacterized protein At2g39070:At2g39080; T7F6.24:T7F6.25) (Uncharacterized protein At2g39070At2g39080) 	879.11 	platinum
+Q5JJU1	No annotation 	maize	A0A1D6N0T1	ARM repeat superfamily protein 	865.75 	platinum
+Q5JJV2	No annotation 	maize	C0P670	Leucine-rich repeat (LRR) family protein 	1080.43 	platinum
+Q5JJY7	No annotation 	arabidopsis	Q84VV1	At5g41270 (RNase P Rpr2/Rpp21 subunit domain protein) (Uncharacterized protein At5g41270) 	455.68 	gold
+Q5JK16	No annotation 	maize	B4FAG9	S-acyltransferase, EC 2.3.1.225 (Palmitoyltransferase) 	1047.92 	platinum
+Q5JK41	No annotation 	maize	A0A1D6N2D3	RING finger protein 	383.21 	gold
+Q5JK69	No annotation 	sorghum	C5XIJ5	NUC173 domain-containing protein 	3043.70 	platinum
+Q5JKG8	No annotation 	maize	A0A1D6N2N3	SAUR-like auxin-responsive protein family 	266.51 	platinum
+Q5JKS2	No annotation 	maize	B4FFU0	Aspartate-glutamate racemase family 	803.90 	platinum
+Q5JKV2	No annotation 	arabidopsis	Q8RXE9	Tryptophan--tRNA ligase, chloroplastic/mitochondrial, EC 6.1.1.2 (Protein OVULE ABORTION 4) (Tryptophanyl-tRNA synthetase, TrpRS) 	1083.66 	platinum
+Q5JKV3	No annotation 	maize	K7V8V3	Peptidase M28 family protein 	2121.04 	platinum
+Q5JKW0	No annotation 	sorghum	C5XK08	DIOX_N domain-containing protein 	698.72 	platinum
+Q5JKW8	No annotation 	maize	A0A1D6N1C8	Cytochrome P450 family 94 subfamily D polypeptide 2 	1397.58 	platinum
+Q5JKX9	Os01g0949060 protein (Uncharacterized protein B1147A04.4-2) 	maize	A0A1D6G4L8	Protein OSB2 chloroplastic 	749.90 	platinum
+Q5JKZ9	No annotation 	maize	A0A1D6N0Y8	Beta-galactosidase, EC 3.2.1.23 (Lactase) 	3149.15 	platinum
+Q5JL01	No annotation 	arabidopsis	Q9M1I1	F-box protein At3g54460 	3097.30 	platinum
+Q5JLF1	No annotation 	sorghum	C5XJC3	tRNA dimethylallyltransferase, EC 2.5.1.75 	1173.98 	platinum
+Q5JLP8	No annotation 	arabidopsis	Q9LYQ9	At5g13470 (Uncharacterized protein At5g13470) (Uncharacterized protein T22N19_120) 	111.44 	gold
+Q5JLR1	No annotation 	arabidopsis	Q8W461	Uncharacterized protein At1g78810 (Uncharacterized protein At1g78810; F9K20.15) 	387.48 	gold
+Q5JLS9	No annotation 	maize	A0A1D6NB47	Heavy metal transport/detoxification superfamily protein 	246.02 	platinum
+Q5JLX3	No annotation 	maize	A0A1D6G7A1	Beta-hexosaminidase, EC 3.2.1.52 	1490.56 	platinum
+Q5JM43	No annotation 	arabidopsis	Q0WPS6	Adenine phosphoribosyltransferase 	488.50 	gold
+Q5JM62	No annotation 	maize	A0A1D6NDI1	Lachrymatory-factor synthase 	435.43 	gold
+Q5JM96	No annotation 	arabidopsis	Q8L7D0	Small polypeptide DEVIL 13 (Small polypeptide ROTUNDIFOLIA LIKE 2, Small polypeptide ROT-FOUR-LIKE 2) 	190.52 	silver
+Q5JMA8	No annotation 	maize	A0A1D6G3E3	NB-ARC domain-containing protein 	1102.77 	gold
+Q5JMG0	No annotation 	arabidopsis	Q9FL87	Protein CHLORORESPIRATORY REDUCTION 7, chloroplastic 	347.59 	platinum
+Q5JMG8	No annotation 	maize	A0A1D6N290	Heavy metal transport/detoxification superfamily protein 	663.82 	platinum
+Q5JML3	No annotation 	maize	A0A1D6NBM4	Pentatricopeptide repeat-containing protein 	1874.51 	platinum
+Q5JMM6	No annotation 	maize	B6TEK2	GroES-like zinc-binding alcohol dehydrogenase family protein (Reticulon-4-interacting protein 1) 	1050.35 	platinum
+Q5JMQ6	No annotation 	sorghum	C5XH48	Cullin domain-containing protein 	817.17 	platinum
+Q5JMX3	No annotation 	maize	B4FS53	Heat-and acid-stable phosphoprotein 	446.18 	platinum
+Q5JMX4	No annotation 	sorghum	C5XK57	Tr-type G domain-containing protein 	1927.74 	platinum
+Q5JMX7	No annotation 	maize	A0A060D116	AP2-EREBP transcription factor (Ethylene-responsive transcription factor 2) 	371.59 	gold
+Q5JN20	No annotation 	maize	A0A1D6NAW9	DUF155 family protein 	998.16 	platinum
+Q5JN40	No annotation 	arabidopsis	Q9SHS2	Glucose-inhibited division family A protein (Similar to glucose inhibited division protein A from prokaryotes) 	1981.13 	platinum
+Q5JNB2	Os01g0977800 protein (Uncharacterized protein P0020E09.24) 	maize	A0A1D6J305	Extra-large GTP-binding protein 3 	482.06 	gold
+Q5JNI6	No annotation 	soybean	C6TI80	S4 domain-containing protein 	806.96 	platinum
+Q5JNK7	No annotation 	maize	B6SZT8	DUF1005 family protein 	599.45 	silver
+Q5JNR9	No annotation 	maize	C0HEW9	Ubiquitin carboxyl-terminal hydrolase family protein 	1155.38 	platinum
+Q5KQH1	No annotation 	maize	A0A1D6MEM7	Putative pleckstrin-like proteiny (PH) domain-containing family protein 	581.44 	platinum
+Q5KQH9	No annotation 	soybean	I1KMZ2	F-box domain-containing protein 	450.78 	silver
+Q5N6V3	No annotation 	maize	B4FD73	Exocyst subunit Exo70 family protein 	1306.67 	platinum
+Q5N6W0	No annotation 	arabidopsis	Q8VYF9	Peptidyl serine alpha-galactosyltransferase, AtSGT1, EC 2.4.1.- 	2109.96 	platinum
+Q5N6Y9	No annotation 	arabidopsis	Q9ZUP2	DNA repair protein recA homolog 3, mitochondrial (Recombinase A homolog 3) 	1102.68 	platinum
+Q5N714	No annotation 	maize	C0PGS0	GPI transamidase component PIG-S-related 	1607.66 	platinum
+Q5N747	No annotation 	maize	A0A1D6N629	Protein NRT1/ PTR FAMILY 5.10 	1392.57 	gold
+Q5N789	No annotation 	sorghum	A0A1B6Q6Z7	TUTase domain-containing protein 	1056.00 	platinum
+Q5N796	No annotation 	maize	K7VNK4	Transcription initiation factor TFIID subunit 12b 	949.32 	platinum
+Q5N7H0	No annotation 	maize	A0A1D6N6L5	Hemerythrin HHE cation-binding domain protein 	1010.36 	platinum
+Q5N7H4	No annotation 	maize	K7V3F2	Zinc ion binding 	1724.32 	platinum
+Q5N7S4	No annotation 	maize	A0A1D6G2N0	Non-specific serine/threonine protein kinase, EC 2.7.11.1 	1542.45 	platinum
+Q5N7Y0	No annotation 	maize	B4FIR9	Sas10/Utp3/C1D family 	823.59 	platinum
+Q5N7Z8	No annotation 	maize	A0A1D6MF61	Cytochrome P450 71A26 	1284.68 	gold
+Q5N844	Os01g0888850 protein (Uncharacterized protein B1099D03.34) 	arabidopsis	O48719	Expressed protein (Transmembrane protein) (Uncharacterized protein At2g26520) 	200.43 	gold
+Q5N857	No annotation 	maize	K7V2K9	ARM repeat superfamily protein 	2398.90 	platinum
+Q5N861	No annotation 	arabidopsis	Q8W1Y0	Sister chromatid cohesion 1 protein 4, AtRAD21-3, AtRAD21.3 	1688.26 	platinum
+Q5N865	No annotation 	maize	A0A1D6N4Q6	Ribonuclease 2 	379.35 	silver
+Q5N890	No annotation 	sorghum	A0A1B6Q729	Protein-serine/threonine phosphatase, EC 3.1.3.16 	1816.53 	platinum
+Q5N8G6	No annotation 	maize	A0A1D6G7E2	CLP protease regulatory subunit CLPX3 mitochondrial 	1300.64 	platinum
+Q5N8H1	No annotation 	sorghum	C5XEM9	AB hydrolase-1 domain-containing protein 	963.37 	platinum
+Q5N8J4	No annotation 	maize	A0A1D6G2W2	Putative CRAL/TRIO domain containing, Sec14p-like phosphatidylinositol transfer family protein 	1390.39 	silver
+Q5N8K0	No annotation 	maize	A0A1D6G2T0	SWAP (Suppressor-of-White-APricot)/surp domain-containing protein 	1542.83 	platinum
+Q5N8W4	No annotation 	maize	A0A1D6N5Q8	RNA-binding (RRM/RBD/RNP motifs) family protein 	658.42 	platinum
+Q5N944	No annotation 	maize	B6TCF6	TRAM LAG1 and CLN8 (TLC) lipid-sensing domain containing protein 	808.43 	platinum
+Q5N967	No annotation 	maize	B4FUR9	Protein YIP 	692.57 	platinum
+Q5N968	No annotation 	maize	A0A1D6N6C9	Sterol 3-beta-glucosyltransferase 	1645.59 	platinum
+Q5N9F8	No annotation 	maize	A0A1D6N5L3	Arabinanase/levansucrase/invertase 	1286.59 	gold
+Q5N9P7	No annotation 	maize	B6TXU5	Core-2/I-branching beta-16-N-acetylglucosaminyltransferase family protein 	884.80 	platinum
+Q5NA00	No annotation 	maize	B6U4K5	Embryogenesis-associated protein EMB8 	1571.27 	platinum
+Q5NAA6	Os01g0244000 protein (Uncharacterized protein B1008C01.14) 	maize	B8A0R7	DUF1618 domain-containing protein 	785.76 	gold
+Q5NAG7	No annotation 	maize	K7TTS3	Cox19-like CHCH family protein 	172.32 	platinum
+Q5NAJ4	No annotation 	maize	A0A1D6MF66	Transcription repressor (Ovate family protein) 	401.84 	silver
+Q5NAK4	Os01g0226600 protein (Uncharacterized protein P0443E07.25-1) 	maize	A0A1D6MF67	S-type anion channel SLAH3 	1361.95 	gold
+Q5NAQ2	No annotation 	maize	C0P750	Plastid division protein PDV1 	458.22 	platinum
+Q5NAU4	No annotation 	maize	A0A1D6FGS6	Histone-lysine N-methyltransferase ATX3 	2246.35 	gold
+Q5NAV8	No annotation 	sorghum	C5XGE0	Protein kinase domain-containing protein 	1150.21 	platinum
+Q5NB72	Os01g0231100 protein (Uncharacterized protein P0431F01.16) 	soybean	K7K3W3	SPOROCYTELESS-like EAR-containing protein 	211.26 	silver
+Q5NB98	No annotation 	sorghum	C5XGI2	Geranylgeranyl diphosphate reductase, EC 1.3.1.83 (Geranylgeranyl reductase) 	1294.29 	platinum
+Q5NBB8	No annotation 	maize	A0A1D6MQF7	UDP-Glycosyltransferase superfamily protein 	1285.44 	platinum
+Q5NBF0	No annotation 	maize	A0A060CYZ5	BSD domain-containing protein (BSD transcription factor) 	1024.23 	gold
+Q5NBF4	No annotation 	sorghum	C5XH65	NEDD8-activating enzyme E1 catalytic subunit, EC 6.2.1.64 	1315.72 	platinum
+Q5NBF6	No annotation 	arabidopsis	Q84K84	Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein (Uncharacterized protein At5g63000) 	518.90 	platinum
+Q5NBG8	No annotation 	sorghum	C5XGJ1	HTH La-type RNA-binding domain-containing protein 	1431.39 	platinum
+Q5NBI9	No annotation 	arabidopsis	Q8GWA2	Holliday junction resolvase MOC1, chloroplastic, EC 3.1.21.10 (Protein MONOKARYOTIC CHLOROPLAST 1, AtMOC1) 	534.59 	platinum
+Q5NBJ1	No annotation 	maize	A0A1D6FBD3	Alpha-xylosidase 1 	2193.04 	platinum
+Q5NBL6	No annotation 	soybean	K7KYG7	MFS domain-containing protein 	1314.52 	silver
+Q5NBL8	No annotation 	maize	B6TY16	SUN domain protein2 (Sad1/unc-84-like protein 2) 	1070.02 	gold
+Q5NBQ2	No annotation 	maize	A0A1D6MPM7	Protein kinase superfamily protein 	1746.45 	gold
+Q5NBU2	No annotation 	maize	A0A1D6MPP3	Glycine-rich protein family 	351.75 	platinum
+Q5QLB6	No annotation 	maize	A0A1D6N7S0	Interactor of constitutive active ROPs 3 	934.67 	gold
+Q5QLC2	No annotation 	maize	A0A1D6N7U3	Ureidoglycolate hydrolase 	464.17 	platinum
+Q5QLC8	No annotation 	maize	C4J8V0	Jasmonate-regulated gene 21 	1006.34 	platinum
+Q5QLD5	No annotation 	maize	A0A1D6N7T2	IQ-domain 3 	977.27 	gold
+Q5QLQ3	No annotation 	maize	K7W049	Ribosomal protein L18ae family 	359.87 	platinum
+Q5QLQ7	No annotation 	arabidopsis	Q8RXT7	Myosin-G heavy chain-like protein (Uncharacterized protein At2g42975) 	341.91 	platinum
+Q5QLT5	No annotation 	maize	B4FAI4	PX domain containing protein (Sorting nexin 2B) 	1254.57 	platinum
+Q5QLZ2	No annotation 	maize	B4FX45	Pectin lyase-like superfamily protein 	1067.53 	gold
+Q5QM36	No annotation 	sorghum	A0A1B6Q5A1	Protein kinase domain-containing protein 	940.57 	silver
+Q5QM65	No annotation 	maize	A0A1D6N877	Protein FATTY ACID EXPORT 3 chloroplastic 	743.11 	platinum
+Q5QM71	No annotation 	arabidopsis	Q9SVS7	DUF2921 family protein, putative (DUF2921) (Uncharacterized protein AT4g21700) (Uncharacterized protein F17L22.160) 	1541.44 	platinum
+Q5QMC8	Os01g0523100 protein (Uncharacterized protein P0516D04.31) 	maize	A0A1D6J1V2	Putative leucine-rich repeat receptor-like protein kinase family protein 	2739.47 	platinum
+Q5QMD6	No annotation 	maize	K7U5M9	DNAJ heat shock N-terminal domain-containing protein 	1464.28 	platinum
+Q5QMF3	No annotation 	sorghum	C5XP22	NAB domain-containing protein 	1882.52 	gold
+Q5QMK9	No annotation 	maize	C0HHE6	Calcium-dependent lipid-binding (CaLB domain) family protein 	721.74 	platinum
+Q5QMM8	Os01g0197400 protein (Uncharacterized protein B1046G12.3) (cDNA clone:J033116D22, full insert sequence) 	arabidopsis	F4I908	CA-responsive protein 	472.55 	gold
+Q5QMP6	No annotation 	sorghum	A0A1W0VYX7	AAA domain-containing protein 	1071.76 	platinum
+Q5QMQ1	No annotation 	maize	A0A1D6NG39	Nucleotidyltransferase family protein 	1204.82 	gold
+Q5QMV5	No annotation 	maize	B6T5U8	Mediator of RNA polymerase II transcription subunit 9 	359.38 	platinum
+Q5QMW7	No annotation 	maize	A0A1D6MTL3	Fimbrin-2 	1825.13 	platinum
+Q5QN81	No annotation 	maize	B6SVF2	GTP binding protein 	1403.64 	platinum
+Q5QNE1	No annotation 	maize	K7UZJ5	ABC transporter D family member 2 chloroplastic 	1963.57 	platinum
+Q5QNK9	No annotation 	maize	A0A1D6MFX0	Protein trichome birefringence-like 39 	1049.71 	platinum
+Q5QNM3	No annotation 	maize	A0A1D6MG97	Receptor-like protein kinase 	1607.80 	platinum
+Q5SMN0	No annotation 	arabidopsis	Q9M095	UPF0057 membrane protein At4g30650 	183.02 	silver
+Q5SMN3	No annotation 	maize	C0HH52	BTB/POZ domain-containing protein NPY1 (Orphans transcription factor) 	1550.23 	platinum
+Q5SMR6	No annotation 	sorghum	C5XFW2	3'-5' exonuclease domain-containing protein 	547.49 	platinum
+Q5SMS6	No annotation 	sorghum	C5XFC2	F-box domain-containing protein 	1140.10 	platinum
+Q5SMT2	No annotation 	maize	C0PE95	Glycosyltransferase family 92 protein, EC 2.4.1.- 	1450.36 	platinum
+Q5SMW7	No annotation 	maize	K7VA15	Pentatricopeptide repeat protein2263 	2251.78 	platinum
+Q5SMY0	No annotation 	arabidopsis	Q9LV38	At5g56880 	105.34 	gold
+Q5SMY2	No annotation 	maize	A0A1D6MHJ0	Protein indeterminate-domain 11 	977.04 	platinum
+Q5SN52	No annotation 	arabidopsis	F4KHG9	SCP1-like small phosphatase 4 	772.23 	gold
+Q5SN59	No annotation 	sorghum	C5XFY6	Ribokinase, RK, EC 2.7.1.15 	991.94 	platinum
+Q5SN65	No annotation 	maize	B6UEI5	Magnesium transporter CorA-like family protein 	1430.61 	platinum
+Q5SNH5	No annotation 	sorghum	C5XLZ0	ATP-dependent 6-phosphofructokinase, ATP-PFK, Phosphofructokinase, EC 2.7.1.11 (Phosphohexokinase) 	1496.34 	platinum
+Q5TKQ5	No annotation 	maize	C0HFM6	Chaperonin CPN60-like 2 mitochondrial 	1634.02 	gold
+Q5VMF1	No annotation 	maize	B4G0M2	S-adenosyl-L-methionine-dependent methyltransferase superfamily protein (Tumor-related protein) 	760.67 	platinum
+Q5VMR5	No annotation 	sorghum	C5Z8M3	1-phosphatidylinositol 4-kinase, EC 2.7.1.67 	1516.71 	platinum
+Q5VN15	No annotation 	maize	A0A1D6NYG9	TRICHOME BIREFRINGENCE-LIKE 20 	978.98 	platinum
+Q5VP52	No annotation 	maize	B2LXS7	Single-stranded DNA-binding protein WHY1, chloroplastic (Protein WHIRLY 1, ZmWHY1) 	682.65 	gold
+Q5VPB9	No annotation 	sorghum	C5XF87	Ketol-acid reductoisomerase, EC 1.1.1.86 (Acetohydroxy-acid reductoisomerase) (Alpha-keto-beta-hydroxylacyl reductoisomerase) 	1599.55 	silver
+Q5VQG1	No annotation 	maize	C4J4F3	Pentatricopeptide repeat-containing protein 	1625.00 	platinum
+Q5VQR0	No annotation 	maize	C0PFM8	Protein RETICULATA-RELATED 3 chloroplastic 	830.88 	platinum
+Q5VQU1	No annotation 	maize	K7V039	ADP,ATP carrier protein 	1721.28 	platinum
+Q5VQX3	No annotation 	maize	B6TDD4	50S ribosomal protein L34 (Ribosomal protein L34) 	362.50 	platinum
+Q5VR12	No annotation 	maize	B6TCK3	NADH-cytochrome b5 reductase, EC 1.6.2.2 	865.68 	platinum
+Q5VR39	No annotation 	maize	B4FTE5	FRIGIDA-like protein 	1354.81 	platinum
+Q5VR41	No annotation 	sorghum	A0A1B6Q178	DNA_MISMATCH_REPAIR_2 domain-containing protein 	2890.30 	platinum
+Q5VRD8	No annotation 	maize	A0A1D6MJU4	Protein PGR 	866.18 	platinum
+Q5VRD9	No annotation 	maize	A0A1D6FF61	Putative DUF1767 domain containing protein 	897.96 	platinum
+Q5VRF5	No annotation 	maize	A0A1D6LLR9	Ribonucleoside-diphosphate reductase, EC 1.17.4.1 	2403.16 	platinum
+Q5VRF6	No annotation 	maize	A0A1D6MXV0	Syntaxin-132 	841.91 	platinum
+Q5VRG9	No annotation 	maize	B4FW69	Methyltransferase, EC 2.1.1.- 	1745.66 	platinum
+Q5VRH2	No annotation 	arabidopsis	Q8L785	Glycine--tRNA ligase, chloroplastic/mitochondrial 2, EC 6.1.1.14 (Glycyl-tRNA synthetase 2, GlyRS-2) (Protein EMBRYO-DEFECTIVE-DEVELOPMENT 1) 	3010.94 	platinum
+Q5VRJ9	No annotation 	maize	A0A1D6LKA6	Oligopeptide transporter 7 	2168.07 	platinum
+Q5VRK0	No annotation 	sorghum	A0A194YGS6	SET domain-containing protein 	1379.56 	platinum
+Q5VRN1	No annotation 	maize	A0A1D6NX03	Cell division control protein 48 homolog C 	2050.71 	platinum
+Q5VRR3	No annotation 	sorghum	C5Z4W6	C2H2-type domain-containing protein 	965.06 	platinum
+Q5VRR5	No annotation 	sorghum	C5Z4W4	F-box domain-containing protein 	659.27 	platinum
+Q5VRT7	No annotation 	maize	A0A1D6FFB2	Enhancer of polycomb-like transcription factor protein 	1771.77 	gold
+Q5VRV7	No annotation 	maize	C0PCY1	Ubiquitin carboxyl-terminal hydrolase, EC 3.4.19.12 	2267.86 	platinum
+Q5VRW0	No annotation 	arabidopsis	F4IEK8	PII, uridylyltransferase (DUF2921) 	2392.80 	platinum
+Q5VRY6	No annotation 	sorghum	C5XMM7	CBFD_NFYB_HMF domain-containing protein 	436.09 	platinum
+Q5VRY7	No annotation 	soybean	I1K114	IPPc domain-containing protein 	1258.48 	silver
+Q5VRZ9	No annotation 	maize	K7W7I7	Heat shock protein binding protein 	1179.68 	platinum
+Q5VS63	No annotation 	maize	B4G0U5	Pectin lyase-like superfamily protein 	1324.22 	platinum
+Q5W6P5	No annotation 	maize	A0A1D6M2T4	SAG20 	1064.77 	platinum
+Q5Z4Y2	No annotation 	maize	C4J384	PHD-type domain-containing protein 	613.63 	gold
+Q5Z5G0	No annotation 	sorghum	C5Z3Q5	RING-type domain-containing protein 	554.99 	platinum
+Q5Z669	No annotation 	sorghum	C5Z8Q2	Protein kinase domain-containing protein 	2788.81 	platinum
+Q5Z675	No annotation 	sorghum	C5Z8Q1	Protein kinase domain-containing protein 	2324.87 	silver
+Q5Z6C2	No annotation 	maize	B4G0Z1	PHD finger protein-related 	1086.54 	platinum
+Q5Z6G1	No annotation 	sorghum	A0A194YLC5	AAA domain-containing protein 	1314.68 	platinum
+Q5Z6I7	No annotation 	maize	A0A1D6LXF4	Embryogenesis transmembrane protein-like 	2439.75 	platinum
+Q5Z6S8	No annotation 	sorghum	C5Z430	AA_permease_C domain-containing protein 	1737.74 	platinum
+Q5Z7K9	No annotation 	maize	K7VA67	FA_FANCE domain-containing protein 	1198.60 	platinum
+Q5Z7P9	No annotation 	maize	A0A1D6LMQ4	LAZ1-8 (Protein LAZ1) 	1299.48 	platinum
+Q5Z7Q4	No annotation 	sorghum	A0A194YLW2	NAC domain-containing protein 	618.74 	silver
+Q5Z7T4	No annotation 	maize	B6SHX4	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9 (Complex I-B22) (NADH-ubiquinone oxidoreductase B22 subunit) 	335.82 	platinum
+Q5Z8E0	No annotation 	maize	K7US54	Dual specificity protein phosphatase PHS1 	2135.68 	platinum
+Q5Z8K1	No annotation 	maize	A0A1D6GUF1	ARM repeat superfamily protein 	1098.83 	platinum
+Q5Z8N9	No annotation 	maize	C0PKR9	Eukaryotic aspartyl protease family protein 	1277.62 	platinum
+Q5Z991	No annotation 	maize	B4FRU9	Transducin/WD40 repeat-like superfamily protein 	1110.68 	platinum
+Q5Z9Q2	No annotation 	pombe	O60149	Vacuolar protein sorting-associated protein 38 	719.55 	gold
+Q5ZAM8	No annotation 	maize	K7V4K2	Putative serine peptidase S28 family protein 	1363.24 	platinum
+Q5ZAP0	No annotation 	maize	A0A1D6GAN5	RNA helicase, EC 3.6.4.13 	3191.43 	platinum
+Q5ZAU2	No annotation 	sorghum	C5XLR4	diacylglycerol kinase, EC 2.7.1.107 	1286.59 	platinum
+Q5ZAW0	No annotation 	maize	B6TJ26	Protein ULTRAPETALA 1 (ULT transcription factor) 	662.84 	platinum
+Q5ZB57	No annotation 	maize	A0A1D6NLB8	Ribosomal RNA apurinic site specific lyase-like 	1298.99 	platinum
+Q5ZBH8	No annotation 	maize	B4F840	Putative aldo-keto reductase 4 	993.37 	platinum
+Q5ZBM2	No annotation 	maize	A0A1D6FE39	Sulfoquinovosyl transferase SQD2 	1263.87 	platinum
+Q5ZBP7	No annotation 	maize	A0A1D6NLM5	Transcriptional corepressor LEUNIG 	1899.17 	platinum
+Q5ZBZ3	No annotation 	maize	C0P4D4	Dymeclin 	1841.32 	platinum
+Q5ZC21	No annotation 	sorghum	C5XKI9	Hydrolase_4 domain-containing protein 	1911.22 	platinum
+Q5ZC51	No annotation 	soybean	I1K3D5	Dipeptide epimerase, EC 5.1.1.- 	1259.93 	platinum
+Q5ZC55	No annotation 	maize	A0A1D6MLT7	Non-specific serine/threonine protein kinase, EC 2.7.11.1 	1541.35 	platinum
+Q5ZCG0	No annotation 	maize	B4FAN5	BTB/POZ domain-containing protein (Orphans transcription factor) 	1518.50 	platinum
+Q5ZCN1	No annotation 	sorghum	A0A1B6Q205	Lactamase_B domain-containing protein 	1452.88 	platinum
+Q5ZCV1	No annotation 	maize	B6UCV5	Shikimate dehydrogenase (NADP(+)), EC 1.1.1.25 	1510.34 	platinum
+Q5ZCV4	No annotation 	sorghum	C5WTC3	CP-type G domain-containing protein 	1488.56 	platinum
+Q5ZD69	No annotation 	maize	A0A1D6ML87	DUF674 family protein 	579.88 	platinum
+Q5ZDJ3	No annotation 	maize	A0A1D6NJS2	Tetratricopeptide repeat (TPR)-containing protein 	2611.48 	platinum
+Q5ZDL5	No annotation 	maize	K7UYM2	Putative XH domain family protein 	1818.96 	platinum
+Q5ZDR4	No annotation 	maize	B4FH49	Mitochondrial substrate carrier family protein 	934.74 	platinum
+Q5ZDX5	No annotation 	maize	B8XVQ4	Autophagy 7 (Autophagy-related 7) 	2857.71 	platinum
+Q5ZDY7	No annotation 	arabidopsis	O49522	Transmembrane protein (Uncharacterized protein AT4g18540) (Uncharacterized protein F28J12.200) 	1161.66 	platinum
+Q5ZE54	No annotation 	maize	A0A1D6FZX1	Cytochrome P450 family 72 subfamily A polypeptide 8 	1437.56 	gold
+Q5ZE75	No annotation 	soybean	A0A0R0GRY4	TH1 domain-containing protein 	469.51 	platinum
+Q5ZEK1	No annotation 	arabidopsis	Q8LBP4	Inner membrane protein ALBINO3, chloroplastic 	1085.78 	platinum
+Q5ZEM2	No annotation 	arabidopsis	F4I8E9	Transmembrane protein 	1315.80 	gold
+Q5ZEN1	No annotation 	arabidopsis	Q9LD55	Eukaryotic translation initiation factor 3 subunit A, eIF3a (Eukaryotic translation initiation factor 3 large subunit) (Eukaryotic translation initiation factor 3 subunit 10) (eIF-3-theta) (p114) 	2602.60 	platinum
+Q60DV8	No annotation 	maize	K7UZL8	Electron transporter 	757.49 	platinum
+Q60EC4	No annotation 	maize	B4F7T2	F-box protein FBL2 (F-box protein SKP2A) 	968.36 	platinum
+Q60EH6	No annotation 	maize	A0A1D6FP42	HXXXD-type acyl-transferase family protein 	1228.54 	gold
+Q60EI6	No annotation 	arabidopsis	Q93VI9	AT4g27390/M4I22_200 (Transmembrane protein) (Uncharacterized protein M4I22.200) 	433.94 	platinum
+Q60EM0	No annotation 	sorghum	C5YYT3	DYW_deaminase domain-containing protein 	2467.11 	platinum
+Q60EW2	No annotation 	arabidopsis	Q9LYC9	Uncharacterized protein T20O10_20 (Zinc metalloproteinase aureolysin) 	104.81 	gold
+Q60EZ9	Os05g0185800 protein (Uncharacterized protein OJ1111_A10.14) (cDNA clone:J013001I17, full insert sequence) 	maize	A0A1D6LZR8	Actin binding protein family 	1262.92 	platinum
+Q60F00	Os05g0185700 protein (Uncharacterized protein OJ1111_A10.13) (cDNA clone:002-103-F05, full insert sequence) 	maize	A0A1D6FMZ6	PfkB-like carbohydrate kinase family protein 	1077.42 	platinum
+Q651E3	No annotation 	maize	A0A1D6IPR9	GDSL esterase/lipase EXL3 	980.48 	platinum
+Q651H6	No annotation 	maize	C0HFD8	OSJNBa0058K23.8-like protein 	613.42 	platinum
+Q651T8	No annotation 	arabidopsis	O23654	V-type proton ATPase catalytic subunit A, V-ATPase subunit A, EC 7.1.2.2 (V-ATPase 69 kDa subunit) (Vacuolar H(+)-ATPase subunit A) (Vacuolar proton pump subunit alpha) 	1846.74 	platinum
+Q651Z3	No annotation 	maize	A0A096RDK9	Prolyl endopeptidase, EC 3.4.21.- 	2117.37 	platinum
+Q652X9	No annotation 	maize	A0A1D6KFG0	Cytochrome P450 CYP76M15 	1209.40 	gold
+Q653H1	No annotation 	maize	B4FSH7	Mediator of RNA polymerase II transcription subunit 8 	159.67 	gold
+Q653S0	No annotation 	maize	A0A1D6IAL4	Cyclic nucleotide-gated ion channel 14 (Putative cyclic nucleotide-gated ion channel 14) 	1897.67 	platinum
+Q653S8	No annotation 	maize	K7UNX4	Putative RING zinc finger domain superfamily protein 	1353.47 	platinum
+Q653U7	No annotation 	maize	A0A1D6LPN8	Geranylgeranyl transferase type-2 subunit alpha 1 	1803.19 	platinum
+Q653X2	No annotation 	maize	A0A1D6LPD5	EamA-like transporter family 	1177.79 	platinum
+Q654D3	No annotation 	maize	A0A1D6KGJ7	CAAX amino terminal protease family protein 	923.54 	platinum
+Q654U8	No annotation 	sorghum	C5Z7L1	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta, PFP, EC 2.7.1.90 (6-phosphofructokinase, pyrophosphate dependent) (PPi-PFK) (Pyrophosphate-dependent 6-phosphofructose-1-kinase) 	1629.99 	platinum
+Q655C5	No annotation 	maize	A0A1D6MRW0	Dual specificity protein phosphatase PHS1 	1983.78 	platinum
+Q655F2	No annotation 	maize	A1DZD6	Brittle stalk-2-like protein 5 	1853.89 	platinum
+Q655L5	Os01g0101150 protein (Uncharacterized protein P0672D08.16) 	soybean	I1N805	DYW_deaminase domain-containing protein 	2299.53 	platinum
+Q655M2	No annotation 	maize	C4IZ36	Non-specific phospholipase C6 	1365.11 	gold
+Q655Q2	No annotation 	maize	B6TJY4	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex, EC 2.3.1.- 	1337.00 	platinum
+Q655V6	No annotation 	maize	K7U071	LRR receptor-like serine/threonine-protein kinase EFR 	2821.61 	platinum
+Q656A1	No annotation 	maize	A0A1D6LC50	Defective kernel2 	1687.32 	platinum
+Q656X7	No annotation 	maize	B6SPC3	Calmodulin binding protein (IQ domain-containing protein IQM4) (IQ domain-containing protein IQM5) 	1196.24 	platinum
+Q657H7	No annotation 	maize	A0A1D6MRS2	PIT1 	551.06 	platinum
+Q657I0	No annotation 	maize	A0A1D6MRP3	FAM91A1-like protein 	2288.79 	gold
+Q657T0	No annotation 	maize	K7UXV6	Protein decapping 5 	1224.37 	platinum
+Q657T1	No annotation 	maize	K7V9L0	Putative peptidyl-prolyl cis-trans isomerase family protein 	786.27 	platinum
+Q657Z1	No annotation 	maize	B4FRB2	PfkB-like carbohydrate kinase family protein 	1058.35 	platinum
+Q658C8	No annotation 	maize	A0A096QLV7	C-type lectin receptor-like tyrosine-protein kinase 	1431.26 	platinum
+Q658I3	No annotation 	maize	A0A1D6K1V1	ABC transporter B family member 25 mitochondrial 	1923.60 	platinum
+Q65WW0	No annotation 	maize	B4G0W3	PLAC8 family protein 	1224.48 	platinum
+Q65X24	No annotation 	maize	B4FSQ8	Lysine ketoglutarate reductase trans-splicing related 1 (Storage protein) 	1030.56 	gold
+Q65XG4	No annotation 	sorghum	C5YZ83	TPR_MalT domain-containing protein 	1004.51 	platinum
+Q65XK3	No annotation 	maize	C0PD27	Isocitrate dehydrogenase [NADP], EC 1.1.1.42 	1223.67 	platinum
+Q67IU3	No annotation 	arabidopsis	Q9C8N0	K+-H+ exchange-like protein (Uncharacterized protein At1g53760) (Uncharacterized protein F22G10.1) 	609.54 	platinum
+Q67J16	No annotation 	soybean	I1JEV3	PKS_ER domain-containing protein 	1835.50 	platinum
+Q67TZ4	No annotation 	maize	B6T7W4	Polcalcin Jun o 2 	471.38 	platinum
+Q67U25	No annotation 	maize	A0A1D6LQG8	Putative DUF231 domain containing family protein 	1226.52 	gold
+Q67U44	No annotation 	arabidopsis	Q9SIM1	Uncharacterized protein At2g20480 	87.82 	gold
+Q67U55	No annotation 	maize	B6SQA7	Plant viral-response family protein 	797.76 	gold
+Q67UH1	No annotation 	maize	B4FH48	Mitochondrial transcription termination factor family protein (mTERF family protein) (mTERF transcription factor) 	1079.01 	platinum
+Q67UR5	No annotation 	sorghum	C5Z6U1	PLD phosphodiesterase domain-containing protein 	1469.28 	platinum
+Q67UR9	No annotation 	maize	A0A1D6P515	Transcription initiation factor TFIID subunit 5 	1738.59 	platinum
+Q67UY4	No annotation 	maize	A0A1D6ER91	RHOMBOID-like protein 10 chloroplastic 	780.15 	platinum
+Q67VB8	No annotation 	arabidopsis	A0A1P8AZ49	Pyridoxamine 5'-phosphate oxidase family protein 	526.99 	platinum
+Q67WC1	No annotation 	maize	K7VJR7	Protein GLUTAMINE DUMPER 5 	328.02 	platinum
+Q67WD2	No annotation 	soybean	A0A0R0GGW2	Elongator complex protein 4 	900.38 	platinum
+Q67WU6	No annotation 	maize	B4FR72	Purple acid phosphatase, EC 3.1.3.2 	1388.92 	platinum
+Q69IU1	Os09g0518900 protein (Uncharacterized protein P0498F03.12) 	maize	A0A1D6ET62	S-adenosyl-L-methionine-dependent methyltransferase superfamily protein 	879.38 	platinum
+Q69J35	Uncharacterized protein ycf33 	arabidopsis	Q8VZK4	Uncharacterized protein ycf33 	379.32 	platinum
+Q69JV5	No annotation 	maize	B4FY09	Transcription termination factor MTERF2 chloroplastic 	793.53 	platinum
+Q69JY9	No annotation 	maize	B7FF23	ARO1-like protein 3 (Armadillo repeat only 1) 	1796.23 	platinum
+Q69K56	No annotation 	maize	B4FS62	DUF1677 family protein 	269.19 	gold
+Q69K99	No annotation 	maize	C4IZE2	LisH/CRA/RING-U-box domains-containing protein 	1107.67 	platinum
+Q69L72	No annotation 	maize	A0A1D6Q3Y5	DNA mismatch repair protein PMS1 	2022.22 	platinum
+Q69LJ7	No annotation 	maize	A0A1D6KNE5	Riboflavin synthase-like superfamily protein 	2250.99 	silver
+Q69LW2	No annotation 	maize	A0A1D6I1W2	Rab3 GTPase-activating protein non-catalytic subunit 	1273.75 	platinum
+Q69ML2	No annotation 	maize	A0A1D6ELF9	Serine/threonine protein kinase 3 	951.58 	platinum
+Q69NA4	No annotation 	maize	A0A1D6EQP9	Glutamate receptor 	2605.07 	platinum
+Q69P44	No annotation 	maize	A0A1D6IZ35	Pentatricopeptide repeat-containing protein chloroplastic 	2572.12 	gold
+Q69P69	No annotation 	maize	A0A1D6I4G9	BTB/POZ domain-containing protein NPY1 	1723.03 	platinum
+Q69PB8	No annotation 	maize	C0PMB1	WAT1-related protein 	950.35 	platinum
+Q69Q33	No annotation 	maize	A0A1D6P382	ABC transporter G family member 26 	1772.46 	platinum
+Q69QS4	No annotation 	arabidopsis	Q84VG5	Transmembrane protein (Uncharacterized protein At3g13275) 	124.44 	gold
+Q69QZ8	No annotation 	maize	K7U1D4	Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase, EC 2.4.1.143 (Beta-1,2-N-acetylglucosaminyltransferase II) (GlcNAc-T II) (Mannoside acetylglucosaminyltransferase 2) (N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase II) 	1179.14 	platinum
+Q69R94	No annotation 	maize	A0A1D6IPF6	HEAT repeat-containing protein 	2753.00 	gold
+Q69S84	No annotation 	sorghum	C5XVN8	F-box domain-containing protein 	1211.72 	platinum
+Q69SU0	No annotation 	maize	A0A1D6HAI0	Phosphoinositide phosphatase SAC6 	1719.82 	platinum
+Q69TT2	No annotation 	sorghum	A0A1B6QBL5	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent), EC 5.4.2.2 	1683.16 	platinum
+Q69U97	No annotation 	maize	A0A1D6QIZ6	Anthocyanin-related membrane protein 1 (Anm1)-like 	972.62 	platinum
+Q69UA1	No annotation 	sorghum	A0A1Z5RAL4	RING-type domain-containing protein 	657.22 	platinum
+Q69VD1	No annotation 	arabidopsis	F4K452	SOUL heme-binding family protein 	1000.82 	platinum
+Q69VD3	No annotation 	maize	K7VAF1	FscO 	1146.63 	platinum
+Q69VD4	No annotation 	maize	A0A1D6LSE8	Pentatricopeptide repeat-containing protein 	1499.99 	platinum
+Q69VQ4	No annotation 	maize	A0A1D6I1K5	RNA recognition motif (RRM)-containing protein 	1746.94 	gold
+Q69WE3	No annotation 	maize	B4FGH7	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial 	442.24 	platinum
+Q69WH7	No annotation 	maize	A0A1D6P0G2	Putative VHS/GAT domain containing family protein 	1297.28 	platinum
+Q69X93	No annotation 	maize	K7VAJ7	Putative leucine-rich repeat receptor protein kinase family protein 	2982.02 	platinum
+Q69XP2	No annotation 	maize	A0A1D6P4R6	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	1595.41 	silver
+Q69XZ5	No annotation 	maize	A0A1D6GTZ9	TIM-barrel signal transduction protein isoform 2 	2053.76 	platinum
+Q69Y81	No annotation 	sorghum	A0A194YJ63	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	1779.37 	gold
+Q6ATE2	No annotation 	maize	A0A1D6LF04	ATP binding protein 	985.77 	platinum
+Q6ATX4	No annotation 	maize	K7VWF2	Outer membrane OMP85 family protein 	1471.08 	platinum
+Q6AUA1	No annotation 	sorghum	C5YXV5	Protein kinase domain-containing protein 	1704.42 	platinum
+Q6AUF2	Uncharacterized protein ycf23 	sorghum	A0A1B6PA42	Uncharacterized protein ycf23 	839.49 	platinum
+Q6AUN4	No annotation 	maize	A0A1D6MD98	DUF3143 family protein 	398.23 	platinum
+Q6AUN6	No annotation 	maize	A0A1D6MD75	DUF1645 family protein 	154.12 	silver
+Q6AUW4	No annotation 	sorghum	C5Z0F1	DUF1995 domain-containing protein 	811.56 	platinum
+Q6EP40	No annotation 	maize	C4J530	Prohibitin 	798.31 	platinum
+Q6EP45	No annotation 	sorghum	A0A1Z5RP27	Choline transporter-like protein 	1387.91 	platinum
+Q6EP89	No annotation 	maize	A0A1D6HFV2	Lysophospholipid acyltransferase 1 	1350.02 	platinum
+Q6EP94	No annotation 	maize	K7TZA6	Methyltransferase, EC 2.1.1.- 	1673.42 	gold
+Q6EPG3	No annotation 	maize	B6T4Y6	ORM1-like protein 2 (ORMDL family protein) 	455.74 	platinum
+Q6EPY3	No annotation 	maize	A0A1D6H9Y7	ATPase inhibitor 	216.29 	gold
+Q6EQ17	No annotation 	sorghum	C5XCT4	Methyltransferase, EC 2.1.1.- 	1715.41 	platinum
+Q6ER91	No annotation 	maize	A0MWC0	H(+)-exporting diphosphatase, EC 7.1.3.1 	2367.75 	platinum
+Q6ERD4	No annotation 	arabidopsis	Q8GUU3	Cleavage and polyadenylation specificity factor subunit 3-II, EC 3.1.27.- (Cleavage and polyadenylation specificity factor 73 kDa subunit II, AtCPSF73-II, CPSF 73 kDa subunit II) (Protein EMBRYO SAC DEVELOPMENT ARREST 26) 	1470.40 	platinum
+Q6ES55	No annotation 	maize	A0A1D6I405	Myb domain protein 85 	635.61 	platinum
+Q6ET10	No annotation 	maize	A0A1D6QPC7	UPF0481 protein 	877.05 	gold
+Q6ET26	No annotation 	maize	K7U6Y4	Microfibrillar-associated protein-related 	1099.12 	platinum
+Q6ET30	No annotation 	maize	B6TGV7	TOM2B 	324.14 	platinum
+Q6ET46	No annotation 	maize	B4FPT9	EH domain-containing protein 1 	1540.71 	gold
+Q6ETC8	No annotation 	maize	A0A1D6GY38	TMPIT-like protein 	908.54 	gold
+Q6ETH5	No annotation 	maize	B8A2W9	Protein SUPPRESSOR OF K(+) TRANSPORT GROWTH DEFECT 1 	1161.19 	platinum
+Q6ETK1	No annotation 	maize	A0A1D6H2K7	Nucleoid-associated protein chloroplastic 	496.15 	gold
+Q6ETL3	No annotation 	maize	B6T790	Ubiquitin receptor RAD23 (DNA repair protein RAD23) 	1003.27 	platinum
+Q6EU85	No annotation 	human	Q9NU23	LYR motif-containing protein 2 	229.28 	gold
+Q6EUD5	No annotation 	maize	K7USZ5	Putative splicing factor 3A subunit 1 	1941.23 	platinum
+Q6EUK6	No annotation 	sorghum	A0A194YPX1	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	2183.26 	platinum
+Q6EUQ8	No annotation 	maize	B4G1B2	Core-2/I-branching beta-16-N-acetylglucosaminyltransferase family protein 	1095.04 	platinum
+Q6F2M2	No annotation 	maize	A0A1D6M526	Transcription repressor (Ovate family protein) 	436.37 	platinum
+Q6F2N5	No annotation 	maize	A0A1D6M552	Zinc finger protein WIP6 	786.22 	platinum
+Q6F2Z0	No annotation 	maize	A0A1D6FTN0	Aminoacyl-tRNA hydrolase, EC 3.1.1.29 	496.19 	platinum
+Q6F325	No annotation 	maize	B4FU96	Endoplasmic reticulum vesicle transporter protein 	1097.13 	platinum
+Q6F386	Os03g0795600 protein (Uncharacterized protein family UPF0005 containing protein, expressed) 	maize	B4FIZ0	Bax inhibitor-1 family protein 	647.64 	platinum
+Q6F387	Os03g0795800 protein (Uncharacterized protein family UPF0005 containing protein, expressed) (cDNA clone:J033087H03, full insert sequence) 	arabidopsis	Q9M1V9	Protein LIFEGUARD 2, AtLFG2 (Protein BRZ-INSENSITIVE-LONG HYPOCOTYLS 4) 	688.47 	gold
+Q6H432	No annotation 	arabidopsis	Q8GYD2	Meiotic nuclear division protein 1 homolog, AtMND1 (Meiotic nuclear division 1-like protein) 	599.45 	platinum
+Q6H4M3	No annotation 	soybean	K7MZH6	C2H2-type domain-containing protein 	915.72 	gold
+Q6H4P2	No annotation 	maize	B6SWJ0	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	1773.26 	platinum
+Q6H5X3	No annotation 	soybean	I1ND46	GRAM domain-containing protein 	464.25 	silver
+Q6H6D0	No annotation 	human	Q8TDP1	Ribonuclease H2 subunit C, RNase H2 subunit C (Aicardi-Goutieres syndrome 3 protein, AGS3) (RNase H1 small subunit) (Ribonuclease HI subunit C) 	314.37 	gold
+Q6H6G7	No annotation 	maize	A0A060D1W7	AP2-EREBP transcription factor (Ethylene-responsive transcription factor ERF035) 	605.62 	platinum
+Q6H6H0	No annotation 	maize	C4J4C0	Anaphase-promoting complex subunit 8 	1645.43 	platinum
+Q6H6J2	No annotation 	sorghum	C5XYH2	Homeobox domain-containing protein 	1005.07 	gold
+Q6H6Q2	No annotation 	sorghum	A0A194YQ60	Bulb-type lectin domain-containing protein 	1241.28 	platinum
+Q6H759	No annotation 	arabidopsis	O82089	Copper transport protein CCH (Copper chaperone CCH) 	272.62 	silver
+Q6H7E0	No annotation 	maize	A0A1D6HEG7	Membrane steroid-binding protein 1 	809.25 	platinum
+Q6H7N1	No annotation 	arabidopsis	Q940Q3	Zinc transporter ZTP29 (Zinc transporter 29) 	794.21 	platinum
+Q6I5E0	No annotation 	arabidopsis	Q9ZPY9	Phosphatidylinositol 4-kinase gamma 4, AtPI4Kgamma4, PI-4Kgamma4, PI4K gamma 4, EC 2.7.1.67 (Ubiquitin-like domain kinase gamma 4, UbDK gamma 4) 	1459.01 	platinum
+Q6I5I5	No annotation 	maize	A0A1D6MA74	Receptor like protein 29 	1133.81 	gold
+Q6I5K9	No annotation 	maize	A0A1D6FPN2	Putative subtilase family protein 	2110.32 	platinum
+Q6I5U9	No annotation 	maize	B6TLZ8	Gibberellin-regulated protein 2 	253.14 	platinum
+Q6I602	No annotation 	sorghum	C5YVG0	UBC core domain-containing protein 	1212.25 	platinum
+Q6I634	No annotation 	maize	B4FEC5	Transcription factor MYB36 	546.13 	gold
+Q6K1Q5	No annotation 	maize	A0A096QUD1	Putative glycolipid transfer protein (GLTP) family protein 	599.82 	platinum
+Q6K1S5	No annotation 	sorghum	C5YCD0	Hexosyltransferase, EC 2.4.1.- 	1432.73 	platinum
+Q6K2G8	No annotation 	sorghum	C5XSL5	LEA_2 domain-containing protein 	577.05 	platinum
+Q6K370	No annotation 	maize	C4J0B2	Tyrosine specific protein phosphatase-like 	492.88 	platinum
+Q6K3E6	No annotation 	maize	A0A1D6HP46	3-ketoacyl-CoA synthase, EC 2.3.1.- 	1317.52 	platinum
+Q6K3N8	No annotation 	sorghum	C5XSH7	Hexosyltransferase, EC 2.4.1.- 	1543.06 	platinum
+Q6K448	No annotation 	soybean	C6T3J2	SWIB/MDM2 domain-containing protein 	279.14 	platinum
+Q6K4B7	No annotation 	sorghum	A0A1B6QD27	PORR domain-containing protein 	1128.31 	platinum
+Q6K4D2	No annotation 	maize	A0A1D6I6D8	ABC transporter G family member 11 	1938.30 	platinum
+Q6K4D4	No annotation 	maize	A0A1D6I6C6	S-adenosyl-L-methionine-dependent methyltransferase superfamily protein 	2110.62 	platinum
+Q6K4E4	No annotation 	maize	A0A1D6I348	CRS1 / YhbY (CRM) domain-containing protein 	2024.96 	platinum
+Q6K5H5	No annotation 	sorghum	A0A194YQU6	Glucose-6-phosphate 1-dehydrogenase, EC 1.1.1.49 	1494.11 	platinum
+Q6K716	No annotation 	soybean	K7N4P5	RING-type domain-containing protein 	526.80 	silver
+Q6K720	No annotation 	maize	A0A1D6HPR8	Protein kinase superfamily protein 	1118.35 	platinum
+Q6K7G5	No annotation 	maize	A0A1D6HM49	Subtilisin-like protease SBT1.4 	2125.13 	platinum
+Q6K7G8	No annotation 	maize	B4FRH4	MTD1 	445.91 	platinum
+Q6K7X0	No annotation 	sorghum	C5XXN2	Protein kinase domain-containing protein 	2654.57 	platinum
+Q6K836	No annotation 	arabidopsis	Q9ZV08	Acyl-CoA N-acyltransferases (NAT) superfamily protein (At2g39000) (Uncharacterized protein At2g39000) 	612.15 	platinum
+Q6K838	No annotation 	sorghum	A0A194YTZ4	Protein kinase domain-containing protein 	2249.93 	platinum
+Q6K852	No annotation 	maize	B4FI30	S-adenosyl-L-methionine-dependent methyltransferase superfamily protein 	806.21 	platinum
+Q6K877	No annotation 	maize	C0PM87	SGNH hydrolase-type esterase superfamily protein 	1060.63 	platinum
+Q6K8F2	No annotation 	maize	A0A1D6HNS3	Glycosyltransferase family protein 2 	2547.79 	platinum
+Q6K8H8	No annotation 	maize	C0P801	Selenium binding protein-like protein 	1699.20 	platinum
+Q6K8I3	No annotation 	maize	A0A1D6LVF6	Pentatricopeptide repeat-containing protein 	1373.43 	platinum
+Q6K8R6	No annotation 	sorghum	C5XX86	TRAF-type domain-containing protein 	1006.98 	platinum
+Q6K8V8	No annotation 	sorghum	C5XTQ5	Hexosyltransferase, EC 2.4.1.- 	886.06 	platinum
+Q6K8V9	No annotation 	maize	B6TVP7	Plastid transcriptionally active 18 	365.67 	platinum
+Q6K975	No annotation 	maize	B6SWH5	ARM repeat superfamily protein (Beta-catenin-like protein 1) 	1477.28 	platinum
+Q6K988	No annotation 	maize	B8A0Q0	Casein kinase I 	1189.43 	platinum
+Q6K9C2	No annotation 	arabidopsis	Q9C5F3	Uncharacterized protein At4g28025 	281.14 	platinum
+Q6K9T2	No annotation 	maize	A0A1D6HQ78	Putative pentatricopeptide repeat-containing protein 	1315.82 	platinum
+Q6K9W5	No annotation 	maize	B4F9Q8	AT-hook motif nuclear-localized protein 	774.07 	platinum
+Q6K9W6	No annotation 	maize	K7U8N8	Putative cytochrome P450 superfamily protein 	1409.59 	platinum
+Q6K9X9	No annotation 	arabidopsis	Q9LZ83	AT5G04420 protein (At5g04420) (Galactose oxidase/kelch repeat superfamily protein) (Uncharacterized protein T32M21_20) 	1342.83 	platinum
+Q6L4F7	Os05g0552400 protein (Uncharacterized protein P0560C03.19) 	maize	B4FGJ2	RING/FYVE/PHD zinc finger superfamily protein 	490.03 	platinum
+Q6L4N8	No annotation 	sorghum	A0A1Z5R2K0	Probable tRNA N6-adenosine threonylcarbamoyltransferase, EC 2.3.1.234 (Glycoprotease 2) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein GCP2) (tRNA threonylcarbamoyladenosine biosynthesis protein GCP2) 	1050.07 	platinum
+Q6L517	No annotation 	maize	C4J4N6	Lung seven transmembrane receptor family protein 	1204.79 	silver
+Q6L561	No annotation 	maize	A0A1D6FLF3	Plasminogen activator inhibitor 1 RNA-binding protein 	651.08 	platinum
+Q6L5E8	No annotation 	maize	B8A3B8	NAD(P)-binding Rossmann-fold superfamily protein 	919.45 	platinum
+Q6L5I6	No annotation 	sorghum	A0A1B6P9P3	DUF4005 domain-containing protein 	990.02 	platinum
+Q6MWE1	No annotation 	sorghum	A0A1B6PLD8	Protein kinase domain-containing protein 	1685.21 	platinum
+Q6YPC4	No annotation 	maize	B4FNX5	RNA-binding (RRM/RBD/RNP motifs) family protein 	582.56 	platinum
+Q6YPF2	No annotation 	maize	A0A1D6LEN8	MA3 domain-containing protein 	1915.24 	platinum
+Q6YPG4	Os02g0104800 protein (Uncharacterized protein OJA1212_C06.19) (cDNA clone:J023067K03, full insert sequence) 	maize	K7UGQ0	Uncharacterized conserved protein UCP022280 	735.06 	platinum
+Q6YRM7	Os08g0121800 protein (Uncharacterized protein OSJNBa0091F23.16) (cDNA clone:002-170-A06, full insert sequence) 	maize	K7US96	Ribosome-like protein 	355.61 	platinum
+Q6YS99	No annotation 	sorghum	C5YM73	ENTH domain-containing protein 	986.98 	platinum
+Q6YTK7	No annotation 	arabidopsis	Q94K72	Ephrin-A3 protein (Uncharacterized protein At1g16170) 	186.43 	platinum
+Q6YTX5	No annotation 	maize	C0HHH9	Stress-response A/B barrel domain-containing protein UP3 	691.96 	platinum
+Q6YUA1	No annotation 	sorghum	A0A1Z5RK68	STI1 domain-containing protein 	1020.96 	platinum
+Q6YXI1	No annotation 	arabidopsis	Q8H103	Glucose-6-phosphate isomerase 1, chloroplastic, GPI 1, EC 5.3.1.9 (Phosphoglucose isomerase 1, PGI 1) (Phosphohexose isomerase, PHI) 	1741.82 	platinum
+Q6YXT2	No annotation 	maize	K7TTZ5	IQ-domain 18 	938.69 	platinum
+Q6YXX5	No annotation 	maize	A0A1D6H070	Leucine-rich repeat/extensin 2 	1378.81 	gold
+Q6YXZ9	No annotation 	maize	A0A1D6HBU0	Fimbrin-1 	1764.69 	platinum
+Q6YYB0	Uncharacterized protein Os08g0359500 	maize	C4JBB4	Co-chaperone protein SBA1 	462.89 	platinum
+Q6YZF2	No annotation 	sorghum	C5YHT0	Threonylcarbamoyl-AMP synthase, EC 2.7.7.87 	794.94 	platinum
+Q6YZX7	No annotation 	maize	B6T254	Auxin Efflux Carrier family protein (Protein PIN-LIKES 2) 	1261.02 	platinum
+Q6Z026	No annotation 	maize	K7U0A8	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein 	691.65 	platinum
+Q6Z0E3	No annotation 	arabidopsis	F4IV66	Ribonuclease E/G-like protein, chloroplastic, RNase E/G-like protein, EC 3.1.26.- (RNase E) 	2026.23 	gold
+Q6Z1P1	No annotation 	maize	A0A1D6KLY4	Exocyst complex component EXO84C 	1325.05 	silver
+Q6Z1Y8	No annotation 	maize	K7V2W8	Lipopolysaccharide-modifying protein 	1269.31 	platinum
+Q6Z290	No annotation 	sorghum	C5YKR5	GMC_OxRdtase_N domain-containing protein 	1633.45 	platinum
+Q6Z2J6	No annotation 	maize	B4FI33	APO protein 2 chloroplastic 	1200.74 	gold
+Q6Z2J9	No annotation 	maize	K7U498	Putative MYB DNA-binding domain superfamily protein 	543.96 	gold
+Q6Z2M7	No annotation 	maize	A0A1D6GZC3	Pentatricopeptide (PPR) repeat-containing protein-like 	1079.02 	platinum
+Q6Z2W1	No annotation 	maize	A0A1D6HK04	Serine/threonine-protein kinase WNK (With No Lysine)-related 	698.60 	platinum
+Q6Z343	No annotation 	maize	A0A060D7W7	BSD domain-containing protein (BSD transcription factor) 	737.25 	platinum
+Q6Z3I0	No annotation 	maize	B6TT53	SAUR36-auxin-responsive SAUR family member 	286.01 	gold
+Q6Z3X7	No annotation 	maize	A0A1D6F526	Protein NETWORKED 2D 	2319.20 	platinum
+Q6Z402	No annotation 	maize	B4FS93	Membrane lipoprotein lipid attachment site-containing protein-like 	731.39 	platinum
+Q6Z432	No annotation 	maize	B4F9B3	Protein At-4/1 	743.20 	gold
+Q6Z4F2	No annotation 	maize	A0A1D6F8V6	Nitrate and chloride transporter 	1559.57 	gold
+Q6Z553	No annotation 	maize	C4JB18	Zinc finger (C3HC4-type RING finger) family protein / BRCT domain-containing protein 	1111.00 	platinum
+Q6Z6F9	No annotation 	maize	K7UKY3	Cell number regulator 1 	458.60 	platinum
+Q6Z712	No annotation 	maize	A0A096SFJ8	Subtilisin inhibitor 1 	191.82 	platinum
+Q6Z745	No annotation 	maize	A0A1D6HJL9	MACPF domain-containing protein 	1568.60 	platinum
+Q6Z796	No annotation 	maize	A0A1D6QR61	EIN3-binding F-box protein 1 	1778.50 	platinum
+Q6Z7C3	No annotation 	arabidopsis	F4J9A3	WAT1-related protein At3g53210 	990.91 	silver
+Q6Z7I5	No annotation 	soybean	I1N7G2	HAUS6_N domain-containing protein 	1465.45 	gold
+Q6Z8I7	No annotation 	sorghum	C5XYP5	Fn3_like domain-containing protein 	2205.58 	platinum
+Q6Z8K1	No annotation 	sorghum	A0A194YR89	Peptidase A1 domain-containing protein 	1357.40 	platinum
+Q6Z8L0	No annotation 	maize	A0A1D6HKL2	Mitochondrial transcription termination factor family protein 	686.49 	silver
+Q6Z8S1	No annotation 	maize	A0A1D6PZJ5	Calcineurin subunit B 	503.26 	platinum
+Q6Z8S7	No annotation 	maize	A0A1D6KI22	Elongator complex protein 2 	2313.76 	platinum
+Q6Z8Y2	No annotation 	arabidopsis	A0A1P8BBA5	UBQ, helicase-c and DEAD-like helicase domain-containing protein 	2327.09 	platinum
+Q6Z8Z9	No annotation 	maize	A0A1D6LJ65	GDSL esterase/lipase 	1109.86 	gold
+Q6Z900	No annotation 	arabidopsis	Q84TH8	Deneddylase (Uncharacterized protein At1g28530) 	1241.75 	platinum
+Q6ZA21	No annotation 	maize	A0A1D6KPJ2	Cytochrome b5 	304.27 	platinum
+Q6ZAE1	No annotation 	sorghum	A0A1B6QCC4	Elf4 domain-containing protein 	309.99 	platinum
+Q6ZC30	No annotation 	sorghum	C5YM79	Peptidase A1 domain-containing protein 	1127.93 	gold
+Q6ZC56	No annotation 	maize	A0A1D6LDT6	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	2146.63 	platinum
+Q6ZC61	No annotation 	sorghum	C5WUY8	Ribosomal_L30 domain-containing protein 	335.05 	platinum
+Q6ZC73	No annotation 	maize	B6TCP0	Protein transporter 	993.57 	platinum
+Q6ZC75	No annotation 	sorghum	A0A1B6PEU1	GLTP domain-containing protein 	593.31 	platinum
+Q6ZCC2	No annotation 	arabidopsis	Q9SZB9	Peroxidase 47, Atperox P47, EC 1.11.1.7 (ATP32) 	910.02 	platinum
+Q6ZCC6	No annotation 	arabidopsis	Q8L9M8	Uncharacterized protein At1g33810 (Uncharacterized protein At1g33810/F14M2_5) (Zinc finger/BTB domain protein) 	266.01 	platinum
+Q6ZCS9	No annotation 	maize	A0A1D6KNK5	DUF761 domain protein 	265.85 	gold
+Q6ZD35	No annotation 	maize	C0PGQ1	Glycine--tRNA ligase, EC 6.1.1.14 (Diadenosine tetraphosphate synthetase) 	2025.34 	platinum
+Q6ZDM1	No annotation 	sorghum	A0A1B6PFD8	DUF676 domain-containing protein 	969.68 	platinum
+Q6ZDS0	No annotation 	arabidopsis	Q680K2	Haloacid dehalogenase-like hydrolase domain-containing protein At4g39970, EC 3.1.3.- 	848.92 	platinum
+Q6ZDW8	Os07g0674400 protein (Uncharacterized protein P0618H09.12) (cDNA clone:002-156-G07, full insert sequence) 	arabidopsis	Q9LUR8	Pollen Ole e 1 allergen and extensin family protein 	209.74 	silver
+Q6ZF65	No annotation 	sorghum	C5XDX5	Glycosyltransferase, EC 2.4.1.- 	1208.55 	platinum
+Q6ZFF1	No annotation 	maize	B4FAB0	Cupredoxin superfamily protein 	396.68 	gold
+Q6ZGC2	No annotation 	maize	A0A1D6HM00	Isoleucine--tRNA ligase, EC 6.1.1.5 (Isoleucyl-tRNA synthetase) 	2961.40 	platinum
+Q6ZGF2	No annotation 	maize	A0A1D6PVU2	Vacuolar protein sorting-associated protein 45-like protein 	1580.99 	platinum
+Q6ZGP6	No annotation 	arabidopsis	Q94C20	AT5g64160/MHJ24_14 (Plant/protein) 	385.19 	platinum
+Q6ZGW3	No annotation 	maize	A0A1D6HIG6	Fimbrin-1 	1920.60 	platinum
+Q6ZGW7	No annotation 	maize	K7U7W3	Protein NRT1/ PTR FAMILY 7.1 	1620.54 	platinum
+Q6ZGY3	No annotation 	maize	A0A1D6HGH7	Protein NRT1/ PTR FAMILY 7.2 	1623.78 	platinum
+Q6ZH81	No annotation 	maize	C0P3M4	Protein kinase superfamily protein 	878.94 	platinum
+Q6ZH91	No annotation 	maize	C0PG61	Pentatricopeptide repeat-containing protein chloroplastic 	1813.93 	platinum
+Q6ZHB6	No annotation 	maize	K7UY88	OSJNBa0013K16.15-like protein 	191.30 	silver
+Q6ZHB9	No annotation 	maize	A0A1D6HG73	FLZ-type domain-containing protein 	190.03 	gold
+Q6ZHC0	No annotation 	maize	B4FTN5	Metal-dependent protein hydrolase 	982.80 	platinum
+Q6ZIB2	No annotation 	maize	C0PGT3	Receptor-like kinase-like 	773.26 	gold
+Q6ZIQ0	No annotation 	maize	A0A1D6II89	ARM repeat superfamily protein 	1071.53 	platinum
+Q6ZJ50	No annotation 	maize	K7UBV9	SAUR31-auxin-responsive SAUR family member 	230.11 	platinum
+Q6ZJ59	No annotation 	maize	K7USB5	Glycine-rich protein 	546.61 	gold
+Q6ZJF8	No annotation 	maize	A0A1D6KKU6	Disease resistance gene analog PIC15 	2784.74 	platinum
+Q6ZJN4	No annotation 	maize	A0A1D6PXJ6	1-phosphatidylinositol-3-phosphate 5-kinase, EC 2.7.1.150 	3378.42 	platinum
+Q6ZL29	No annotation 	sorghum	C5XCB3	O-fucosyltransferase family protein 	1473.05 	platinum
+Q6ZLP6	No annotation 	sorghum	A0A1B6Q908	C3HC-type domain-containing protein 	1906.81 	platinum
+Q75G50	Os05g0220900 protein (Uncharacterized protein OSJNBb0043H23.5) 	arabidopsis	F4JCQ8	tRNA (Ile)-lysidine synthase 	460.14 	platinum
+Q75G53	Os05g0220600 protein (Uncharacterized protein OSJNBb0043H23.3) (cDNA clone:J033052F18, full insert sequence) 	maize	B6TJT4	Rhomboid family protein 	702.63 	platinum
+Q75IG6	No annotation 	sorghum	C5YVM2	Protein kinase domain-containing protein 	2304.17 	platinum
+Q75IH4	No annotation 	maize	A0A1D6GV21	Protein MIZU-KUSSEI 1 	453.41 	gold
+Q75II3	No annotation 	maize	A0A1D6M9Z8	DNA double-strand break repair rad50 ATPase 	189.75 	gold
+Q75IL8	No annotation 	sorghum	A0A1Z5R1B1	Phosphoinositide phospholipase C, EC 3.1.4.11 	1506.83 	platinum
+Q75IP7	No annotation 	sorghum	C5WRY5	Smr domain-containing protein 	1789.60 	platinum
+Q75IS4	Os05g0366300 protein (Uncharacterized protein OSJNBb0111K12.17) (cDNA clone:J033031H05, full insert sequence) 	human	Q9P270	SLAIN motif-containing protein 2 	491.87 	silver
+Q75IT7	Os05g0365000 protein (Uncharacterized protein OSJNBb0111K12.4) 	maize	K7UYK7	Phytochrome A-associated F-box protein 	771.21 	platinum
+Q75J76	No annotation 	sorghum	C5YZV7	Na_H_Exchanger domain-containing protein 	2285.07 	platinum
+Q75L87	No annotation 	maize	C0PDV0	Tetraspanin-3 	832.02 	platinum
+Q75M25	No annotation 	sorghum	C5YXZ1	CNH domain-containing protein 	2656.77 	platinum
+Q7EY22	No annotation 	sorghum	C5XLT4	F-box domain-containing protein 	977.55 	platinum
+Q7EY94	No annotation 	maize	B6SXV9	Ubiquinone biosynthesis protein ubiB 	1875.79 	platinum
+Q7EYX8	No annotation 	sorghum	C5X457	VOC domain-containing protein 	522.49 	platinum
+Q7EYZ3	No annotation 	maize	A0A1D6F2Q3	Transmembrane protein 115 	875.26 	platinum
+Q7EZ27	No annotation 	maize	C0PPD2	Zinc finger protein AZF1 	325.24 	gold
+Q7EZC9	No annotation 	maize	B4G236	p-loop containing nucleoside triphosphate hydrolase superfamily protein 	1165.83 	platinum
+Q7F0B3	No annotation 	maize	A0A1D6EKY4	Maternal effect embryo arrest 60 	466.20 	platinum
+Q7F0M7	No annotation 	maize	A0A1D6INJ9	RING finger and CHY zinc finger domain-containing protein 1 isoform 1 	1029.70 	gold
+Q7F0R0	No annotation 	arabidopsis	Q9LTW2	AT3g12720/MBK21_8 (MYB-related transcription factor-like protein) (Myb domain protein 67) 	552.93 	silver
+Q7F1F3	No annotation 	maize	A0A1D6PTT7	Hexosyltransferase, EC 2.4.1.- 	1612.60 	platinum
+Q7F226	No annotation 	maize	B7ZYU6	L-type lectin-domain containing receptor kinase V.9 	1804.71 	gold
+Q7F5L2	No annotation 	arabidopsis	Q9SU83	Alkaline-phosphatase-like family protein (Nucleotide pyrophosphatase-like protein, EC 3.6.1.9) (Uncharacterized protein At4g29680) 	1291.79 	platinum
+Q7F8Y3	No annotation 	maize	C0P4Z5	Phosphoenolpyruvate carboxylase family protein 	1244.99 	platinum
+Q7F959	No annotation 	maize	A0A1D6EEF7	Lipase 	1050.17 	platinum
+Q7FA23	No annotation 	sorghum	C5YG39	BHLH domain-containing protein 	347.14 	platinum
+Q7FAB1	No annotation 	maize	A0A1D6E7W3	Acid phosphatase/vanadium-dependent haloperoxidase-related protein 	402.31 	silver
+Q7FAQ4	No annotation 	maize	A0A1D6E8W1	OSJNBb0048E02.16-like protein 	143.59 	platinum
+Q7G645	Os10g0330400 protein (Uncharacterized ACR, COG1678 family protein, expressed) (cDNA clone:001-204-C11, full insert sequence) (cDNA clone:006-205-D03, full insert sequence) (cDNA clone:006-302-F12, full insert sequence) (cDNA clone:J013007O07, full insert sequence) 	maize	A0A1D6MEE9	Putative ACR family protein 	634.09 	platinum
+Q7X666	No annotation 	maize	A0A1D6E915	Zinc finger (C2H2 type) family protein 	862.35 	platinum
+Q7X6B1	No annotation 	maize	C0PHV7	alpha-1,2-Mannosidase, EC 3.2.1.- 	1584.04 	platinum
+Q7X6C4	No annotation 	maize	B4F8G1	OSJNBa0065B15.1-like protein 	693.31 	platinum
+Q7X6D9	No annotation 	maize	B4FUG2	Gamma-soluble NSF attachment protein 	860.93 	platinum
+Q7X6G0	No annotation 	sorghum	C5YBW8	PMR5N domain-containing protein 	1386.00 	silver
+Q7X6H1	No annotation 	maize	A0A1D6E1Q2	Probable purine permease 	919.34 	silver
+Q7X6I6	Os07g0616900 protein (Uncharacterized protein P0552F09.102) 	maize	A0A1D6IJP4	Fowlpox viral protein homolog1 	1223.56 	platinum
+Q7X6N0	No annotation 	maize	B4FF69	GDSL esterase/lipase LTL1 	1078.00 	platinum
+Q7X6N6	No annotation 	sorghum	C5XDT9	Epimerase domain-containing protein 	965.44 	platinum
+Q7X8P4	No annotation 	maize	B6SL01	OSJNBa0076N16.11-like protein 	1530.39 	gold
+Q7X8Y1	No annotation 	arabidopsis	F4JXC2	Nucleic acid-binding protein 	754.45 	platinum
+Q7XAL6	No annotation 	maize	A0A1D6HXM2	Calcium-dependent lipid-binding (CaLB domain) family protein 	1305.65 	platinum
+Q7XHW0	No annotation 	maize	A0A1D6F4J3	Hexosyltransferase, EC 2.4.1.- 	1549.29 	silver
+Q7XI22	No annotation 	maize	B6U670	PHD transcription factor (SHL1) 	637.27 	platinum
+Q7XI25	No annotation 	maize	A0A1D6LHG9	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	2094.68 	platinum
+Q7XI67	No annotation 	maize	A0A1D6F4U5	D-alanine--D-alanine ligase family 	2537.95 	platinum
+Q7XIF7	No annotation 	arabidopsis	Q94AL6	Excitatory amino acid transporter (Uncharacterized protein At4g20150) 	238.25 	platinum
+Q7XII5	No annotation 	arabidopsis	Q9FGV5	40S ribosomal protein S27 	1108.80 	platinum
+Q7XIL3	No annotation 	maize	B4FRN1	Cytochrome P450 family 718 	1336.77 	gold
+Q7XIZ3	Os07g0124300 protein (Uncharacterized protein OJ1007_H09.109) 	sorghum	C5X8P5	BZIP domain-containing protein 	372.03 	platinum
+Q7XKJ8	No annotation 	maize	A0A1D6E5R3	Nicotinamidase 2 	570.97 	platinum
+Q7XM14	No annotation 	sorghum	C5Y9Y6	Ubiquitin_4 domain-containing protein 	491.38 	platinum
+Q7XMH0	No annotation 	sorghum	C5X8J9	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	2163.28 	platinum
+Q7XMZ9	No annotation 	soybean	A0A0R0KMM9	Mannosyltransferase, EC 2.4.1.- 	1458.56 	platinum
+Q7XPR8	No annotation 	maize	A0A1D6E3K3	Subtilisin-like protease SBT1.9 	2022.00 	platinum
+Q7XQ04	No annotation 	maize	A0A1D6E639	S-adenosyl-L-methionine-dependent methyltransferase superfamily protein 	1074.89 	platinum
+Q7XQA5	No annotation 	sorghum	A0A1B6PP12	Uracil-DNA glycosylase, UDG, EC 3.2.2.27 	838.25 	platinum
+Q7XQI1	No annotation 	maize	K7UM41	RNA binding (RRM/RBD/RNP motifs) family protein 	1270.80 	platinum
+Q7XQM5	No annotation 	maize	A0A1D6E8P3	Hapless 8 	1878.09 	platinum
+Q7XQZ9	No annotation 	maize	B6SQV1	V-type proton ATPase subunit e1 	191.90 	platinum
+Q7XR66	No annotation 	maize	A0A1D6DU63	EH domain-containing protein 1 	1336.20 	silver
+Q7XRI7	No annotation 	maize	A0A1D6E7L3	Protein NRT1/ PTR FAMILY 4.2 	1331.31 	silver
+Q7XRU6	No annotation 	maize	K7U2S4	OSJNBa0055C08.12-like protein 	533.49 	silver
+Q7XSA0	No annotation 	maize	K7UL29	Aluminum-activated malate transporter 10 	1262.15 	gold
+Q7XSP9	No annotation 	maize	A0A1D6E3A9	Lysine histidine transporter-like 7 	1440.70 	platinum
+Q7XSW0	No annotation 	maize	A0A1D6L2M8	SWI/SNF complex subunit SWI3D 	1625.16 	platinum
+Q7XSW9	No annotation 	maize	C0PHH8	Phosphoglycerate mutase family protein 	614.33 	platinum
+Q7XTG3	No annotation 	maize	A0A1D6EBG1	Putative pentatricopeptide repeat-containing protein 	1571.56 	platinum
+Q7XTL5	No annotation 	sorghum	A0A1B6PPB1	J domain-containing protein 	474.70 	gold
+Q7XTM0	No annotation 	maize	A0A1D6E4Z3	Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain 	2481.23 	gold
+Q7XTN2	No annotation 	maize	A0A1D6JFN4	OSJNBa0033G05.10-like protein 	1364.71 	silver
+Q7XTN8	No annotation 	maize	A0A1D6E101	Peroxisome biogenesis protein 6 	2242.82 	gold
+Q7XTP9	No annotation 	maize	A0A1D6E0F8	Xyloglucan endotransglucosylase/hydrolase, EC 2.4.1.207 	783.10 	gold
+Q7XTQ3	No annotation 	maize	B6T2N7	Nucleic acid binding protein 	956.59 	platinum
+Q7XTT9	No annotation 	sorghum	C5YG48	Protein kinase domain-containing protein 	2283.44 	platinum
+Q7XTZ2	No annotation 	maize	C0P5J0	Peptidoglycan-binding LysM domain-containing protein 	268.99 	platinum
+Q7XUA9	No annotation 	maize	K7TQS7	Low-molecular-weight cysteine-rich protein LCR70 	223.83 	platinum
+Q7XUP8	No annotation 	maize	K7TU84	Wax synthase isoform 1 	991.32 	platinum
+Q7XVC1	No annotation 	maize	A0A1D6ECV0	OSJNBa0072D21.11-like protein 	437.50 	platinum
+Q7XVJ5	No annotation 	maize	A0A1D6EBI2	OJ000126_13.10 protein 	359.29 	platinum
+Q7XWV5	No annotation 	maize	A0A1D6EED8	Glycosyltransferase, EC 2.4.1.- 	1261.15 	platinum
+Q7XZH1	Os03g0811550 protein (Uncharacterized plant-specific domain TIGR01570 family protein) 	maize	A0A1D6GEV6	Protein MIZU-KUSSEI 1 	676.58 	gold
+Q7Y003	No annotation 	sorghum	C5WPM2	Nodulin-like domain-containing protein 	1584.09 	platinum
+Q84PX1	No annotation 	maize	K7U0V3	Phloem-specific lectin 	679.37 	platinum
+Q84QR4	Os08g0521800 protein (Uncharacterized protein OJ1081_B12.109) (cDNA clone:001-040-E10, full insert sequence) 	maize	A0A1D6KJ57	DUF1997 family protein 	566.51 	platinum
+Q84SB1	No annotation 	maize	K7UST2	DUF679 domain membrane protein 7 	521.16 	gold
+Q84SL6	No annotation 	sorghum	A0A1B6QF17	Exo84_C domain-containing protein 	1968.52 	platinum
+Q84SM2	No annotation 	maize	B6U1R1	Cytochrome C oxidase biogenesis Cmc1-like protein 	287.82 	platinum
+Q84Z04	No annotation 	maize	A0A096PTJ8	RNA-binding protein 1 	785.31 	platinum
+Q84Z95	No annotation 	maize	B8A072	GDSL esterase/lipase LTL1 	1083.94 	platinum
+Q84ZB5	No annotation 	maize	A0A1D6KLZ9	RING-H2 finger protein ATL16 	438.15 	silver
+Q84ZL6	No annotation 	maize	B4FD03	Transaldolase, EC 2.2.1.2 	1124.51 	platinum
+Q84ZN9	No annotation 	maize	A0A1D6L8J2	Polygalacturonase QRT2 	1222.69 	gold
+Q8GTK8	No annotation 	soybean	I1JFA6	Epimerase domain-containing protein 	1092.77 	platinum
+Q8GVI8	No annotation 	sorghum	C5X4E3	C2H2-type domain-containing protein 	148.13 	platinum
+Q8H0A8	No annotation 	sorghum	C5WUL5	Fe2OG dioxygenase domain-containing protein 	904.39 	platinum
+Q8H2U2	No annotation 	maize	B4FC44	Activator of basal transcription 1 (RNA-binding (RRM/RBD/RNP motifs) family protein) 	636.31 	platinum
+Q8H2Y0	No annotation 	sorghum	C5XD27	GIY-YIG domain-containing protein 	989.49 	platinum
+Q8H3D7	No annotation 	maize	A0A1D6ILD0	Protein trichome birefringence-like 10 	939.59 	platinum
+Q8H3D8	No annotation 	maize	C4JB61	SNARE associated Golgi protein family 	768.55 	platinum
+Q8H3R0	No annotation 	maize	A0A1D6INI4	Protein kinase superfamily protein (Serine/threonine-protein kinase PBL27) 	1090.92 	gold
+Q8H3V0	No annotation 	sorghum	A0A1B6P8E0	WD repeat-containing protein 55 	970.52 	platinum
+Q8H4J8	No annotation 	sorghum	A0A1B6PLX6	Aldo_ket_red domain-containing protein 	1061.37 	platinum
+Q8H4W9	No annotation 	arabidopsis	Q58FT9	Carboxypeptidase (Expressed protein) 	325.88 	platinum
+Q8H540	No annotation 	sorghum	A0A1B6Q945	VQ domain-containing protein 	198.62 	gold
+Q8H558	No annotation 	sorghum	C5X9N3	Glutaredoxin domain-containing protein 	509.38 	gold
+Q8H5Y4	No annotation 	maize	B4FIP6	CHP-rich zinc finger protein-like 	600.47 	platinum
+Q8H7T9	Os03g0106000 protein (Uncharacterized protein family containing protein, expressed) (cDNA clone:001-114-B03, full insert sequence) 	maize	B8A3I1	UPF0187 protein chloroplastic 	1029.38 	platinum
+Q8H7Y9	Os03g0162500 protein (Uncharacterized plant-specific domain TIGR01615 family protein, expressed) (cDNA clone:J013000K11, full insert sequence) 	maize	A0A1D6JPE5	Plant-specific domain TIGR01615 family protein 	740.48 	platinum
+Q8HCQ4	Uncharacterized protein 	arabidopsis	A0A2P2CLG5	Transport membrane protein 	771.74 	platinum
+Q8L3Y3	No annotation 	maize	K7VJC6	Metal ion binding protein 	270.31 	gold
+Q8L465	No annotation 	maize	A0A1D6IKL7	O-fucosyltransferase family protein 	1585.68 	platinum
+Q8L4N7	Os07g0105900 protein (Uncharacterized protein P0617C02.121) 	maize	B4FQI0	Putative disease resistance protein 	844.28 	platinum
+Q8L5A8	No annotation 	sorghum	A0A1W0VXE0	RING-type domain-containing protein 	411.43 	platinum
+Q8LGW5	No annotation 	sorghum	C5X2U3	Phospholipase D, EC 3.1.4.4 	2434.29 	platinum
+Q8LHG8	No annotation 	maize	A0A1D6NN07	DNA-damage-repair/toleration protein DRT102 	849.15 	platinum
+Q8LHK9	No annotation 	sorghum	C5X2I5	Transcription elongation factor SPT4 homolog 	344.20 	platinum
+Q8LIR0	No annotation 	maize	A0A1D6IKP6	Pentatricopeptide repeat-containing protein 	1969.25 	platinum
+Q8LIU7	No annotation 	maize	A0A1D6F9A5	C2H2-type domain-containing protein 	253.06 	gold
+Q8LIZ0	No annotation 	sorghum	C5XK14	Nuclear pore complex protein Nup85 	1978.54 	platinum
+Q8LJ42	Os01g0776700 protein (Uncharacterized protein P0413G02.21) 	arabidopsis	Q8W455	Expressed protein (Uncharacterized protein At2g36835/T1J8.24) 	144.75 	platinum
+Q8LJ87	No annotation 	maize	A0A1D6MT10	Pollen-specific leucine-rich repeat extensin-like protein 1 	1158.34 	gold
+Q8LJ95	No annotation 	maize	A0A1D6N9H8	Leucine-rich repeat (LRR) family protein 	1633.73 	platinum
+Q8LJ96	No annotation 	maize	B6STS5	Disease resistance protein RGA4 	981.46 	platinum
+Q8LJK2	No annotation 	sorghum	A0A1B6Q7A6	Pectinesterase, EC 3.1.1.11 	1484.52 	platinum
+Q8LLM9	Heavy metal-associated domain containing protein, expressed (Os03g0751600 protein) (Uncharacterized protein OSJNBa0032E21.09) (cDNA clone:006-310-A12, full insert sequence) (cDNA clone:006-311-G12, full insert sequence) 	maize	B6TF33	Circumsporozoite protein 	535.29 	platinum
+Q8LNF1	No annotation 	arabidopsis	Q9SN67	Uncharacterized protein At4g10810 (Uncharacterized protein F25I24.20) 	152.55 	gold
+Q8LQD2	No annotation 	maize	K7UZD3	Pop3 peptide 	311.00 	gold
+Q8LQE8	No annotation 	sorghum	A0A1W0W070	DYW_deaminase domain-containing protein 	1802.23 	platinum
+Q8LQG0	No annotation 	maize	C0P5R2	Protein YLS7 	1265.02 	platinum
+Q8LQG2	No annotation 	maize	A0A1D6N3D5	Pentatricopeptide repeat-containing protein chloroplastic 	1324.14 	gold
+Q8LQQ6	No annotation 	maize	K7VC12	Pentatricopeptide repeat-containing protein 	1888.18 	platinum
+Q8LQU3	No annotation 	maize	A0A1D6MKF8	Protein RST1 	5016.80 	platinum
+Q8LR08	No annotation 	arabidopsis	F4HXX2	Transmembrane protein 	258.25 	platinum
+Q8LR33	No annotation 	arabidopsis	Q8GYN9	1,4-dihydroxy-2-naphthoyl-CoA synthase, peroxisomal, DHNS, EC 4.1.3.36 (Enoyl-CoA hydratase/isomerase D, ECHID) (Naphthoate synthase) 	886.86 	platinum
+Q8LR94	No annotation 	maize	B4FKC6	MAR-binding filament-like protein 1-1 isoform 2 	377.35 	platinum
+Q8LRD0	No annotation 	soybean	I1KB88	GATA-N domain-containing protein 	343.45 	platinum
+Q8LRF5	No annotation 	arabidopsis	Q0WWQ1	Autophagy-related protein 3 (Autophagy-related E2-like conjugation enzyme ATG3, AtAPG3, Protein autophagy 3) 	703.43 	platinum
+Q8RU32	No annotation 	maize	A0A1D6N9M7	NTF2-like 	400.02 	platinum
+Q8RUR8	No annotation 	maize	A0A1D6NHE9	DUF538 family protein 	383.83 	platinum
+Q8RV44	No annotation 	maize	B4FJN1	Dynein light chain 	358.19 	platinum
+Q8RVF1	No annotation 	arabidopsis	Q94AQ7	Tail fiber (Uncharacterized protein At5g11280) 	567.10 	platinum
+Q8RYF9	No annotation 	maize	A0A1D6G5P4	DNAJ heat shock N-terminal domain-containing protein 	1519.07 	gold
+Q8RYS9	No annotation 	sorghum	C5XN12	F-box domain-containing protein 	715.55 	platinum
+Q8RZQ7	No annotation 	human	Q96SD1	Protein artemis, EC 3.1.-.- (DNA cross-link repair 1C protein) (Protein A-SCID) (SNM1 homolog C, hSNM1C) (SNM1-like protein) 	920.27 	gold
+Q8S008	Os01g0690200 protein (Uncharacterized protein P0034C09.3) 	maize	A0A1D6NF21	Kinase superfamily protein 	465.34 	gold
+Q8S090	No annotation 	maize	A0A1D6N3E8	Putative pentatricopeptide repeat-containing protein 	1570.26 	platinum
+Q8S0E1	No annotation 	sorghum	C5XFD7	Patatin, EC 3.1.1.- 	1145.51 	platinum
+Q8S0I4	No annotation 	arabidopsis	Q9LP48	At1g29190/F28N24_12 (F28N24.12 protein) (Phosphatidylinositol 4-phosphate 5-kinase MSS4-like protein) 	372.62 	platinum
+Q8S0Q9	No annotation 	maize	A0A1D6G7F1	Electron transporter 	672.44 	gold
+Q8S0V0	No annotation 	maize	K7VSH0	Methylesterase 3 	744.62 	platinum
+Q8S0Z1	No annotation 	maize	A0A1D6N855	RING-H2 finger protein ATL74 	371.95 	gold
+Q8S1F8	No annotation 	maize	K7VZ07	Protein QUIRKY 	2729.59 	platinum
+Q8S1J1	No annotation 	maize	B4FBZ8	Core-2/I-branching beta-16-N-acetylglucosaminyltransferase family protein 	1050.46 	platinum
+Q8S1M4	No annotation 	maize	B7ZXR7	Putative pentatricopeptide repeat-containing protein 	1712.40 	platinum
+Q8S1R2	No annotation 	sorghum	C5XP34	Dirigent protein 	386.74 	platinum
+Q8S1T0	No annotation 	maize	A0A1D6N7P2	Respiratory burst oxidase1 	2277.80 	platinum
+Q8S1U2	No annotation 	maize	K7W1M6	Tetratricopeptide repeat (TPR)-like superfamily protein 	2521.38 	platinum
+Q8S283	No annotation 	maize	B6SN54	RING/FYVE/PHD zinc finger superfamily protein 	491.73 	platinum
+Q8S2Q8	Os01g0198900 protein (Uncharacterized protein B1046G12.28) (cDNA clone:001-022-B09, full insert sequence) (cDNA clone:J023088J12, full insert sequence) 	maize	B4FV72	Polyketide cyclase/dehydrase and lipid transport superfamily protein 	446.80 	gold
+Q8S3Q4	Os04g0657900 protein (Uncharacterized protein 24K23.2) 	arabidopsis	Q8LA01	At3g22210 (Transmembrane protein) 	169.73 	gold
+Q8S7M8	Os10g0572100 protein (Uncharacterized protein family UPF0005 containing protein, expressed) 	maize	A0A1D6LQ49	Aluminum-activated malate transporter 12 	1334.04 	platinum
+Q8SA01	No annotation 	maize	A0A1D6K644	Late embryogenesis abundant protein-related / LEA protein-related 	911.53 	platinum
+Q8SA06	No annotation 	arabidopsis	Q9LZ26	Aspartyl aminopeptidase (Aspartyl aminopeptidase-like protein) (Zn-dependent exopeptidases superfamily protein) 	1386.14 	platinum
+Q8W059	No annotation 	sorghum	A0A1B6Q581	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	2114.03 	platinum
+Q8W0A7	No annotation 	maize	B6SUV8	Mpv17 protein (Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein) 	594.27 	platinum
+Q8W0E8	No annotation 	maize	B4G1P2	NADH dehydrogenase2 (NADH-ubiquinone oxidoreductase 20 kDa subunit) 	524.30 	platinum
+Q8W0G9	No annotation 	maize	A0A1D6G886	Pentatricopeptide repeat-containing protein 	2044.25 	platinum
+Q941T0	No annotation 	sorghum	A0A1W0W0F5	DYW_deaminase domain-containing protein 	1877.84 	platinum
+Q941Y9	No annotation 	maize	A0A1D6N0T9	AT-hook motif nuclear-localized protein 17 	553.14 	platinum
+Q942B8	No annotation 	maize	K7VQ74	Glycosyltransferase, EC 2.4.1.- 	1324.44 	platinum
+Q942Q8	No annotation 	maize	A0A1D6NJU1	DUF538 family protein 	447.64 	platinum
+Q942Y0	No annotation 	sorghum	C5XH53	Fe2OG dioxygenase domain-containing protein 	983.05 	platinum
+Q943L3	No annotation 	maize	C0PIA5	Pentatricopeptide repeat-containing protein mitochondrial 	1340.89 	platinum
+Q943L5	No annotation 	maize	A0A1D6N7K4	Protein UPSTREAM OF FLC 	716.01 	platinum
+Q943Q1	No annotation 	maize	A0A1D6ML66	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	2029.12 	gold
+Q94CP2	No annotation 	sorghum	C5XJS6	H(+)-exporting diphosphatase, EC 7.1.3.1 	2194.30 	platinum
+Q94CV7	No annotation 	arabidopsis	F4JV40	Transmembrane protein 	489.79 	platinum
+Q94CW7	No annotation 	maize	K7VN54	Transposon protein Mutator sub-class 	1256.50 	platinum
+Q94D71	No annotation 	soybean	I1NBJ7	Pectin acetylesterase, EC 3.1.1.- 	1152.78 	silver
+Q94D91	No annotation 	sorghum	C5XNW4	HMA domain-containing protein 	191.93 	platinum
+Q94D96	No annotation 	maize	A0A1D6G922	D-mannose binding lectin protein with Apple-like carbohydrate-binding domain 	1050.79 	platinum
+Q94DM7	No annotation 	maize	B4FW06	40S ribosomal protein S10-1 	488.39 	platinum
+Q94DX0	No annotation 	maize	A0A1D6GAU7	Pentatricopeptide (PPR) repeat protein-like 	1366.44 	platinum
+Q94E72	No annotation 	maize	B4FTW8	26S proteasome non-ATPase regulatory subunit 13 homolog A 	1151.83 	platinum
+Q94E87	No annotation 	maize	A0A1D6NL47	Pentatricopeptide repeat-containing protein 	2013.57 	platinum
+Q94EA5	No annotation 	maize	B6U6S0	Ubiquitin domain containing 1 (Ubiquitin domain-containing protein) 	310.61 	platinum
+Q94EF4	No annotation 	maize	K7VM35	Putative receptor-like protein kinase family protein 	2355.36 	gold
+Q94EF5	No annotation 	maize	A0A1D6GAL4	Putative subtilase family protein 	2303.66 	platinum
+Q94EG1	No annotation 	maize	B6TMW7	Transaminase/ transferase, transferring nitrogenous groups (Transaminase/transferase) 	1173.81 	platinum
+Q94IZ9	No annotation 	maize	C0HG35	Agamous-like MADS-box protein AGL62 (MADS transcription factor) 	752.61 	gold
+Q94J41	No annotation 	sorghum	C5YKV8	Protein kinase domain-containing protein 	1350.31 	platinum
+Q94JB6	No annotation 	maize	A0A1D6NL60	Transcription repressor (Ovate family protein) 	351.43 	gold
+Q94JE2	Os01g0153250 protein (Uncharacterized protein P0030H07.23) 	maize	A0A1D6ML78	Putative pentatricopeptide repeat-containing protein 	2574.98 	platinum
+Q94JF1	No annotation 	maize	B4FVS6	Protein PLASTID TRANSCRIPTIONALLY ACTIVE 7 	372.01 	platinum
+Q94JH8	No annotation 	maize	B4FZ91	Oxidative stress 3 	267.64 	gold
+Q9ASF7	No annotation 	maize	A0A1D6NEB9	IQ-domain 6 	898.20 	platinum
+Q9AUW4	No annotation 	sorghum	A0A1B6QHV5	DUF3598 domain-containing protein 	1015.50 	platinum
+Q9AWQ0	No annotation 	maize	C0PCK9	Putative receptor-like protein kinase 	1427.83 	gold
+Q9AWZ5	No annotation 	maize	B6UH99	Late embryogeneis abundant protein Lea14-A (Late embryogenesis abundant protein) (Late embryogenesis abundant protein Lea14-A) 	429.18 	platinum
+Q9AX07	No annotation 	maize	A0A1D6G3N4	Putative alphaalpha-trehalose-phosphate synthase [UDP-forming] 7 	2404.71 	platinum
+Q9AX11	No annotation 	sorghum	A0A1B6Q5W1	Inhibitor I9 domain-containing protein 	266.22 	platinum
+Q9AX15	No annotation 	maize	C0PGB3	Aminotran_5 domain-containing protein 	1554.82 	platinum
+Q9AX74	No annotation 	maize	K7VZB8	Protein YIP 	760.44 	platinum
+Q9AXB6	No annotation 	maize	K7VZI5	Putative DUF1221-domain containing protein kinase family protein 	1734.81 	platinum
+Q9FED7	No annotation 	maize	A0A1D6MHJ4	IQ-domain 6 	875.20 	platinum
+Q9FP22	No annotation 	arabidopsis	Q8GW48	Heat shock factor-binding protein, AtHSBP 	221.13 	gold
+Q9FP98	No annotation 	maize	B6SJR3	Mitochondrial import receptor subunit TOM7-1 	187.05 	gold
+Q9FPB8	Os06g0133600 protein (Uncharacterized protein 134P10.10) (cDNA clone:001-201-C03, full insert sequence) 	maize	K7V7C0	Protein EXORDIUM-like 3 	901.69 	platinum
+Q9FPC6	Os06g0132600 protein (Uncharacterized protein 134P10.6) (cDNA clone:J033076A22, full insert sequence) 	arabidopsis	Q8L7G8	At4g17760 (PCNA domain-containing protein) (Rad1-like protein) (Uncharacterized protein At4g17760) 	828.39 	platinum
+Q9FTG6	No annotation 	maize	A0A1D6NM40	ABC transporter G family member 10 	1625.36 	platinum
+Q9FTG9	No annotation 	maize	B6TQC0	3-N-debenzoyl-2-deoxytaxol N-benzoyltransferase (HXXXD-type acyl-transferase family protein) 	1242.34 	platinum
+Q9FU80	No annotation 	maize	A0A1D6MLK3	Mitochondrial glycoprotein family protein 	589.62 	platinum
+Q9FW25	No annotation 	sorghum	C5YXY0	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	1805.95 	platinum
+Q9FWM4	No annotation 	maize	B4F9P8	Pollen-specific kinase partner protein (Rop guanine nucleotide exchange factor 2) 	1195.43 	platinum
+Q9LDC2	No annotation 	maize	K7V965	Phytochrome kinase substrate 1 	824.86 	platinum
+Q9LG70	No annotation 	maize	A0A1D6MHQ1	R2R3MYB-domain protein 	532.07 	gold
+Q9LGI5	No annotation 	maize	A0A1D6GM24	LRR receptor-like serine/threonine-protein kinase EFR 	2914.98 	platinum
+Q9LGP4	No annotation 	maize	K7UPV5	PAP fibrillin domain proteinexpressed protein 	642.27 	platinum
+Q9LI27	No annotation 	maize	A0A1D6MEW4	Glutaredoxin family protein 	820.74 	gold
+Q9LWE3	No annotation 	arabidopsis	Q9LSU9	AT3g25550/MWL2_17 (Trigger factor) 	475.45 	gold
+Q9LWT5	No annotation 	maize	K7V5E7	ADP-ribosylation factor B1B 	516.39 	silver
+Q9LWW3	No annotation 	arabidopsis	Q9FFE3	Pentatricopeptide repeat-containing protein At5g16420, mitochondrial 	1346.73 	platinum
+Q9LWY5	No annotation 	maize	B6SU82	Cwf15 / Cwc15 cell cycle control family protein (Pre-mRNA-splicing factor cwc15) 	625.14 	platinum
+Q9LX06	No annotation 	sorghum	C5Z268	WAT1-related protein 	940.21 	gold
+Q9S767	No annotation 	maize	B4F9U3	Pectinesterase, EC 3.1.1.11 	1427.56 	platinum
+Q9SNF2	No annotation 	maize	A0A1D6FC44	Pectinesterase inhibitor domain containing protein 	482.64 	platinum
+Q9SNM0	Os06g0132100 protein (Uncharacterized protein 134P10.3) (cDNA clone:001-124-E04, full insert sequence) (cDNA clone:J023041H11, full insert sequence) (cDNA clone:J023143I01, full insert sequence) 	maize	B4FVK4	Lung seven transmembrane receptor family protein 	1296.17 	platinum
+Q9SNP3	No annotation 	maize	A0A1D6P5W7	Pentatricopeptide repeat-containing protein mitochondrial 	2189.70 	platinum
+Q5JK51	No annotation 	maize	A0A1D6N0R5	Protein RETICULATA-RELATED 4 chloroplastic 	1025.22 	silver
+Q5QLD0	No annotation 	arabidopsis	Q9SIZ6	GDSL esterase/lipase At2g40250, EC 3.1.1.- (Extracellular lipase At2g40250) 	952.13 	gold
+Q60F07	Os05g0184901 protein (Uncharacterized protein Oj1111_A10.6) 	maize	K7VVL5	PIF/Ping-Pong transposase family protein 	1087.78 	silver
+Q650T3	No annotation 	maize	B4FBV6	Transcription factor TCP9 	579.24 	silver
+Q67V94	No annotation 	maize	A0A1D6LVZ3	Putative DUF231 domain containing family protein 	1111.96 	silver
+Q69WG7	No annotation 	maize	K7TQ96	MADS transcription factor (Putative MADS-box transcription factor family protein) 	542.19 	gold
+Q6H6A6	No annotation 	maize	K7UHQ6	Cys2/His2 zinc-finger transcription factor 	554.79 	gold
+Q6Z0Q6	No annotation 	maize	A0A1D6PZR7	Putative cytochrome P450 superfamily protein 	1490.86 	gold
+Q6ZC60	No annotation 	maize	A0A1D6F751	Pentatricopeptide repeat-containing protein mitochondrial 	2063.74 	silver
+Q6ZJW2	No annotation 	maize	B6TG00	Copper ion binding protein (Cupredoxin superfamily protein) 	443.75 	silver
+Q75M20	No annotation 	maize	A0A1D6LII9	Leucine-rich repeat (LRR) family protein 	905.12 	gold
+Q7F2P0	No annotation 	maize	B4FQY1	Pathogenesis-related protein PRMS 	462.37 	silver
+Q7XN03	No annotation 	maize	A0A1D6E4A5	Cyclin 	537.07 	gold
+Q7XQJ9	No annotation 	maize	A0A1D6ECY7	Glycosyltransferase, EC 2.4.1.- 	1242.80 	silver
+Q8S236	No annotation 	maize	K7VGP2	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	380.30 	silver
+Q8W0D5	No annotation 	maize	K7W0U9	NB-ARC domain-containing protein 	1197.51 	silver
+Q94CM9	No annotation 	maize	A0A1D6E6W1	60S ribosomal protein L23a-1 	415.67 	silver
+Q9FPB9	Os06g0133500 protein (Uncharacterized protein 134P10.9b) 	sorghum	Q5NKS1	Uncharacterized protein 131L1.10b 	146.99 	gold
+Q0J0U5	No annotation 	maize	A0A1D6KIH2	Calcium-binding EF hand family protein 	385.17 	silver
+Q0JF54	No annotation 	maize	K7UUZ2	OSJNBa0089E12.13-like protein 	1408.09 	silver
+Q53N85	Os11g0242600 protein (Uncharacterized plant-specific domain TIGR01627 family protein, expressed) 	sorghum	C5Y7U4	Polysacc_synt_4 domain-containing protein 	678.81 	platinum
+Q5Z6N2	No annotation 	sorghum	C5Z8E7	Phytocyanin domain-containing protein 	338.05 	silver
+Q6EPN7	No annotation 	maize	A0A1D6HFY1	Ste24 endopeptidase, EC 3.4.24.84 	1152.76 	silver
+Q6K8Y2	No annotation 	sorghum	A0A1Z5RQ40	RNA polymerase II C-terminal domain phosphatase-like, EC 3.1.3.16 	962.85 	platinum
+Q6ZFN1	No annotation 	maize	A0A1D6HJ12	Uclacyanin-2 	528.14 	silver
+Q7XK43	No annotation 	maize	A0A1D6E8G4	Protein NBR1-like protein 	1302.74 	silver
+Q7XSR3	No annotation 	maize	A0A1D6E1X9	Zinc finger, C3HC4 type family protein 	259.74 	silver
+Q7XT32	No annotation 	sorghum	A0A1B6PMF3	MSP domain-containing protein 	568.78 	gold
+Q8L3S3	No annotation 	arabidopsis	Q9AT61	LOB domain-containing protein 13 (ASYMMETRIC LEAVES 2-like protein 10, AS2-like protein 10) 	511.46 	silver
+Q8LI88	No annotation 	maize	B6TV51	Speckle-type POZ protein 	1134.82 	silver
+Q8S0Y0	No annotation 	maize	B4FSZ0	Transposon protein Pong sub-class 	809.75 	silver
+Q8S1D2	No annotation 	maize	A0A1D6LEN1	LRR receptor-like serine/threonine-protein kinase GSO2 	2312.76 	silver
+A0A0P0VJQ3	No annotation 	arabidopsis	F4IFU5	ATP-dependent RNA helicase 	291.51 	gold
+A0A0P0WHU6	No annotation 	sorghum	A0A1B6P6D2	WRKY domain-containing protein 	811.21 	silver
+Q0D3I5	No annotation 	sorghum	C5X5Q3	HTH myb-type domain-containing protein 	604.17 	silver
+Q0DGP8	No annotation 	sorghum	C5Z1A7	Protein kinase domain-containing protein 	1316.66 	gold
+Q0DJG3	Os05g0287800 protein (Uncharacterized protein P0697B04.12) (cDNA clone:J023110H06, full insert sequence) 	sorghum	A0A1B6PDD8	PAP2_C domain-containing protein 	838.15 	platinum
+Q0DM69	No annotation 	sorghum	C5WUX5	zf-Tim10_DDP domain-containing protein 	238.44 	platinum
+Q0DZX4	No annotation 	arabidopsis	Q8LC33	At5g63135 (Transcription termination factor) 	135.34 	platinum
+Q0IWY6	No annotation 	arabidopsis	Q8LCJ2	At5g10745 (Transmembrane protein) 	117.75 	gold
+Q0IZR4	No annotation 	cerevisiae	P54072	Uncharacterized transporter YLR152C 	864.98 	silver
+Q0J0J2	No annotation 	arabidopsis	Q8GUN1	AT4G31340 protein (Myosin heavy chain-like protein) (Uncharacterized protein At4g31340) 	1102.46 	gold
+Q0JAK9	No annotation 	arabidopsis	Q9LFE4	WEB family protein At5g16730, chloroplastic 	1775.20 	silver
+Q0JCP1	No annotation 	arabidopsis	Q9LJX0	ABC transporter B family member 19, ABC transporter ABCB.19, AtABCB19 (Multidrug resistance protein 11) (P-glycoprotein 19) 	3568.93 	platinum
+Q0JJZ7	No annotation 	sorghum	C5XHM7	Ribosomal_L28e domain-containing protein 	428.16 	platinum
+Q0JL80	No annotation 	arabidopsis	Q66LG9	Centromere protein C, AtCENP-C, CENP-C, CENP-C homolog 	920.23 	platinum
+Q10I13	Os03g0568500 protein (Uncharacterized protein family containing protein, expressed) (cDNA clone:001-009-G05, full insert sequence) 	human	Q9Y6G1	Transmembrane protein 14A 	207.54 	gold
+Q2QW75	Os12g0204500 protein (Uncharacterized plant-specific domain TIGR01627 family protein, expressed) (cDNA clone:J023038F14, full insert sequence) 	sorghum	C5YTK8	Polysacc_synt_4 domain-containing protein 	794.65 	platinum
+Q5JJJ5	No annotation 	human	O00429	Dynamin-1-like protein, EC 3.6.5.5 (Dnm1p/Vps1p-like protein, DVLP) (Dynamin family member proline-rich carboxyl-terminal domain less, Dymple) (Dynamin-like protein) (Dynamin-like protein 4) (Dynamin-like protein IV, HdynIV) (Dynamin-related protein 1) 	1818.43 	platinum
+Q5JLR9	No annotation 	sorghum	C5XKS0	UmuC domain-containing protein 	1543.56 	platinum
+Q5JM79	No annotation 	arabidopsis	Q9ASY8	Mitochondrial import receptor subunit TOM7-1 (Translocase of outer membrane 7 kDa subunit 1) 	140.55 	silver
+Q5JND6	No annotation 	sorghum	C5XJ63	3'-5' exonuclease domain-containing protein 	575.38 	platinum
+Q5JNH7	No annotation 	sorghum	A0A1W0VXB3	Non-specific serine/threonine protein kinase, EC 2.7.11.1 	822.77 	silver
+Q5N780	No annotation 	sorghum	C5XPT5	PRONE domain-containing protein 	1205.68 	platinum
+Q5N7Y7	No annotation 	sorghum	C5XJP4	Eukaryotic translation initiation factor 3 subunit L, eIF3l 	1487.42 	platinum
+Q5NA12	No annotation 	arabidopsis	Q42453	Zinc finger protein ZAT7 	207.95 	silver
+Q5NAF5	No annotation 	arabidopsis	Q8VYD3	U11/U12 small nuclear ribonucleoprotein 59 kDa protein, U11/U12 snRNP 59 kDa protein, U11/U12-59K 	906.83 	platinum
+Q5NAQ9	No annotation 	sorghum	A0A1B6Q0T3	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	2028.03 	platinum
+Q5QLT2	No annotation 	sorghum	A0A1W0W067	Methyltransferase, EC 2.1.1.- 	1370.45 	gold
+Q5QMB2	No annotation 	cerevisiae	Q06336	ADP-ribosylation factor-binding protein GGA1 (Golgi-localized, gamma ear-containing, ARF-binding protein 1) 	682.31 	silver
+Q5QNE5	No annotation 	sorghum	C5XKG8	Thioredoxin domain-containing protein 	1648.01 	gold
+Q5SN48	No annotation 	sorghum	A0A1B6Q570	acidPPc domain-containing protein 	793.59 	gold
+Q5TKK0	No annotation 	sorghum	C5WNX0	RRM domain-containing protein 	265.48 	platinum
+Q5VP08	No annotation 	arabidopsis	Q08AA8	At5g27290 (Stress regulated protein) 	908.64 	platinum
+Q5VPA9	No annotation 	sorghum	A0A1Z5S4G7	F-box domain-containing protein 	1351.60 	platinum
+Q5VPB5	No annotation 	sorghum	A0A1B6Q507	VQ domain-containing protein 	106.56 	silver
+Q5VQD9	No annotation 	soybean	I1KVB9	Utp12 domain-containing protein 	1382.19 	platinum
+Q5VQE7	No annotation 	sorghum	A0A1B6Q510	Bromo domain-containing protein 	343.09 	gold
+Q5VR08	No annotation 	arabidopsis	Q8GXT7	Probable prolyl 4-hydroxylase 12, AtP4H12, EC 1.14.11.2 	576.68 	silver
+Q5VRK8	No annotation 	arabidopsis	O22793	Multiple organellar RNA editing factor 2, chloroplastic (Protein DIFFERENTIATION AND GREENING-like 1, Protein DAG-like 1) (RNA editing-interacting protein 2) 	421.60 	gold
+Q5ZAV5	No annotation 	sorghum	A0A1W0W011	Receptor-like serine/threonine-protein kinase, EC 2.7.11.1 	1906.03 	gold
+Q5ZBT6	No annotation 	sorghum	C5XME1	SUI1 domain-containing protein 	316.71 	platinum
+Q5ZC50	No annotation 	sorghum	C5XQP5	Reticulon-like protein 	437.12 	silver
+Q5ZCB9	No annotation 	sorghum	C5XE30	UBC core domain-containing protein 	2495.75 	platinum
+Q5ZDH9	No annotation 	arabidopsis	Q9ZU48	Expressed protein (Octicosapeptide/Phox/Bem1p family protein) (Uncharacterized protein At2g01190) 	1044.09 	platinum
+Q5ZDL8	No annotation 	soybean	I1J4P0	TFIIS N-terminal domain-containing protein 	1015.60 	gold
+Q5ZDX8	No annotation 	arabidopsis	Q9LKA4	UBP1-associated protein 2C 	938.06 	platinum
+Q60DG8	No annotation 	sorghum	C5YYR6	LRAT domain-containing protein 	697.03 	platinum
+Q60EA3	No annotation 	sorghum	C5Z0R1	Assimilatory sulfite reductase (ferredoxin), EC 1.8.7.1 	1863.41 	platinum
+Q60ER0	No annotation 	sorghum	C5YZB8	Protein kinase domain-containing protein 	1036.41 	platinum
+Q651X9	No annotation 	sorghum	C5X355	16S rRNA (cytosine(967)-C(5))-methyltransferase, EC 2.1.1.176 (16S rRNA m5C967 methyltransferase) (rRNA (cytosine-C(5)-)-methyltransferase RsmB) 	1582.85 	platinum
+Q653D7	No annotation 	sorghum	C5X8E3	MOSC domain-containing protein 	910.77 	platinum
+Q656D4	No annotation 	sorghum	C6JST4	Peroxidase, EC 1.11.1.7 	947.14 	gold
+Q65WY6	No annotation 	sorghum	C5YU83	Glutamine--tRNA ligase, EC 6.1.1.18 (Glutaminyl-tRNA synthetase) 	2232.26 	platinum
+Q67V00	No annotation 	sorghum	C5X7R5	Ubiquitin-like domain-containing protein 	385.75 	platinum
+Q67VB1	No annotation 	soybean	I1J5F2	ZnMc domain-containing protein 	902.79 	gold
+Q67WV5	No annotation 	sorghum	C5Z6N5	PX domain-containing protein 	1720.95 	platinum
+Q67X21	No annotation 	sorghum	C5Z720	Glutaredoxin domain-containing protein 	715.62 	gold
+Q67X29	No annotation 	arabidopsis	F4KFF0	Transmembrane protein 	470.21 	gold
+Q67X53	No annotation 	soybean	I1JE51	Galectin domain-containing protein 	1641.38 	platinum
+Q688X5	No annotation 	sorghum	C5YVV8	WRKY domain-containing protein 	641.10 	gold
+Q69IM6	No annotation 	arabidopsis	Q9SRR8	2Fe-2S ferredoxin-like superfamily protein (F21O3.19 protein) (Uncharacterized protein At3g07480) (Uncharacterized protein F21O3.19) 	418.49 	platinum
+Q69L47	No annotation 	sorghum	A0A1W0W4I6	acidPPc domain-containing protein 	872.08 	platinum
+Q69NI6	No annotation 	sorghum	C5X7L3	Flavin-containing monooxygenase, EC 1.-.-.- 	1447.77 	platinum
+Q69ST3	No annotation 	sorghum	A0A194YQD2	NAC domain-containing protein 	530.48 	platinum
+Q6AT23	No annotation 	arabidopsis	Q8L9R6	At1g68680 (SH3/FCH domain protein) 	143.17 	gold
+Q6AUH9	No annotation 	sorghum	C5Z007	CRM domain-containing protein 	1244.21 	platinum
+Q6EPG4	No annotation 	sorghum	C5Y1A2	BHLH domain-containing protein 	1322.01 	platinum
+Q6EQU6	No annotation 	sorghum	C5XZ37	AT-hook motif nuclear-localized protein 	718.57 	platinum
+Q6ERI5	No annotation 	sorghum	C5XAG0	WRKY domain-containing protein 	562.57 	gold
+Q6ERT5	No annotation 	sorghum	C5XZZ1	Dynein light chain 	280.54 	platinum
+Q6ESZ1	No annotation 	sorghum	C5XU42	Myb_DNA-bind_4 domain-containing protein 	870.45 	platinum
+Q6EU38	No annotation 	sorghum	C5Y0X8	RING-type domain-containing protein 	347.30 	platinum
+Q6H5H3	No annotation 	arabidopsis	Q84RF6	Cotton fiber protein (Uncharacterized protein At2g42180/T24P15.9) 	159.33 	silver
+Q6H7N3	No annotation 	arabidopsis	Q9FL54	Chaperone protein dnaJ 6, AtDjC6, AtJ6 	701.29 	platinum
+Q6I5H2	No annotation 	sorghum	A0A1B6QR77	NB-ARC domain-containing protein 	979.37 	silver
+Q6I638	No annotation 	sorghum	C5YZ67	PRONE domain-containing protein 	1253.78 	platinum
+Q6K2A4	No annotation 	sorghum	C5WQK3	ABC1 domain-containing protein 	1818.42 	platinum
+Q6K4A7	No annotation 	sorghum	C5X320	Phytocyanin domain-containing protein 	335.91 	gold
+Q6K4B1	No annotation 	soybean	K7K9V8	BHLH domain-containing protein 	751.12 	silver
+Q6K655	No annotation 	soybean	C6ZS42	Disease resistance protein 	2503.36 	silver
+Q6K718	No annotation 	sorghum	A0A194YT15	Protein kinase domain-containing protein 	956.19 	platinum
+Q6K7F1	No annotation 	sorghum	C5XTP2	NOT2_3_5 domain-containing protein 	1176.51 	platinum
+Q6K839	No annotation 	arabidopsis	A0A1P8AXB7	Acyl-CoA-binding domain protein 	353.57 	gold
+Q6K8X7	No annotation 	arabidopsis	Q3E911	Pentatricopeptide repeat-containing protein At5g27460 	1312.88 	platinum
+Q6KAJ7	No annotation 	sorghum	C5XUH5	AP2/ERF domain-containing protein 	349.93 	platinum
+Q6YT03	No annotation 	sorghum	A0A1B6PIL8	J domain-containing protein 	275.55 	gold
+Q6YTK4	No annotation 	sorghum	C5YJW0	LRRNT_2 domain-containing protein 	1917.04 	platinum
+Q6YUW0	No annotation 	sorghum	C5XYS2	Glutaredoxin domain-containing protein 	717.43 	platinum
+Q6YY16	No annotation 	pombe	O42661	Small nuclear ribonucleoprotein Sm D1, Sm-D1 (snRNP core protein D1) 	310.61 	platinum
+Q6Z1L1	No annotation 	pombe	Q9C100	Dolichyl-phosphate-mannose--protein mannosyltransferase 2, EC 2.4.1.109 	418.88 	silver
+Q6Z371	No annotation 	sorghum	C5XCL9	Exo84_C domain-containing protein 	2069.63 	platinum
+Q6Z4T7	No annotation 	arabidopsis	F4HUX0	Regulator of Vps4 activity in the MVB pathway protein 	928.52 	gold
+Q6Z5F6	No annotation 	sorghum	A0A1B6PJ50	RING-type E3 ubiquitin transferase, EC 2.3.2.27 	973.57 	gold
+Q6Z6A7	No annotation 	sorghum	C5XYN4	Annexin 	935.55 	platinum
+Q6Z9I5	No annotation 	arabidopsis	Q9LEU1	AT5g11000/T30N20_270 (Uncharacterized protein T30N20_270) 	589.58 	silver
+Q6Z9R3	No annotation 	sorghum	C5YM98	BHLH domain-containing protein 	483.10 	gold
+Q6Z9S4	No annotation 	sorghum	C5YM92	Alpha-carbonic anhydrase domain-containing protein 	795.40 	platinum
+Q6ZCC7	No annotation 	sorghum	A0A1B6PEY6	Protein kinase domain-containing protein 	1703.49 	platinum
+Q6ZGS3	No annotation 	sorghum	C5Y0S0	BHLH domain-containing protein 	620.33 	platinum
+Q6ZIV0	No annotation 	sorghum	C5YHJ7	RBR-type E3 ubiquitin transferase, EC 2.3.2.31 	1569.45 	platinum
+Q6ZJI7	No annotation 	sorghum	A0A1Z5RBB2	BZIP domain-containing protein 	278.86 	silver
+Q6ZKX9	No annotation 	sorghum	A0A1Z5RAP5	Ubiquitinyl hydrolase 1, EC 3.4.19.12 	1016.20 	silver
+Q6ZL22	No annotation 	sorghum	C5XCB7	Adenylyl-sulfate kinase, EC 2.7.1.25 	825.24 	gold
+Q75IN0	No annotation 	sorghum	C5YZ43	Protein kinase domain-containing protein 	1083.54 	platinum
+Q7F1U2	No annotation 	sorghum	C5X5K3	Peroxidase, EC 1.11.1.7 	928.27 	gold
+Q7X6L1	No annotation 	sorghum	C5Y8Z0	PMEI domain-containing protein 	1591.42 	platinum
+Q7XAL0	Os07g0106000 protein (Uncharacterized protein P0617C02.122-1) (cDNA clone:J033024P06, full insert sequence) 	soybean	I1M8J6	Metallophos domain-containing protein 	2870.03 	platinum
+Q7XHP6	No annotation 	arabidopsis	Q8S8K5	Uncharacterized protein At2g35736 	143.56 	platinum
+Q7XHW7	No annotation 	sorghum	C5X5M9	Protein kinase domain-containing protein 	1714.19 	platinum
+Q7XIK4	No annotation 	sorghum	A0A1W0W6X9	Bromo domain-containing protein 	938.89 	gold
+Q7XIU5	No annotation 	arabidopsis	Q0WNQ5	LONGIFOLIA protein (Uncharacterized protein At1g74160) 	1232.61 	platinum
+Q7XKL9	No annotation 	sorghum	A0A1B6QJL9	MADS-box domain-containing protein 	456.62 	gold
+Q7XP51	No annotation 	sorghum	C5YEM5	FLZ-type domain-containing protein 	185.88 	gold
+Q7XPU3	No annotation 	arabidopsis	Q9SH88	Ribosome biogenesis regulatory protein homolog 	810.14 	platinum
+Q7XQJ5	No annotation 	sorghum	Q6JAG9	Glycosyltransferase, EC 2.4.1.- 	1187.59 	silver
+Q7XU23	No annotation 	sorghum	A0A1Z5REB5	AP2/ERF domain-containing protein 	479.20 	platinum
+Q7XVJ6	No annotation 	sorghum	A0A1B6PKT4	OTU domain-containing protein 	1170.82 	platinum
+Q84JS9	No annotation 	arabidopsis	F4HPA5	Prefoldin chaperone subunit family protein 	430.01 	platinum
+Q84QR5	Os08g0521600 protein (Uncharacterized protein OJ1081_B12.108) (cDNA clone:002-140-D07, full insert sequence) 	sorghum	C5YIM2	AP2/ERF domain-containing protein 	359.62 	gold
+Q8GS49	No annotation 	sorghum	C5X9B9	Glycosyltransferase, EC 2.4.1.- 	1241.79 	silver
+Q8L650	No annotation 	sorghum	C5XL91	Protein kinase domain-containing protein 	1162.57 	silver
+Q8LIL8	No annotation 	sorghum	A0A1Z5R826	DUF4220 domain-containing protein 	1573.30 	platinum
+Q8LR32	No annotation 	soybean	K7LNF5	GATA-type domain-containing protein 	290.24 	gold
+Q8LRA0	No annotation 	arabidopsis	Q9LXX7	Cytochrome P450, family 94, subfamily D, polypeptide 2 (Cytochrome P450-like protein) 	1345.49 	platinum
+Q8LRD7	No annotation 	sorghum	C5XM25	Protein kinase domain-containing protein 	1766.50 	platinum
+Q8RU89	No annotation 	sorghum	C5XN65	NAC domain-containing protein 	600.34 	gold
+Q8RVD1	No annotation 	sorghum	C5XMC3	Phytocyanin domain-containing protein 	455.27 	platinum
+Q8RZ61	No annotation 	arabidopsis	Q94F40	GDSL esterase/lipase At1g28600, EC 3.1.1.- (Extracellular lipase At1g28600) 	911.61 	silver
+Q8S0A4	No annotation 	arabidopsis	Q9LIQ9	Protein BLISTER (Protein KOLD SENSITIV-1) 	1285.96 	platinum
+Q8S1S3	No annotation 	arabidopsis	Q9M2V5	ABC transporter G family member 18, ABC transporter ABCG.18, AtABCG18 (Probable white-brown complex homolog protein 18, AtWBC18) 	1898.07 	silver
+Q8S213	No annotation 	sorghum	C5XJW5	Exocyst complex component 	2291.29 	platinum
+Q8S9U1	No annotation 	sorghum	C5XN34	PWWP domain-containing protein 	1266.07 	platinum
+Q8S9U5	No annotation 	sorghum	C5XMZ0	Glutathione transferase, EC 2.5.1.18 	629.89 	gold
+Q942L1	Os01g0340100 protein (Uncharacterized protein B1088D01.23) 	sorghum	C5XJU0	MADS-box domain-containing protein 	632.89 	gold
+Q94CV3	No annotation 	sorghum	A0A1W0W0J4	Transcription repressor (Ovate family protein) 	385.36 	silver
+Q94D20	No annotation 	sorghum	C5XQ74	Peptidase A1 domain-containing protein 	1266.68 	platinum
+Q94E60	No annotation 	sorghum	C5XNE2	VOC domain-containing protein 	459.97 	platinum
+Q9AX97	No annotation 	sorghum	A0A1B6Q4V6	AAA domain-containing protein 	1912.13 	gold
+Q9FP39	No annotation 	arabidopsis	O22264	Transcription factor MYB12 (Myb-related protein 12, AtMYB12) (Protein PRODUCTION OF FLAVONOL GLYCOSIDES 1) 	547.17 	gold
+Q9FTS0	No annotation 	arabidopsis	Q9CA28	Tetraketide alpha-pyrone reductase 2, EC 1.1.1.- (Protein CINNAMOYL-COA REDUCTASE-LIKE 6) 	878.03 	platinum
+Q9FU66	No annotation 	sorghum	A0A1B6Q1D3	DYW_deaminase domain-containing protein 	1842.65 	platinum
+Q9LGA3	No annotation 	human	Q6NUQ4	Transmembrane protein 214 	922.06 	gold
+Q9LGB3	No annotation 	sorghum	C5XQV2	BOWMAN_BIRK domain-containing protein 	236.75 	gold
+Q9LWE4	No annotation 	sorghum	C5XL46	Fe2OG dioxygenase domain-containing protein 	730.32 	gold
+Q6ZIC7	No annotation 	sorghum	A0A1Z5RAR0	Ubiquitinyl hydrolase 1, EC 3.4.19.12 	1097.25 	silver
+Q75HQ7	No annotation 	sorghum	C5XXU3	Phenylalanine ammonia-lyase, EC 4.3.1.24 	2076.62 	silver
+Q75KT7	No annotation 	arabidopsis	Q8L518	Probable choline kinase 2, EC 2.7.1.32 	983.56 	platinum
+Q7Y1I5	No annotation 	sorghum	C5WX74	Ribos_L4_asso_C domain-containing protein 	1186.44 	gold
+Q5N7X6	Os01g0912000 protein (Uncharacterized protein P0470A12.19) 	sorghum	A0A1W0W153	MADS-box domain-containing protein 	419.13 	silver
+Q5QM88	No annotation 	sorghum	A0A1W0VYX9	Peptidase A1 domain-containing protein 	793.15 	silver
+Q5VPR2	No annotation 	sorghum	A0A1B6PU59	DUF4220 domain-containing protein 	1729.01 	silver
+Q655F1	No annotation 	sorghum	A0A1W0VUH5	F-box domain-containing protein 	892.30 	silver
+Q6EQG6	No annotation 	sorghum	A0A1B6PPL3	SHSP domain-containing protein 	314.98 	silver
+Q0J0T2	No annotation 	soybean	K7L9H2	BED-type domain-containing protein 	1573.33 	silver
+Q36996	Uncharacterized protein ycf72 (ORF137) 	soybean	A0A0R0GHX9	Uncharacterized protein ycf72 	56.84 	gold
+Q5JL05	No annotation 	soybean	I1NHV3	DUF4220 domain-containing protein 	1666.46 	gold
+Q5NAR7	No annotation 	soybean	A0A0R0FYJ2	Protein kinase domain-containing protein 	3418.91 	platinum
+Q5QLC6	No annotation 	soybean	I1M7T1	Protein kinase domain-containing protein 	1333.16 	gold
+Q5Z9Z8	No annotation 	arabidopsis	Q9SLL7	60S ribosomal protein L31-1 	335.41 	platinum
+Q5ZCH7	No annotation 	soybean	I1K305	Cas1_AcylT domain-containing protein 	1479.13 	gold
+Q60EL4	No annotation 	arabidopsis	Q9LZM2	Uncharacterized protein At5g02090 (Uncharacterized protein At5g02090/T7H20_140) (Uncharacterized protein T7H20_140) 	91.51 	gold
+Q6ER41	No annotation 	soybean	K7LW74	HTH myb-type domain-containing protein 	407.31 	silver
+Q6K5R5	No annotation 	arabidopsis	Q9M2F1	40S ribosomal protein S27-2 	239.94 	platinum
+Q6L4H2	Os05g0550000 protein (Uncharacterized protein P0560C03.4) 	soybean	I1L494	RING-type domain-containing protein 	577.73 	silver
+Q6Z538	No annotation 	soybean	K7L9U3	NAC domain-containing protein 	754.50 	platinum
+Q75IR7	No annotation 	arabidopsis	O23247	Arginine--tRNA ligase, chloroplastic/mitochondrial, EC 6.1.1.19 (Arginyl-tRNA synthetase, ArgRS) (Protein EMBRYO DEFECTIVE 1027) 	1692.06 	platinum
+Q84SE2	No annotation 	arabidopsis	Q9ZVQ2	NAD(P)-binding Rossmann-fold superfamily protein (Putative cinnamoyl-CoA reductase) 	851.10 	gold
+Q8GS68	No annotation 	soybean	A0A0R0JXG8	Flavin-containing monooxygenase, EC 1.-.-.- 	1177.80 	silver
+Q8RU96	No annotation 	soybean	I1N068	KH domain-containing protein 	627.44 	platinum
+B9GA71	No annotation 	arabidopsis	Q9SLM8	Pectin lyase-like superfamily protein (Putative polygalacturonase) 	1052.69 	silver
+Q5JMD6	No annotation 	soybean	K7N489	PUM-HD domain-containing protein 	1780.80 	silver
+Q67V92	No annotation 	soybean	I1KXJ6	PMR5N domain-containing protein 	1059.05 	silver
+Q69S88	No annotation 	soybean	I1MYS4	DUF4057 domain-containing protein 	593.48 	gold
+Q6YY35	No annotation 	arabidopsis	A0A178W2N2	Heavy metal-associated domain protein 	232.30 	silver
+Q6ZBQ6	No annotation 	soybean	I1KWL2	1-phosphatidylinositol 4-kinase, EC 2.7.1.67 	1440.94 	silver
+Q6ZIU0	No annotation 	soybean	A0A0R0E484	LRRNT_2 domain-containing protein 	2279.75 	silver
+Q7EYS1	No annotation 	soybean	C6SWA1	CX9C domain-containing protein 	210.82 	gold
+Q8GSZ2	Os01g0535100 protein (Uncharacterized protein OSJNBa0086A10.12) 	arabidopsis	Q9STJ0	RING/U-box superfamily protein (Uncharacterized protein AT4g12210) (Uncharacterized protein T4C9.50) 	339.38 	gold
+Q8RZJ5	Os01g0632000 protein (Uncharacterized protein B1158C05.16) 	arabidopsis	Q8L623	Transmembrane protein (Uncharacterized protein At4g34560) 	323.38 	gold
+Q94DM9	No annotation 	soybean	I1LI00	V-type proton ATPase proteolipid subunit 	479.39 	silver
+Q9FU68	No annotation 	arabidopsis	Q9ZQ98	UDP-glycosyltransferase 73C2, EC 2.4.1.- 	1375.96 	silver
+Q5ZCE7	Os01g0780100 protein (Uncharacterized protein P0010B10.22) 	soybean	K7KDQ5	RNase H type-1 domain-containing protein 	277.81 	silver
+Q69IX0	No annotation 	soybean	I1K269	Protein RER1 	466.89 	silver
+Q69LJ8	No annotation 	soybean	K7L5E5	2Fe-2S ferredoxin-type domain-containing protein 	470.07 	silver
+Q7XUM9	No annotation 	soybean	C6TNN4	Mitochondrial import inner membrane translocase subunit 	217.87 	silver
+Q94CT0	No annotation 	arabidopsis	O80807	Agamous-like MADS-box protein AGL23 	416.54 	silver
+A3B9U0	No annotation 	arabidopsis	Q9LV83	Emb|CAB62602.1 (Mitochondrial transcription termination factor family protein) 	826.92 	silver
+Q0IQ77	No annotation 	arabidopsis	Q9M1J2	DNA-directed RNA polymerase V subunit 5A 	590.80 	silver
+Q0JR06	No annotation 	arabidopsis	Q9C9G7	Transcription factor MYB62 (Myb-related protein 62, AtMYB62) 	529.44 	silver
+Q5NBU0	Os01g0253900 protein (Uncharacterized protein P0705D01.7-1) 	arabidopsis	F4HXL0	Phospholipase A1 PLIP2, chloroplastic, EC 3.1.1.32 (Galactolipase PLIP2, EC 3.1.1.26) (Protein PLASTID LIPASE 2) 	1467.34 	platinum
+Q5W645	No annotation 	arabidopsis	Q9LW88	Nuclear pore complex protein NUP50B (Nucleoporin 50B) 	822.93 	platinum
+Q65XC8	No annotation 	arabidopsis	O48538	Respiratory burst oxidase homolog protein F, EC 1.11.1.-, EC 1.6.3.- (Cytochrome b245 beta chain homolog RbohAp108) (NADPH oxidase RBOHF, AtRBOHF) 	2447.17 	platinum
+Q6K545	No annotation 	arabidopsis	Q1G3U8	VQ motif-containing protein 1, AtVQ1 	121.04 	silver
+Q6Z478	No annotation 	arabidopsis	Q9FE68	UDP-glycosyltransferase 71C5, EC 2.4.1.- 	999.53 	silver
+Q6Z537	No annotation 	arabidopsis	Q42351	60S ribosomal protein L34-1 	335.65 	silver
+Q6Z7L1	No annotation 	arabidopsis	Q9LDZ0	Heat shock 70 kDa protein 10, mitochondrial (Chaperone protein HscA homolog 2, AtHscA2) (Heat shock protein 70-10, AtHsp70-10) (Mitochondrial heat shock protein 70-2, mtHsc70-2) 	1968.26 	platinum
+Q7XWK0	No annotation 	arabidopsis	Q9FWZ1	F-box/LRR-repeat protein 13 	455.87 	silver
+Q8RZL9	No annotation 	arabidopsis	Q9FLV8	Putative F-box/kelch-repeat protein At5g24040 	470.81 	silver
+Q8S2I4	No annotation 	arabidopsis	Q9FME8	Oligopeptide transporter 4, AtOPT4 	2073.79 	gold
+Q8S3T0	Os02g0709350 protein (Uncharacterized protein 49D11.2) 	arabidopsis	Q56ZA1	At1g74055 (Transmembrane protein) (Uncharacterized protein At1g74055) 	150.45 	gold
+Q9ASE0	No annotation 	arabidopsis	Q9SZN1	V-type proton ATPase subunit B2, V-ATPase subunit B2 (Vacuolar H(+)-ATPase subunit B isoform 2) (Vacuolar proton pump subunit B2) 	1436.94 	platinum
+Q9ASP4	No annotation 	arabidopsis	Q9M5K3	Dihydrolipoyl dehydrogenase 1, mitochondrial, AtmLPD1, mtLPD1, EC 1.8.1.4 (Dihydrolipoamide dehydrogenase 1) (Glycine cleavage system L protein 1) (Pyruvate dehydrogenase complex E3 subunit 1, E3-1, PDC-E3 1) 	1460.37 	platinum
+Q5KQJ9	No annotation 	arabidopsis	F4HQD4	Heat shock 70 kDa protein 15 (Heat shock protein 70-15, AtHsp70-15) 	2275.84 	silver
+Q5SN38	No annotation 	arabidopsis	F4JQR9	Serine/Threonine-kinase, putative (DUF1296) 	864.96 	silver
+Q6YSY7	No annotation 	arabidopsis	Q8LC59	GATA transcription factor 23 	205.54 	silver
+Q6YU84	No annotation 	arabidopsis	Q8GUM3	Amino acid permease 5 (Amino acid transporter AAP5) 	1313.97 	silver
+Q6ZJX8	No annotation 	arabidopsis	Q9LRJ9	Cysteine-rich repeat secretory protein 38 	629.63 	silver
+Q94J26	No annotation 	arabidopsis	Q93YW8	GDSL esterase/lipase At4g18970, EC 3.1.1.- (Extracellular lipase At4g18970) 	1022.29 	silver
+Q6Z107	No annotation 	arabidopsis	F4JI10	Protein kinase superfamily protein 	1148.38 	silver
+Q651B8	No annotation 	human	Q9Y3C5	RING finger protein 11 	165.84 	silver
+Q67J27	No annotation 	human	P05937	Calbindin (Calbindin D28) (D-28K) (Vitamin D-dependent calcium-binding protein, avian-type) 	175.11 	silver
+Q94D33	No annotation 	human	Q495N2	Proton-coupled amino acid transporter 3, Proton/amino acid transporter 3 (Solute carrier family 36 member 3) (Tramdorin-2) 	971.60 	silver
+Q6ZGK3	No annotation 	human	Q7Z7H5	Transmembrane emp24 domain-containing protein 4 (Endoplasmic reticulum stress-response protein 25, ERS25) (GMP25iso) (Putative NF-kappa-B-activating protein 156) (p24 family protein alpha-3, p24alpha3) 	525.22 	silver
+Q7XQG9	No annotation 	human	Q9NUJ3	T-complex protein 11-like protein 1 	888.97 	silver
+Q8H5X9	No annotation 	human	Q16594	Transcription initiation factor TFIID subunit 9 (RNA polymerase II TBP-associated factor subunit G) (STAF31/32) (Transcription initiation factor TFIID 31 kDa subunit, TAFII-31, TAFII31) (Transcription initiation factor TFIID 32 kDa subunit, TAFII-32, TAFII32) 	452.30 	silver
+Q93VP0	No annotation 	human	Q96MV1	TLC domain-containing protein 4 (Transmembrane protein 56) 	675.22 	gold
+Q6Z1H2	No annotation 	cerevisiae	P57744	Mitochondrial import inner membrane translocase subunit TIM8 	202.91 	gold
+Q5QMX1	No annotation 	pombe	Q10353	Ribosome biogenesis protein rlp24 	440.19 	platinum
+Q5WN07	No annotation 	cerevisiae	Q08773	ISWI chromatin-remodeling complex ATPase ISW2, EC 3.6.4.- (Imitation switch protein 2) 	2341.37 	platinum
+Q7XI32	No annotation 	cerevisiae	P87108	Mitochondrial import inner membrane translocase subunit TIM10 (Mitochondrial intermembrane protein MRS11) 	212.99 	platinum
+Q9LIZ8	No annotation 	cerevisiae	P46655	Glutamate--tRNA ligase, cytoplasmic, EC 6.1.1.17 (Glutamyl-tRNA synthetase, (c)ERS, GluRS) (P85) 	1750.87 	platinum
+Q8H588	No annotation 	cerevisiae	P0CX55	40S ribosomal protein S18-A (Small ribosomal subunit protein uS13-A) 	407.63 	silver

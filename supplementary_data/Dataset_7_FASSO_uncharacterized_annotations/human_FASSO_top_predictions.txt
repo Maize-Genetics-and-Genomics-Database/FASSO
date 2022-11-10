@@ -1,0 +1,10 @@
+Q6ICG6	Uncharacterized protein KIAA0930 	maize	A0A1D6KAV4	CW7 	438.76 	gold
+Q7Z695	Uncharacterized aarF domain-containing protein kinase 2, EC 2.7.11.- 	maize	A0A1D6DVD3	Protein kinase-like 	1113.22 	platinum
+Q96MD7	Uncharacterized protein C9orf85 	maize	B4FCQ1	DUF2039 family protein 	286.74 	platinum
+Q8NG57	No annotation 	maize	A0A1D6K1S3	Protein PHOSPHATE STARVATION RESPONSE 1 	603.16 	silver
+Q9NSG2	Uncharacterized protein C1orf112 	arabidopsis	F4I5R5	Holliday junction resolvase 	1619.88 	gold
+P0DN79	No annotation 	maize	A0A1D6EB44	Cysteine synthase, EC 2.5.1.47 	818.98 	silver
+Q5VZ46	Uncharacterized protein KIAA1614 	arabidopsis	Q9LQI8	F28G4.18 protein (LOW protein: protein phosphatase 1 regulatory subunit-like protein) 	832.05 	silver
+A0A140G945	No annotation 	soybean	I1ND86	SHSP domain-containing protein 	219.85 	silver
+Q3MIX3	Uncharacterized aarF domain-containing protein kinase 5, EC 2.7.11.- 	arabidopsis	F4ID59	Protein kinase superfamily protein 	1342.88 	silver
+O94854	Microtubule-actin cross-linking factor 1, isoforms 6/7 (Uncharacterized protein KIAA0754) 	pombe	O42854	SH3 domain-containing protein C23A1.17 	1342.92 	silver
