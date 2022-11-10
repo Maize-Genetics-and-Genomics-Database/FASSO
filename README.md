@@ -34,6 +34,7 @@ FASSO/
 ├── php
 ├── python
 ├── structure_orthologs
+├── supplementary_data
 ├── support_scripts
 ├── top_hits
 └── venn
