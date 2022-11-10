@@ -117,5 +117,3 @@ Step 0 : Download PDB structures from EBI Alphafold database, create FASTA files
  ```bash
   s10_annotation.sh 
  ```
-# Test data
-
