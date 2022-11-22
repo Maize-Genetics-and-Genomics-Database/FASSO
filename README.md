@@ -5,7 +5,7 @@ Functional Annotations using Sequence and Structure Orthology
 FASSO generates structure-based orthologs by combining three methods (Diamond, FoldSeek, and Fatcat) and assigns UniProt function annotations.
 
 # Citation
-Andorf et al. "An AlphaFold based method to assign functional annotations combining sequence and structure orthology." bioRxiv, October 2022.
+Andorf, Carson M., Shatabdi Sen, Rita K. Hayford, John L. Portwood, Ethalinda K. Cannon, Lisa C. Harper, Jack M. Gardiner, Taner Z. Sen, and Margaret R. Woodhouse. 2022. “FASSO: An AlphaFold Based Method to Assign Functional Annotations by Combining Sequence and Structure Orthology.” bioRxiv. https://doi.org/10.1101/2022.11.10.516002. 
 
 # FASSO directory structure
 
