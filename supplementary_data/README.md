@@ -31,15 +31,22 @@ The dataset contains all the maize datasets from this paper including FASSO orth
 ```bash
 FASSO/
 ├──supplementary_data
-    ├── alignments
-        ├── fasta_files
-        ├── flag
-        ├── lists
-           ├── matrix
-        └── splits
-    ├── annotations
-        └── uniprot
-    └── venn
+    ├── Dataset_1_diamond_foldseek_fatcat_annotations
+        ├── annotations
+        └── orthologs
+    ├── Dataset_2_FASSO_orthologs
+    ├── Dataset_3_FASSO_annotations
+        ├── FASSO_annotations
+        └── Uniprot_annotations
+    ├── Dataset_4_top_ten_hitss
+    ├── Dataset_5_heat_maps
+    ├── Dataset_6_venn_diagrams
+    ├── Dataset_7_FASSO_uncharacterized_annotations  
+    └── Dataset_8_maize_annotations
+        ├── FASSO_annotations
+        ├── FASSO_orthologs
+        ├── FASSO_uncharacterized_annotations
+        ├── diamond_foldseek_fatcat_annotations
+        ├── top_ten_hits
+        └── venn_diagram
 ```
-
-# Running FASSO
