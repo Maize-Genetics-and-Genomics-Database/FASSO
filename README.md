@@ -93,7 +93,7 @@ Step 0 : Download PDB structures from EBI Alphafold database, create FASTA files
  ```bash
  s4_runFatcat.sh 
  ```
- Step 5 : Merge FatCat alignemnts and compare against Diamond and FoldSeek alignments. It creates multiple output files - all Fatcat hits, Top 10 Fatcat hits, heatmap matrices, and flagged annotations.
+ Step 5 : Merge FatCat alignments and compare against Diamond and FoldSeek alignments. It creates multiple output files - all Fatcat hits, Top 10 Fatcat hits, heatmap matrices, and flagged annotations.
  ```bash
  s5_mergeFatcatAlignments.sh
  ```
