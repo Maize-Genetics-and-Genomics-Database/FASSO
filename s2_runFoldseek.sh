@@ -13,13 +13,11 @@ BASE_DIR=~/FASSO/
 TARGET_DB=${SPECIES2}DB
 QUERY_DIR=${BASE_DIR}/pdb/${SPECIES1}/
 NAME=${SPECIES1}_${SPECIES2}
-NAME2=${SPECIES2}_${SPECIES1}
 TARGET_DIR=${BASE_DIR}foldseek/db/${TARGET_DB}
 SPLIT_DIR=${BASE_DIR}alignments/splits/${SPECIES1}/
 OUT_DIR=${BASE_DIR}alignments/${NAME}/foldseek/
 
 mkdir ${BASE_DIR}alignments/${NAME}
-ln -s ${BASE_DIR}alignments/${NAME} ${BASE_DIR}alignments/${NAME2}
 mkdir ${OUT_DIR}
 
 filelist=$(ls ${SPLIT_DIR})
@@ -37,7 +35,7 @@ TARGET_DIR=${BASE_DIR}foldseek/db/${TARGET_DB}
 SPLIT_DIR=${BASE_DIR}alignments/splits/${SPECIES2}/
 OUT_DIR=${BASE_DIR}alignments/${NAME}/foldseek/
 
-${BASE_DIR}alignments/${NAME}
+mkdir ${BASE_DIR}alignments/${NAME}
 mkdir ${OUT_DIR}
 
 filelist=$(ls ${SPLIT_DIR})
