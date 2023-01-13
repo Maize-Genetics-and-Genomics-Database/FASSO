@@ -1,16 +1,6 @@
 #!/bin/bash
-#SBATCH -A maizegdb
-#SBATCH --job-name="splitFC"   #name of this job
-#SBATCH -p priority          #name of the partition (queue) you are submitting to
-#SBATCH --qos=maizegdb          #name of the partition (queue) you are submitting to
-#SBATCH --mem=10GB                  # Real memory (RAM) required (MB), 0 is the whole-node memory
-#SBATCH --ntasks=2
-#SBATCH --nodes=1
-#SBATCH -t 44:00:00           #time allocated for this job hours:mins:seconds
-#SBATCH --mail-user=carson.andorf@usda.gov   #enter your email address to receive emails
-#SBATCH --mail-type=BEGIN,END,FAIL #will receive an email when job starts, ends or fails
-#SBATCH -o "./log/stdinn.%j.%N"     # standard output, %j adds job number to output file name and %N adds the node name
-#SBATCH -e ./log/"stderr.%j.%N"     #optional, prints our standard error
+#SBATCH CODE GOES HERE
+
 date                          #optional, prints out timestamp at the start of the job in stdout file
 
 SPECIES1=$1
